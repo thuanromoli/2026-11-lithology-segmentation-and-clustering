@@ -1,0 +1,357 @@
+{
+  "image": "60811405800000_608114058000_g16786_001_00_00_md5_mud_show_2.tif",
+  "image_size": [
+    1534,
+    2600
+  ],
+  "depth_fit": {
+    "px_per_ft": 10.0,
+    "labels_used": 5,
+    "labels_read": 5,
+    "labels_rejected": 0,
+    "mean_residual_ft": 0.0,
+    "label_rotation_deg": 0,
+    "chunks_ocrd": "1/1",
+    "labels": [
+      [
+        1571.7,
+        22870.0
+      ],
+      [
+        1771.7,
+        22890.0
+      ],
+      [
+        1971.7,
+        22910.0
+      ],
+      [
+        2171.7,
+        22930.0
+      ],
+      [
+        2371.7,
+        22950.0
+      ]
+    ]
+  },
+  "legend": [
+    {
+      "name": "Siltstone",
+      "box": [
+        28,
+        658,
+        92,
+        706
+      ],
+      "white": false
+    },
+    {
+      "name": "Fine Sandstone",
+      "box": [
+        343,
+        658,
+        407,
+        706
+      ],
+      "white": false
+    },
+    {
+      "name": "Halite",
+      "box": [
+        658,
+        658,
+        721,
+        706
+      ],
+      "white": false
+    },
+    {
+      "name": "Shale",
+      "box": [
+        972,
+        658,
+        1036,
+        706
+      ],
+      "white": false
+    },
+    {
+      "name": "Claystone",
+      "box": [
+        1287,
+        658,
+        1351,
+        706
+      ],
+      "white": false
+    },
+    {
+      "name": "Limestone",
+      "box": [
+        28,
+        728,
+        92,
+        776
+      ],
+      "white": false
+    },
+    {
+      "name": "Dolomite",
+      "box": [
+        343,
+        728,
+        407,
+        776
+      ],
+      "white": false
+    },
+    {
+      "name": "Marl",
+      "box": [
+        658,
+        728,
+        721,
+        776
+      ],
+      "white": false
+    },
+    {
+      "name": "Dolomitic Limestone",
+      "box": [
+        972,
+        728,
+        1036,
+        776
+      ],
+      "white": false
+    },
+    {
+      "name": "Chalk",
+      "box": [
+        1287,
+        728,
+        1351,
+        776
+      ],
+      "white": false
+    },
+    {
+      "name": "Gypsum",
+      "box": [
+        28,
+        798,
+        92,
+        847
+      ],
+      "white": false
+    },
+    {
+      "name": "Anhydrite",
+      "box": [
+        343,
+        798,
+        407,
+        847
+      ],
+      "white": false
+    },
+    {
+      "name": "Chert",
+      "box": [
+        658,
+        798,
+        721,
+        847
+      ],
+      "white": false
+    },
+    {
+      "name": "Volcanic",
+      "box": [
+        972,
+        798,
+        1036,
+        847
+      ],
+      "white": false
+    },
+    {
+      "name": "Granite",
+      "box": [
+        1287,
+        798,
+        1351,
+        847
+      ],
+      "white": false
+    },
+    {
+      "name": "Oil and Gas",
+      "box": [
+        28,
+        868,
+        92,
+        917
+      ],
+      "white": false
+    },
+    {
+      "name": "Gas_Good",
+      "box": [
+        343,
+        868,
+        407,
+        917
+      ],
+      "white": false
+    },
+    {
+      "name": "Dry",
+      "box": [
+        658,
+        868,
+        721,
+        917
+      ],
+      "white": false
+    },
+    {
+      "name": "Fresh water",
+      "box": [
+        972,
+        868,
+        1036,
+        917
+      ],
+      "white": false
+    },
+    {
+      "name": "Salt water",
+      "box": [
+        1287,
+        868,
+        1351,
+        917
+      ],
+      "white": false
+    },
+    {
+      "name": "Mud gain",
+      "box": [
+        28,
+        938,
+        92,
+        987
+      ],
+      "white": false
+    },
+    {
+      "name": "Mud loss",
+      "box": [
+        343,
+        938,
+        407,
+        987
+      ],
+      "white": false
+    },
+    {
+      "name": "FIT",
+      "box": [
+        972,
+        938,
+        1036,
+        987
+      ],
+      "white": false
+    },
+    {
+      "name": "Casing shoe",
+      "box": [
+        1287,
+        938,
+        1351,
+        987
+      ],
+      "white": false
+    },
+    {
+      "name": "Survey",
+      "box": [
+        658,
+        938,
+        721,
+        987
+      ],
+      "white": false
+    }
+  ],
+  "identical_legend_symbols": [],
+  "n_groups": 2,
+  "snap_grid": null,
+  "warnings": [],
+  "timings_s": {
+    "depth": 0.23,
+    "segment": 0.01,
+    "legend": 0.65,
+    "intervals": 0.01,
+    "total": 0.9
+  },
+  "intervals": [
+    {
+      "top_depth": 22870.43,
+      "bottom_depth": 22901.63,
+      "lithology": "Fine Sandstone",
+      "cluster_id": 0,
+      "top_y": 1576,
+      "bottom_y": 1888,
+      "confidence": 0.856,
+      "ambiguous": false,
+      "alternatives": [
+        "Chert",
+        "Volcanic"
+      ]
+    },
+    {
+      "top_depth": 22901.63,
+      "bottom_depth": 22913.03,
+      "lithology": "Shale",
+      "cluster_id": 1,
+      "top_y": 1888,
+      "bottom_y": 2002,
+      "confidence": 0.634,
+      "ambiguous": false,
+      "alternatives": [
+        "Claystone"
+      ]
+    },
+    {
+      "top_depth": 22913.03,
+      "bottom_depth": 22958.53,
+      "lithology": "Fine Sandstone",
+      "cluster_id": 0,
+      "top_y": 2002,
+      "bottom_y": 2457,
+      "confidence": 0.856,
+      "ambiguous": false,
+      "alternatives": [
+        "Chert",
+        "Volcanic"
+      ]
+    },
+    {
+      "top_depth": 22958.53,
+      "bottom_depth": 22970.33,
+      "lithology": "Shale",
+      "cluster_id": 1,
+      "top_y": 2457,
+      "bottom_y": 2575,
+      "confidence": 0.634,
+      "ambiguous": false,
+      "alternatives": [
+        "Claystone"
+      ]
+    }
+  ]
+}

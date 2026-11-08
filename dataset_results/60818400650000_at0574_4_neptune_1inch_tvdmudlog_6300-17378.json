@@ -1,0 +1,4914 @@
+{
+  "image": "60818400650000_at0574_4_neptune_1inch_tvdmudlog_6300-17378.tif",
+  "image_size": [
+    2307,
+    36050
+  ],
+  "depth_fit": {
+    "px_per_ft": 3.0029,
+    "labels_used": 34,
+    "labels_read": 39,
+    "labels_rejected": 5,
+    "mean_residual_ft": 0.103,
+    "label_rotation_deg": 0,
+    "chunks_ocrd": "9/9",
+    "labels": [
+      [
+        2989.5,
+        6400.0
+      ],
+      [
+        3591.5,
+        6600.0
+      ],
+      [
+        3891.5,
+        6700.0
+      ],
+      [
+        4191.5,
+        6800.0
+      ],
+      [
+        4491.5,
+        6900.0
+      ],
+      [
+        4791.5,
+        7000.0
+      ],
+      [
+        5091.5,
+        7100.0
+      ],
+      [
+        5391.5,
+        7200.0
+      ],
+      [
+        5691.5,
+        7300.0
+      ],
+      [
+        5991.5,
+        7400.0
+      ],
+      [
+        6291.5,
+        7500.0
+      ],
+      [
+        6895.5,
+        7700.0
+      ],
+      [
+        7195.5,
+        7800.0
+      ],
+      [
+        7495.5,
+        7900.0
+      ],
+      [
+        7795.5,
+        8000.0
+      ],
+      [
+        8095.5,
+        8100.0
+      ],
+      [
+        8395.5,
+        8200.0
+      ],
+      [
+        8695.5,
+        8300.0
+      ],
+      [
+        8995.5,
+        8400.0
+      ],
+      [
+        9295.5,
+        8500.0
+      ],
+      [
+        9595.5,
+        8600.0
+      ],
+      [
+        9898.0,
+        8700.0
+      ],
+      [
+        10200.5,
+        8800.0
+      ],
+      [
+        10500.5,
+        8900.0
+      ],
+      [
+        10800.5,
+        9000.0
+      ],
+      [
+        11100.5,
+        9100.0
+      ],
+      [
+        11400.5,
+        9200.0
+      ],
+      [
+        12000.5,
+        9400.0
+      ],
+      [
+        12300.5,
+        9500.0
+      ],
+      [
+        12600.5,
+        9600.0
+      ],
+      [
+        12900.5,
+        9700.0
+      ],
+      [
+        13202.0,
+        9800.0
+      ],
+      [
+        13504.5,
+        9900.0
+      ],
+      [
+        16510.5,
+        10904.0
+      ]
+    ]
+  },
+  "legend": [
+    {
+      "name": "Siltstone",
+      "box": [
+        23,
+        1210,
+        118,
+        1283
+      ],
+      "white": true
+    },
+    {
+      "name": "Sandstone",
+      "box": [
+        495,
+        1210,
+        592,
+        1283
+      ],
+      "white": false
+    },
+    {
+      "name": "Salt",
+      "box": [
+        968,
+        1210,
+        1066,
+        1283
+      ],
+      "white": false
+    },
+    {
+      "name": "Shale",
+      "box": [
+        1442,
+        1210,
+        1538,
+        1283
+      ],
+      "white": false
+    },
+    {
+      "name": "Limestone",
+      "box": [
+        1916,
+        1210,
+        2011,
+        1283
+      ],
+      "white": false
+    },
+    {
+      "name": "Tuff",
+      "box": [
+        23,
+        1315,
+        118,
+        1388
+      ],
+      "white": false
+    },
+    {
+      "name": "Dolomite",
+      "box": [
+        495,
+        1315,
+        592,
+        1388
+      ],
+      "white": false
+    },
+    {
+      "name": "Marl",
+      "box": [
+        968,
+        1315,
+        1066,
+        1388
+      ],
+      "white": false
+    },
+    {
+      "name": "Chert",
+      "box": [
+        1442,
+        1315,
+        1538,
+        1388
+      ],
+      "white": false
+    },
+    {
+      "name": "Conglomerate",
+      "box": [
+        1917,
+        1315,
+        2011,
+        1388
+      ],
+      "white": false
+    },
+    {
+      "name": "Granite",
+      "box": [
+        1916,
+        1420,
+        2011,
+        1493
+      ],
+      "white": false
+    },
+    {
+      "name": "Clay/Shale",
+      "box": [
+        23,
+        1420,
+        118,
+        1493
+      ],
+      "white": false
+    },
+    {
+      "name": "Anhydrite",
+      "box": [
+        495,
+        1420,
+        592,
+        1493
+      ],
+      "white": false
+    },
+    {
+      "name": "Gypsum",
+      "box": [
+        968,
+        1420,
+        1066,
+        1493
+      ],
+      "white": false
+    },
+    {
+      "name": "Coal-lignite",
+      "box": [
+        1442,
+        1420,
+        1538,
+        1493
+      ],
+      "white": false
+    },
+    {
+      "name": "Mud loss",
+      "box": [
+        24,
+        1526,
+        118,
+        1598
+      ],
+      "white": false
+    },
+    {
+      "name": "Mud gain",
+      "box": [
+        496,
+        1526,
+        592,
+        1598
+      ],
+      "white": false
+    },
+    {
+      "name": "Shoe",
+      "box": [
+        969,
+        1526,
+        1066,
+        1598
+      ],
+      "white": false
+    },
+    {
+      "name": "Oil",
+      "box": [
+        1443,
+        1526,
+        1538,
+        1598
+      ],
+      "white": false
+    },
+    {
+      "name": "Oil and Gas",
+      "box": [
+        1917,
+        1526,
+        2011,
+        1598
+      ],
+      "white": false
+    },
+    {
+      "name": "Gas",
+      "box": [
+        24,
+        1632,
+        118,
+        1704
+      ],
+      "white": false
+    },
+    {
+      "name": "Connection Gas",
+      "box": [
+        516,
+        1644,
+        572,
+        1689
+      ],
+      "white": false
+    },
+    {
+      "name": "Pumps Off Gas",
+      "box": [
+        990,
+        1644,
+        1046,
+        1689
+      ],
+      "white": false
+    },
+    {
+      "name": "Formation Gas",
+      "box": [
+        1461,
+        1644,
+        1519,
+        1689
+      ],
+      "white": false
+    },
+    {
+      "name": "Background Gas",
+      "box": [
+        1936,
+        1645,
+        1994,
+        1690
+      ],
+      "white": false
+    }
+  ],
+  "identical_legend_symbols": [],
+  "n_groups": 29,
+  "snap_grid": null,
+  "warnings": [],
+  "timings_s": {
+    "depth": 2.6,
+    "segment": 0.31,
+    "legend": 0.56,
+    "intervals": 0.13,
+    "total": 3.6
+  },
+  "intervals": [
+    {
+      "top_depth": 9364.5,
+      "bottom_depth": 9369.17,
+      "lithology": "Chert",
+      "cluster_id": 20,
+      "top_y": 11894,
+      "bottom_y": 11908,
+      "confidence": 0.017,
+      "ambiguous": true,
+      "alternatives": [
+        "Gypsum",
+        "Salt",
+        "Anhydrite"
+      ]
+    },
+    {
+      "top_depth": 9369.17,
+      "bottom_depth": 9378.5,
+      "lithology": "Granite",
+      "cluster_id": 5,
+      "top_y": 11908,
+      "bottom_y": 11936,
+      "confidence": 0.011,
+      "ambiguous": true,
+      "alternatives": [
+        "Salt",
+        "Chert"
+      ]
+    },
+    {
+      "top_depth": 9378.5,
+      "bottom_depth": 9382.5,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 11936,
+      "bottom_y": 11948,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 9382.5,
+      "bottom_depth": 9386.5,
+      "lithology": "Chert",
+      "cluster_id": 15,
+      "top_y": 11948,
+      "bottom_y": 11960,
+      "confidence": 0.018,
+      "ambiguous": true,
+      "alternatives": [
+        "Salt",
+        "Gypsum",
+        "Granite"
+      ]
+    },
+    {
+      "top_depth": 9386.5,
+      "bottom_depth": 9393.17,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 11960,
+      "bottom_y": 11980,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 9393.17,
+      "bottom_depth": 9397.83,
+      "lithology": "Chert",
+      "cluster_id": 7,
+      "top_y": 11980,
+      "bottom_y": 11994,
+      "confidence": 0.762,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 9397.83,
+      "bottom_depth": 9402.5,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 11994,
+      "bottom_y": 12008,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 9402.5,
+      "bottom_depth": 9409.5,
+      "lithology": "Granite",
+      "cluster_id": 5,
+      "top_y": 12008,
+      "bottom_y": 12029,
+      "confidence": 0.011,
+      "ambiguous": true,
+      "alternatives": [
+        "Salt",
+        "Chert"
+      ]
+    },
+    {
+      "top_depth": 9409.5,
+      "bottom_depth": 9412.17,
+      "lithology": "Coal-lignite",
+      "cluster_id": 24,
+      "top_y": 12029,
+      "bottom_y": 12037,
+      "confidence": 0.001,
+      "ambiguous": true,
+      "alternatives": [
+        "Shale",
+        "Clay/Shale",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 9412.17,
+      "bottom_depth": 9426.5,
+      "lithology": "Clay/Shale",
+      "cluster_id": 3,
+      "top_y": 12037,
+      "bottom_y": 12080,
+      "confidence": 0.072,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl",
+        "Shale",
+        "Oil"
+      ]
+    },
+    {
+      "top_depth": 9426.5,
+      "bottom_depth": 9429.17,
+      "lithology": "Granite",
+      "cluster_id": 5,
+      "top_y": 12080,
+      "bottom_y": 12088,
+      "confidence": 0.011,
+      "ambiguous": true,
+      "alternatives": [
+        "Salt",
+        "Chert"
+      ]
+    },
+    {
+      "top_depth": 9429.17,
+      "bottom_depth": 9446.5,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 12088,
+      "bottom_y": 12140,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 9446.5,
+      "bottom_depth": 9450.5,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 12140,
+      "bottom_y": 12152,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 9450.5,
+      "bottom_depth": 9454.17,
+      "lithology": "Clay/Shale",
+      "cluster_id": 8,
+      "top_y": 12152,
+      "bottom_y": 12163,
+      "confidence": 0.061,
+      "ambiguous": false,
+      "alternatives": [
+        "Shale",
+        "Marl",
+        "Oil"
+      ]
+    },
+    {
+      "top_depth": 9454.17,
+      "bottom_depth": 9466.5,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 12163,
+      "bottom_y": 12200,
+      "confidence": 0.994,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 9466.5,
+      "bottom_depth": 9471.17,
+      "lithology": "Chert",
+      "cluster_id": 15,
+      "top_y": 12200,
+      "bottom_y": 12214,
+      "confidence": 0.018,
+      "ambiguous": true,
+      "alternatives": [
+        "Salt",
+        "Gypsum",
+        "Granite"
+      ]
+    },
+    {
+      "top_depth": 9471.17,
+      "bottom_depth": 9490.5,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 12214,
+      "bottom_y": 12272,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 9490.5,
+      "bottom_depth": 9498.5,
+      "lithology": "Sandstone",
+      "cluster_id": 6,
+      "top_y": 12272,
+      "bottom_y": 12296,
+      "confidence": 0.003,
+      "ambiguous": true,
+      "alternatives": [
+        "Chert",
+        "Gypsum",
+        "Gas"
+      ]
+    },
+    {
+      "top_depth": 9498.5,
+      "bottom_depth": 9502.83,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 12296,
+      "bottom_y": 12309,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 9502.83,
+      "bottom_depth": 9506.5,
+      "lithology": "Gypsum",
+      "cluster_id": 22,
+      "top_y": 12309,
+      "bottom_y": 12320,
+      "confidence": 0.357,
+      "ambiguous": false,
+      "alternatives": [
+        "Anhydrite"
+      ]
+    },
+    {
+      "top_depth": 9506.5,
+      "bottom_depth": 9518.5,
+      "lithology": "Sandstone",
+      "cluster_id": 13,
+      "top_y": 12320,
+      "bottom_y": 12356,
+      "confidence": 0.237,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 9518.5,
+      "bottom_depth": 9534.5,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 12356,
+      "bottom_y": 12404,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 9534.5,
+      "bottom_depth": 9542.5,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 12404,
+      "bottom_y": 12428,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 9542.5,
+      "bottom_depth": 9578.5,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 12428,
+      "bottom_y": 12536,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 9578.5,
+      "bottom_depth": 9581.83,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 12536,
+      "bottom_y": 12546,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 9581.83,
+      "bottom_depth": 9587.5,
+      "lithology": "Shale",
+      "cluster_id": 16,
+      "top_y": 12546,
+      "bottom_y": 12563,
+      "confidence": 0.282,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 9587.5,
+      "bottom_depth": 9594.83,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 12563,
+      "bottom_y": 12585,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 9594.83,
+      "bottom_depth": 9599.17,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 12585,
+      "bottom_y": 12598,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 9599.17,
+      "bottom_depth": 9602.83,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 12598,
+      "bottom_y": 12609,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 9602.83,
+      "bottom_depth": 9606.83,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 12609,
+      "bottom_y": 12621,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 9606.83,
+      "bottom_depth": 9612.5,
+      "lithology": "Granite",
+      "cluster_id": 5,
+      "top_y": 12621,
+      "bottom_y": 12638,
+      "confidence": 0.011,
+      "ambiguous": true,
+      "alternatives": [
+        "Salt",
+        "Chert"
+      ]
+    },
+    {
+      "top_depth": 9612.5,
+      "bottom_depth": 9617.17,
+      "lithology": "Chert",
+      "cluster_id": 7,
+      "top_y": 12638,
+      "bottom_y": 12652,
+      "confidence": 0.762,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 9617.17,
+      "bottom_depth": 9622.83,
+      "lithology": "Shale",
+      "cluster_id": 17,
+      "top_y": 12652,
+      "bottom_y": 12669,
+      "confidence": 0.127,
+      "ambiguous": true,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 9622.83,
+      "bottom_depth": 9630.83,
+      "lithology": "Sandstone",
+      "cluster_id": 6,
+      "top_y": 12669,
+      "bottom_y": 12693,
+      "confidence": 0.003,
+      "ambiguous": true,
+      "alternatives": [
+        "Chert",
+        "Gypsum",
+        "Gas"
+      ]
+    },
+    {
+      "top_depth": 9630.83,
+      "bottom_depth": 9634.83,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 12693,
+      "bottom_y": 12705,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 9634.83,
+      "bottom_depth": 9638.83,
+      "lithology": "Chert",
+      "cluster_id": 15,
+      "top_y": 12705,
+      "bottom_y": 12717,
+      "confidence": 0.018,
+      "ambiguous": true,
+      "alternatives": [
+        "Salt",
+        "Gypsum",
+        "Granite"
+      ]
+    },
+    {
+      "top_depth": 9638.83,
+      "bottom_depth": 9642.83,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 12717,
+      "bottom_y": 12729,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 9642.83,
+      "bottom_depth": 9650.83,
+      "lithology": "Chert",
+      "cluster_id": 7,
+      "top_y": 12729,
+      "bottom_y": 12753,
+      "confidence": 0.762,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 9650.83,
+      "bottom_depth": 9659.17,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 12753,
+      "bottom_y": 12778,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 9659.17,
+      "bottom_depth": 9662.83,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 12778,
+      "bottom_y": 12789,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 9662.83,
+      "bottom_depth": 9670.83,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 12789,
+      "bottom_y": 12813,
+      "confidence": 0.994,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 9670.83,
+      "bottom_depth": 9678.83,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 12813,
+      "bottom_y": 12837,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 9678.83,
+      "bottom_depth": 9686.83,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 12837,
+      "bottom_y": 12861,
+      "confidence": 0.994,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 9686.83,
+      "bottom_depth": 9690.5,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 12861,
+      "bottom_y": 12872,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 9690.5,
+      "bottom_depth": 9694.83,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 12872,
+      "bottom_y": 12885,
+      "confidence": 0.994,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 9694.83,
+      "bottom_depth": 9698.83,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 12885,
+      "bottom_y": 12897,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 9698.83,
+      "bottom_depth": 9702.82,
+      "lithology": "Granite",
+      "cluster_id": 5,
+      "top_y": 12897,
+      "bottom_y": 12909,
+      "confidence": 0.011,
+      "ambiguous": true,
+      "alternatives": [
+        "Salt",
+        "Chert"
+      ]
+    },
+    {
+      "top_depth": 9702.82,
+      "bottom_depth": 9706.8,
+      "lithology": "Sandstone",
+      "cluster_id": 21,
+      "top_y": 12909,
+      "bottom_y": 12921,
+      "confidence": 0.915,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 9706.8,
+      "bottom_depth": 9712.77,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 12921,
+      "bottom_y": 12939,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 9712.77,
+      "bottom_depth": 9719.07,
+      "lithology": "Sandstone",
+      "cluster_id": 14,
+      "top_y": 12939,
+      "bottom_y": 12958,
+      "confidence": 0.331,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 9719.07,
+      "bottom_depth": 9722.72,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 12958,
+      "bottom_y": 12969,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 9722.72,
+      "bottom_depth": 9728.69,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 12969,
+      "bottom_y": 12987,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 9728.69,
+      "bottom_depth": 9736.65,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 12987,
+      "bottom_y": 13011,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 9736.65,
+      "bottom_depth": 9753.23,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 13011,
+      "bottom_y": 13061,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 9753.23,
+      "bottom_depth": 9756.88,
+      "lithology": "Gypsum",
+      "cluster_id": 22,
+      "top_y": 13061,
+      "bottom_y": 13072,
+      "confidence": 0.357,
+      "ambiguous": false,
+      "alternatives": [
+        "Anhydrite"
+      ]
+    },
+    {
+      "top_depth": 9756.88,
+      "bottom_depth": 9764.51,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 13072,
+      "bottom_y": 13095,
+      "confidence": 0.994,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 9764.51,
+      "bottom_depth": 9768.49,
+      "lithology": "Chert",
+      "cluster_id": 15,
+      "top_y": 13095,
+      "bottom_y": 13107,
+      "confidence": 0.018,
+      "ambiguous": true,
+      "alternatives": [
+        "Salt",
+        "Gypsum",
+        "Granite"
+      ]
+    },
+    {
+      "top_depth": 9768.49,
+      "bottom_depth": 9776.45,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 13107,
+      "bottom_y": 13131,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 9776.45,
+      "bottom_depth": 9804.3,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 13131,
+      "bottom_y": 13215,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 9804.3,
+      "bottom_depth": 9816.2,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 13215,
+      "bottom_y": 13251,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 9816.2,
+      "bottom_depth": 9846.28,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 13251,
+      "bottom_y": 13342,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 9846.28,
+      "bottom_depth": 9854.55,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 13342,
+      "bottom_y": 13367,
+      "confidence": 0.994,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 9854.55,
+      "bottom_depth": 9858.18,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 13367,
+      "bottom_y": 13378,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 9858.18,
+      "bottom_depth": 9862.15,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 13378,
+      "bottom_y": 13390,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 9862.15,
+      "bottom_depth": 9866.12,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 13390,
+      "bottom_y": 13402,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 9866.12,
+      "bottom_depth": 9872.07,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 13402,
+      "bottom_y": 13420,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 9872.07,
+      "bottom_depth": 9881.98,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 13420,
+      "bottom_y": 13450,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 9881.98,
+      "bottom_depth": 9885.62,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 13450,
+      "bottom_y": 13461,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 9885.62,
+      "bottom_depth": 9891.9,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 13461,
+      "bottom_y": 13480,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 9891.9,
+      "bottom_depth": 9897.19,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 13480,
+      "bottom_y": 13496,
+      "confidence": 0.994,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 9897.19,
+      "bottom_depth": 9898.51,
+      "lithology": "Clay/Shale",
+      "cluster_id": 8,
+      "top_y": 13496,
+      "bottom_y": 13500,
+      "confidence": 0.061,
+      "ambiguous": false,
+      "alternatives": [
+        "Shale",
+        "Marl",
+        "Oil"
+      ]
+    },
+    {
+      "top_depth": 9898.51,
+      "bottom_depth": 9905.84,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 13500,
+      "bottom_y": 13522,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 9905.84,
+      "bottom_depth": 9938.24,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 13522,
+      "bottom_y": 13619,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 9938.24,
+      "bottom_depth": 9974.31,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 13619,
+      "bottom_y": 13727,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 9974.31,
+      "bottom_depth": 9986.0,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 13727,
+      "bottom_y": 13762,
+      "confidence": 0.994,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 9986.0,
+      "bottom_depth": 10022.08,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 13762,
+      "bottom_y": 13870,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 10022.08,
+      "bottom_depth": 10026.75,
+      "lithology": "Chert",
+      "cluster_id": 7,
+      "top_y": 13870,
+      "bottom_y": 13884,
+      "confidence": 0.762,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 10026.75,
+      "bottom_depth": 10042.12,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 13884,
+      "bottom_y": 13930,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 10042.12,
+      "bottom_depth": 10060.15,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 13930,
+      "bottom_y": 13984,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 10060.15,
+      "bottom_depth": 10068.5,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 13984,
+      "bottom_y": 14009,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 10068.5,
+      "bottom_depth": 10140.31,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 14009,
+      "bottom_y": 14224,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 10140.31,
+      "bottom_depth": 10150.67,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 14224,
+      "bottom_y": 14255,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 10150.67,
+      "bottom_depth": 10174.71,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 14255,
+      "bottom_y": 14327,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 10174.71,
+      "bottom_depth": 10178.72,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 14327,
+      "bottom_y": 14339,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 10178.72,
+      "bottom_depth": 10206.78,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 14339,
+      "bottom_y": 14423,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 10206.78,
+      "bottom_depth": 10218.8,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 14423,
+      "bottom_y": 14459,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 10218.8,
+      "bottom_depth": 10238.51,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 14459,
+      "bottom_y": 14518,
+      "confidence": 0.994,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 10238.51,
+      "bottom_depth": 10246.52,
+      "lithology": "Chert",
+      "cluster_id": 7,
+      "top_y": 14518,
+      "bottom_y": 14542,
+      "confidence": 0.762,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 10246.52,
+      "bottom_depth": 10274.91,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 14542,
+      "bottom_y": 14627,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 10274.91,
+      "bottom_depth": 10278.92,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 14627,
+      "bottom_y": 14639,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 10278.92,
+      "bottom_depth": 10291.28,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 14639,
+      "bottom_y": 14676,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 10291.28,
+      "bottom_depth": 10299.3,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 14676,
+      "bottom_y": 14700,
+      "confidence": 0.994,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 10299.3,
+      "bottom_depth": 10335.03,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 14700,
+      "bottom_y": 14807,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 10335.03,
+      "bottom_depth": 10351.4,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 14807,
+      "bottom_y": 14856,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 10351.4,
+      "bottom_depth": 10359.42,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 14856,
+      "bottom_y": 14880,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 10359.42,
+      "bottom_depth": 10383.46,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 14880,
+      "bottom_y": 14952,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 10383.46,
+      "bottom_depth": 10429.22,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 14952,
+      "bottom_y": 15089,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 10429.22,
+      "bottom_depth": 10509.38,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 15089,
+      "bottom_y": 15329,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 10509.38,
+      "bottom_depth": 10640.64,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 15329,
+      "bottom_y": 15722,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 10640.64,
+      "bottom_depth": 10643.98,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 15722,
+      "bottom_y": 15732,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 10643.98,
+      "bottom_depth": 10646.32,
+      "lithology": "Granite",
+      "cluster_id": 5,
+      "top_y": 15732,
+      "bottom_y": 15739,
+      "confidence": 0.011,
+      "ambiguous": true,
+      "alternatives": [
+        "Salt",
+        "Chert"
+      ]
+    },
+    {
+      "top_depth": 10646.32,
+      "bottom_depth": 10652.33,
+      "lithology": "Chert",
+      "cluster_id": 15,
+      "top_y": 15739,
+      "bottom_y": 15757,
+      "confidence": 0.018,
+      "ambiguous": true,
+      "alternatives": [
+        "Salt",
+        "Gypsum",
+        "Granite"
+      ]
+    },
+    {
+      "top_depth": 10652.33,
+      "bottom_depth": 10660.35,
+      "lithology": "Clay/Shale",
+      "cluster_id": 8,
+      "top_y": 15757,
+      "bottom_y": 15781,
+      "confidence": 0.061,
+      "ambiguous": false,
+      "alternatives": [
+        "Shale",
+        "Marl",
+        "Oil"
+      ]
+    },
+    {
+      "top_depth": 10660.35,
+      "bottom_depth": 10665.69,
+      "lithology": "Shale",
+      "cluster_id": 9,
+      "top_y": 15781,
+      "bottom_y": 15797,
+      "confidence": 0.297,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 10665.69,
+      "bottom_depth": 10670.37,
+      "lithology": "Chert",
+      "cluster_id": 7,
+      "top_y": 15797,
+      "bottom_y": 15811,
+      "confidence": 0.762,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 10670.37,
+      "bottom_depth": 10704.44,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 15811,
+      "bottom_y": 15913,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 10704.44,
+      "bottom_depth": 10708.44,
+      "lithology": "Gypsum",
+      "cluster_id": 22,
+      "top_y": 15913,
+      "bottom_y": 15925,
+      "confidence": 0.357,
+      "ambiguous": false,
+      "alternatives": [
+        "Anhydrite"
+      ]
+    },
+    {
+      "top_depth": 10708.44,
+      "bottom_depth": 10716.46,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 15925,
+      "bottom_y": 15949,
+      "confidence": 0.994,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 10716.46,
+      "bottom_depth": 10768.56,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 15949,
+      "bottom_y": 16105,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 10768.56,
+      "bottom_depth": 10772.57,
+      "lithology": "Granite",
+      "cluster_id": 5,
+      "top_y": 16105,
+      "bottom_y": 16117,
+      "confidence": 0.011,
+      "ambiguous": true,
+      "alternatives": [
+        "Salt",
+        "Chert"
+      ]
+    },
+    {
+      "top_depth": 10772.57,
+      "bottom_depth": 10780.25,
+      "lithology": "Clay/Shale",
+      "cluster_id": 8,
+      "top_y": 16117,
+      "bottom_y": 16140,
+      "confidence": 0.061,
+      "ambiguous": false,
+      "alternatives": [
+        "Shale",
+        "Marl",
+        "Oil"
+      ]
+    },
+    {
+      "top_depth": 10780.25,
+      "bottom_depth": 10784.6,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 16140,
+      "bottom_y": 16153,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 10784.6,
+      "bottom_depth": 10812.65,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 16153,
+      "bottom_y": 16237,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 10812.65,
+      "bottom_depth": 10844.72,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 16237,
+      "bottom_y": 16333,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 10844.72,
+      "bottom_depth": 10852.73,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 16333,
+      "bottom_y": 16357,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 10852.73,
+      "bottom_depth": 10892.81,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 16357,
+      "bottom_y": 16477,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 10892.81,
+      "bottom_depth": 10900.83,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 16477,
+      "bottom_y": 16501,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 10900.83,
+      "bottom_depth": 10920.82,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 16501,
+      "bottom_y": 16561,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 10920.82,
+      "bottom_depth": 10961.45,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 16561,
+      "bottom_y": 16683,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 10961.45,
+      "bottom_depth": 11017.06,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 16683,
+      "bottom_y": 16850,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 11017.06,
+      "bottom_depth": 11025.05,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 16850,
+      "bottom_y": 16874,
+      "confidence": 0.994,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 11025.05,
+      "bottom_depth": 11088.99,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 16874,
+      "bottom_y": 17066,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 11088.99,
+      "bottom_depth": 11149.27,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 17066,
+      "bottom_y": 17247,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 11149.27,
+      "bottom_depth": 11156.59,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 17247,
+      "bottom_y": 17269,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 11156.59,
+      "bottom_depth": 11188.56,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 17269,
+      "bottom_y": 17365,
+      "confidence": 0.994,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 11188.56,
+      "bottom_depth": 11356.74,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 17365,
+      "bottom_y": 17870,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 11356.74,
+      "bottom_depth": 11360.73,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 17870,
+      "bottom_y": 17882,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 11360.73,
+      "bottom_depth": 11376.38,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 17882,
+      "bottom_y": 17929,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 11376.38,
+      "bottom_depth": 11380.38,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 17929,
+      "bottom_y": 17941,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 11380.38,
+      "bottom_depth": 11388.37,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 17941,
+      "bottom_y": 17965,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 11388.37,
+      "bottom_depth": 11392.37,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 17965,
+      "bottom_y": 17977,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 11392.37,
+      "bottom_depth": 11432.0,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 17977,
+      "bottom_y": 18096,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 11432.0,
+      "bottom_depth": 11439.99,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 18096,
+      "bottom_y": 18120,
+      "confidence": 0.994,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 11439.99,
+      "bottom_depth": 11519.91,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 18120,
+      "bottom_y": 18360,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 11519.91,
+      "bottom_depth": 11525.91,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 18360,
+      "bottom_y": 18378,
+      "confidence": 0.994,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 11525.91,
+      "bottom_depth": 11543.56,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 18378,
+      "bottom_y": 18431,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 11543.56,
+      "bottom_depth": 11545.89,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 18431,
+      "bottom_y": 18438,
+      "confidence": 0.994,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 11545.89,
+      "bottom_depth": 11589.51,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 18438,
+      "bottom_y": 18569,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 11589.51,
+      "bottom_depth": 11593.84,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 18569,
+      "bottom_y": 18582,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 11593.84,
+      "bottom_depth": 12038.09,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 18582,
+      "bottom_y": 19916,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 12038.09,
+      "bottom_depth": 12065.73,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 19916,
+      "bottom_y": 19999,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 12065.73,
+      "bottom_depth": 12087.04,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 19999,
+      "bottom_y": 20063,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 12087.04,
+      "bottom_depth": 12088.04,
+      "lithology": "Marl",
+      "cluster_id": 28,
+      "top_y": 20063,
+      "bottom_y": 20066,
+      "confidence": 0.001,
+      "ambiguous": true,
+      "alternatives": [
+        "Clay/Shale",
+        "Shale",
+        "Coal-lignite"
+      ]
+    },
+    {
+      "top_depth": 12088.04,
+      "bottom_depth": 12110.68,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 20066,
+      "bottom_y": 20134,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 12110.68,
+      "bottom_depth": 12163.63,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 20134,
+      "bottom_y": 20293,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 12163.63,
+      "bottom_depth": 12167.63,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 20293,
+      "bottom_y": 20305,
+      "confidence": 0.994,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 12167.63,
+      "bottom_depth": 12190.61,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 20305,
+      "bottom_y": 20374,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 12190.61,
+      "bottom_depth": 12197.93,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 20374,
+      "bottom_y": 20396,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 12197.93,
+      "bottom_depth": 12250.55,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 20396,
+      "bottom_y": 20554,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 12250.55,
+      "bottom_depth": 12257.88,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 20554,
+      "bottom_y": 20576,
+      "confidence": 0.994,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 12257.88,
+      "bottom_depth": 12365.77,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 20576,
+      "bottom_y": 20900,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 12365.77,
+      "bottom_depth": 12429.05,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 20900,
+      "bottom_y": 21090,
+      "confidence": 0.994,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 12429.05,
+      "bottom_depth": 12432.71,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 21090,
+      "bottom_y": 21101,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 12432.71,
+      "bottom_depth": 12440.04,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 21101,
+      "bottom_y": 21123,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 12440.04,
+      "bottom_depth": 12458.35,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 21123,
+      "bottom_y": 21178,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 12458.35,
+      "bottom_depth": 12469.34,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 21178,
+      "bottom_y": 21211,
+      "confidence": 0.994,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 12469.34,
+      "bottom_depth": 12480.33,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 21211,
+      "bottom_y": 21244,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 12480.33,
+      "bottom_depth": 12493.32,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 21244,
+      "bottom_y": 21283,
+      "confidence": 0.994,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 12493.32,
+      "bottom_depth": 12512.97,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 21283,
+      "bottom_y": 21342,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 12512.97,
+      "bottom_depth": 12531.28,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 21342,
+      "bottom_y": 21397,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 12531.28,
+      "bottom_depth": 12542.27,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 21397,
+      "bottom_y": 21430,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 12542.27,
+      "bottom_depth": 12559.92,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 21430,
+      "bottom_y": 21483,
+      "confidence": 0.994,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 12559.92,
+      "bottom_depth": 12560.92,
+      "lithology": "Marl",
+      "cluster_id": 28,
+      "top_y": 21483,
+      "bottom_y": 21486,
+      "confidence": 0.001,
+      "ambiguous": true,
+      "alternatives": [
+        "Clay/Shale",
+        "Shale",
+        "Coal-lignite"
+      ]
+    },
+    {
+      "top_depth": 12560.92,
+      "bottom_depth": 13356.5,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 21486,
+      "bottom_y": 23875,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 13356.5,
+      "bottom_depth": 13358.83,
+      "lithology": "Siltstone",
+      "cluster_id": 29,
+      "top_y": 23875,
+      "bottom_y": 23882,
+      "confidence": 0.8,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 13358.83,
+      "bottom_depth": 13373.15,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 23882,
+      "bottom_y": 23925,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 13373.15,
+      "bottom_depth": 13376.48,
+      "lithology": "Tuff",
+      "cluster_id": 19,
+      "top_y": 23925,
+      "bottom_y": 23935,
+      "confidence": 0.205,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 13376.48,
+      "bottom_depth": 13411.45,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 23935,
+      "bottom_y": 24040,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 13411.45,
+      "bottom_depth": 13413.78,
+      "lithology": "Tuff",
+      "cluster_id": 19,
+      "top_y": 24040,
+      "bottom_y": 24047,
+      "confidence": 0.205,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 13413.78,
+      "bottom_depth": 13461.73,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 24047,
+      "bottom_y": 24191,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 13461.73,
+      "bottom_depth": 13468.39,
+      "lithology": "Siltstone",
+      "cluster_id": 29,
+      "top_y": 24191,
+      "bottom_y": 24211,
+      "confidence": 0.8,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 13468.39,
+      "bottom_depth": 13497.36,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 24211,
+      "bottom_y": 24298,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 13497.36,
+      "bottom_depth": 13500.69,
+      "lithology": "Siltstone",
+      "cluster_id": 29,
+      "top_y": 24298,
+      "bottom_y": 24308,
+      "confidence": 0.8,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 13500.69,
+      "bottom_depth": 13504.69,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 24308,
+      "bottom_y": 24320,
+      "confidence": 0.994,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 13504.69,
+      "bottom_depth": 13518.34,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 24320,
+      "bottom_y": 24361,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 13518.34,
+      "bottom_depth": 13520.67,
+      "lithology": "Siltstone",
+      "cluster_id": 29,
+      "top_y": 24361,
+      "bottom_y": 24368,
+      "confidence": 0.8,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 13520.67,
+      "bottom_depth": 13565.3,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 24368,
+      "bottom_y": 24502,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 13565.3,
+      "bottom_depth": 13567.3,
+      "lithology": "Tuff",
+      "cluster_id": 19,
+      "top_y": 24502,
+      "bottom_y": 24508,
+      "confidence": 0.205,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 13567.3,
+      "bottom_depth": 13583.28,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 24508,
+      "bottom_y": 24556,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 13583.28,
+      "bottom_depth": 13586.28,
+      "lithology": "Tuff",
+      "cluster_id": 19,
+      "top_y": 24556,
+      "bottom_y": 24565,
+      "confidence": 0.205,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 13586.28,
+      "bottom_depth": 13590.61,
+      "lithology": "Siltstone",
+      "cluster_id": 29,
+      "top_y": 24565,
+      "bottom_y": 24578,
+      "confidence": 0.8,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 13590.61,
+      "bottom_depth": 13619.91,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 24578,
+      "bottom_y": 24666,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 13619.91,
+      "bottom_depth": 13621.91,
+      "lithology": "Tuff",
+      "cluster_id": 19,
+      "top_y": 24666,
+      "bottom_y": 24672,
+      "confidence": 0.205,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 13621.91,
+      "bottom_depth": 13646.89,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 24672,
+      "bottom_y": 24747,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 13646.89,
+      "bottom_depth": 13650.22,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 24747,
+      "bottom_y": 24757,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 13650.22,
+      "bottom_depth": 13653.55,
+      "lithology": "Tuff",
+      "cluster_id": 19,
+      "top_y": 24757,
+      "bottom_y": 24767,
+      "confidence": 0.205,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 13653.55,
+      "bottom_depth": 13670.86,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 24767,
+      "bottom_y": 24819,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 13670.86,
+      "bottom_depth": 13676.86,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 24819,
+      "bottom_y": 24837,
+      "confidence": 0.994,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 13676.86,
+      "bottom_depth": 13679.19,
+      "lithology": "Gas",
+      "cluster_id": 26,
+      "top_y": 24837,
+      "bottom_y": 24844,
+      "confidence": 0.0,
+      "ambiguous": true,
+      "alternatives": [
+        "Conglomerate",
+        "Mud loss",
+        "Mud gain"
+      ]
+    },
+    {
+      "top_depth": 13679.19,
+      "bottom_depth": 13704.83,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 24844,
+      "bottom_y": 24921,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 13704.83,
+      "bottom_depth": 13708.16,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 24921,
+      "bottom_y": 24931,
+      "confidence": 0.994,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 13708.16,
+      "bottom_depth": 13717.82,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 24931,
+      "bottom_y": 24960,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 13717.82,
+      "bottom_depth": 13721.15,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 24960,
+      "bottom_y": 24970,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 13721.15,
+      "bottom_depth": 13737.47,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 24970,
+      "bottom_y": 25019,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 13737.47,
+      "bottom_depth": 13742.13,
+      "lithology": "Tuff",
+      "cluster_id": 19,
+      "top_y": 25019,
+      "bottom_y": 25033,
+      "confidence": 0.205,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 13742.13,
+      "bottom_depth": 13769.1,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 25033,
+      "bottom_y": 25114,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 13769.1,
+      "bottom_depth": 13776.1,
+      "lithology": "Siltstone",
+      "cluster_id": 29,
+      "top_y": 25114,
+      "bottom_y": 25135,
+      "confidence": 0.8,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 13776.1,
+      "bottom_depth": 13779.43,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 25135,
+      "bottom_y": 25145,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 13779.43,
+      "bottom_depth": 13809.73,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 25145,
+      "bottom_y": 25236,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 13809.73,
+      "bottom_depth": 13816.73,
+      "lithology": "Sandstone",
+      "cluster_id": 10,
+      "top_y": 25236,
+      "bottom_y": 25257,
+      "confidence": 0.656,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 13816.73,
+      "bottom_depth": 13857.35,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 25257,
+      "bottom_y": 25379,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 13857.35,
+      "bottom_depth": 13860.68,
+      "lithology": "Siltstone",
+      "cluster_id": 29,
+      "top_y": 25379,
+      "bottom_y": 25389,
+      "confidence": 0.8,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 13860.68,
+      "bottom_depth": 13864.68,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 25389,
+      "bottom_y": 25401,
+      "confidence": 0.994,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 13864.68,
+      "bottom_depth": 13872.67,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 25401,
+      "bottom_y": 25425,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 13872.67,
+      "bottom_depth": 13877.67,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 25425,
+      "bottom_y": 25440,
+      "confidence": 0.994,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 13877.67,
+      "bottom_depth": 13884.33,
+      "lithology": "Clay/Shale",
+      "cluster_id": 8,
+      "top_y": 25440,
+      "bottom_y": 25460,
+      "confidence": 0.061,
+      "ambiguous": false,
+      "alternatives": [
+        "Shale",
+        "Marl",
+        "Oil"
+      ]
+    },
+    {
+      "top_depth": 13884.33,
+      "bottom_depth": 13887.99,
+      "lithology": "Siltstone",
+      "cluster_id": 29,
+      "top_y": 25460,
+      "bottom_y": 25471,
+      "confidence": 0.8,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 13887.99,
+      "bottom_depth": 13897.98,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 25471,
+      "bottom_y": 25501,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 13897.98,
+      "bottom_depth": 13907.97,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 25501,
+      "bottom_y": 25531,
+      "confidence": 0.994,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 13907.97,
+      "bottom_depth": 13911.64,
+      "lithology": "Siltstone",
+      "cluster_id": 29,
+      "top_y": 25531,
+      "bottom_y": 25542,
+      "confidence": 0.8,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 13911.64,
+      "bottom_depth": 13938.61,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 25542,
+      "bottom_y": 25623,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 13938.61,
+      "bottom_depth": 13942.27,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 25623,
+      "bottom_y": 25634,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 13942.27,
+      "bottom_depth": 13958.92,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 25634,
+      "bottom_y": 25684,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 13958.92,
+      "bottom_depth": 13960.92,
+      "lithology": "Tuff",
+      "cluster_id": 19,
+      "top_y": 25684,
+      "bottom_y": 25690,
+      "confidence": 0.205,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 13960.92,
+      "bottom_depth": 13979.57,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 25690,
+      "bottom_y": 25746,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 13979.57,
+      "bottom_depth": 13984.23,
+      "lithology": "Sandstone",
+      "cluster_id": 21,
+      "top_y": 25746,
+      "bottom_y": 25760,
+      "confidence": 0.915,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 13984.23,
+      "bottom_depth": 13991.56,
+      "lithology": "Shale",
+      "cluster_id": 9,
+      "top_y": 25760,
+      "bottom_y": 25782,
+      "confidence": 0.297,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 13991.56,
+      "bottom_depth": 14006.88,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 25782,
+      "bottom_y": 25828,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 14006.88,
+      "bottom_depth": 14013.54,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 25828,
+      "bottom_y": 25848,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 14013.54,
+      "bottom_depth": 14016.87,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 25848,
+      "bottom_y": 25858,
+      "confidence": 0.994,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 14016.87,
+      "bottom_depth": 14024.2,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 25858,
+      "bottom_y": 25880,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 14024.2,
+      "bottom_depth": 14026.53,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 25880,
+      "bottom_y": 25887,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 14026.53,
+      "bottom_depth": 14095.46,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 25887,
+      "bottom_y": 26094,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 14095.46,
+      "bottom_depth": 14102.45,
+      "lithology": "Sandstone",
+      "cluster_id": 10,
+      "top_y": 26094,
+      "bottom_y": 26115,
+      "confidence": 0.656,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 14102.45,
+      "bottom_depth": 14105.45,
+      "lithology": "Siltstone",
+      "cluster_id": 29,
+      "top_y": 26115,
+      "bottom_y": 26124,
+      "confidence": 0.8,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 14105.45,
+      "bottom_depth": 14180.71,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 26124,
+      "bottom_y": 26350,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 14180.71,
+      "bottom_depth": 14182.71,
+      "lithology": "Tuff",
+      "cluster_id": 19,
+      "top_y": 26350,
+      "bottom_y": 26356,
+      "confidence": 0.205,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 14182.71,
+      "bottom_depth": 14684.9,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 26356,
+      "bottom_y": 27864,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 14684.9,
+      "bottom_depth": 14689.89,
+      "lithology": "Tuff",
+      "cluster_id": 19,
+      "top_y": 27864,
+      "bottom_y": 27879,
+      "confidence": 0.205,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 14689.89,
+      "bottom_depth": 14808.78,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 27879,
+      "bottom_y": 28236,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 14808.78,
+      "bottom_depth": 14812.11,
+      "lithology": "Siltstone",
+      "cluster_id": 29,
+      "top_y": 28236,
+      "bottom_y": 28246,
+      "confidence": 0.8,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 14812.11,
+      "bottom_depth": 14825.76,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 28246,
+      "bottom_y": 28287,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 14825.76,
+      "bottom_depth": 14828.1,
+      "lithology": "Siltstone",
+      "cluster_id": 29,
+      "top_y": 28287,
+      "bottom_y": 28294,
+      "confidence": 0.8,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 14828.1,
+      "bottom_depth": 14899.69,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 28294,
+      "bottom_y": 28509,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 14899.69,
+      "bottom_depth": 14905.36,
+      "lithology": "Sandstone",
+      "cluster_id": 18,
+      "top_y": 28509,
+      "bottom_y": 28526,
+      "confidence": 0.337,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 14905.36,
+      "bottom_depth": 14917.01,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 28526,
+      "bottom_y": 28561,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 14917.01,
+      "bottom_depth": 14918.68,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 28561,
+      "bottom_y": 28566,
+      "confidence": 0.994,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 14918.68,
+      "bottom_depth": 15050.22,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 28566,
+      "bottom_y": 28961,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 15050.22,
+      "bottom_depth": 15052.55,
+      "lithology": "Siltstone",
+      "cluster_id": 29,
+      "top_y": 28961,
+      "bottom_y": 28968,
+      "confidence": 0.8,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 15052.55,
+      "bottom_depth": 15131.81,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 28968,
+      "bottom_y": 29206,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 15131.81,
+      "bottom_depth": 15155.78,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 29206,
+      "bottom_y": 29278,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 15155.78,
+      "bottom_depth": 15159.45,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 29278,
+      "bottom_y": 29289,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 15159.45,
+      "bottom_depth": 15169.44,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 29289,
+      "bottom_y": 29319,
+      "confidence": 0.994,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 15169.44,
+      "bottom_depth": 15174.77,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 29319,
+      "bottom_y": 29335,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 15174.77,
+      "bottom_depth": 15276.0,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 29335,
+      "bottom_y": 29639,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 15276.0,
+      "bottom_depth": 15382.57,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 29639,
+      "bottom_y": 29959,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 15382.57,
+      "bottom_depth": 15417.53,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 29959,
+      "bottom_y": 30064,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 15417.53,
+      "bottom_depth": 15451.17,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 30064,
+      "bottom_y": 30165,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 15451.17,
+      "bottom_depth": 15458.5,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 30165,
+      "bottom_y": 30187,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 15458.5,
+      "bottom_depth": 15475.48,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 30187,
+      "bottom_y": 30238,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 15475.48,
+      "bottom_depth": 15478.81,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 30238,
+      "bottom_y": 30248,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 15478.81,
+      "bottom_depth": 15544.08,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 30248,
+      "bottom_y": 30444,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 15544.08,
+      "bottom_depth": 15561.4,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 30444,
+      "bottom_y": 30496,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 15561.4,
+      "bottom_depth": 15819.15,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 30496,
+      "bottom_y": 31270,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 15819.15,
+      "bottom_depth": 15850.46,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 31270,
+      "bottom_y": 31364,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 15850.46,
+      "bottom_depth": 15857.12,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 31364,
+      "bottom_y": 31384,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 15857.12,
+      "bottom_depth": 15867.44,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 31384,
+      "bottom_y": 31415,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 15867.44,
+      "bottom_depth": 15871.1,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 31415,
+      "bottom_y": 31426,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 15871.1,
+      "bottom_depth": 15877.76,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 31426,
+      "bottom_y": 31446,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 15877.76,
+      "bottom_depth": 15881.76,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 31446,
+      "bottom_y": 31458,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 15881.76,
+      "bottom_depth": 15895.08,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 31458,
+      "bottom_y": 31498,
+      "confidence": 0.994,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 15895.08,
+      "bottom_depth": 15898.41,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 31498,
+      "bottom_y": 31508,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 15898.41,
+      "bottom_depth": 15905.4,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 31508,
+      "bottom_y": 31529,
+      "confidence": 0.994,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 15905.4,
+      "bottom_depth": 15943.03,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 31529,
+      "bottom_y": 31642,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 15943.03,
+      "bottom_depth": 15950.03,
+      "lithology": "Siltstone",
+      "cluster_id": 29,
+      "top_y": 31642,
+      "bottom_y": 31663,
+      "confidence": 0.8,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 15950.03,
+      "bottom_depth": 15961.35,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 31663,
+      "bottom_y": 31697,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 15961.35,
+      "bottom_depth": 15965.35,
+      "lithology": "Siltstone",
+      "cluster_id": 29,
+      "top_y": 31697,
+      "bottom_y": 31709,
+      "confidence": 0.8,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 15965.35,
+      "bottom_depth": 15977.67,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 31709,
+      "bottom_y": 31746,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 15977.67,
+      "bottom_depth": 15984.99,
+      "lithology": "Sandstone",
+      "cluster_id": 10,
+      "top_y": 31746,
+      "bottom_y": 31768,
+      "confidence": 0.656,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 15984.99,
+      "bottom_depth": 15991.32,
+      "lithology": "Siltstone",
+      "cluster_id": 29,
+      "top_y": 31768,
+      "bottom_y": 31787,
+      "confidence": 0.8,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 15991.32,
+      "bottom_depth": 16008.31,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 31787,
+      "bottom_y": 31838,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 16008.31,
+      "bottom_depth": 16015.96,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 31838,
+      "bottom_y": 31861,
+      "confidence": 0.994,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 16015.96,
+      "bottom_depth": 16018.96,
+      "lithology": "Tuff",
+      "cluster_id": 19,
+      "top_y": 31861,
+      "bottom_y": 31870,
+      "confidence": 0.205,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 16018.96,
+      "bottom_depth": 16023.29,
+      "lithology": "Siltstone",
+      "cluster_id": 29,
+      "top_y": 31870,
+      "bottom_y": 31883,
+      "confidence": 0.8,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 16023.29,
+      "bottom_depth": 16068.25,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 31883,
+      "bottom_y": 32018,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 16068.25,
+      "bottom_depth": 16070.58,
+      "lithology": "Tuff",
+      "cluster_id": 19,
+      "top_y": 32018,
+      "bottom_y": 32025,
+      "confidence": 0.205,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 16070.58,
+      "bottom_depth": 16100.88,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 32025,
+      "bottom_y": 32116,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 16100.88,
+      "bottom_depth": 16107.88,
+      "lithology": "Gas",
+      "cluster_id": 12,
+      "top_y": 32116,
+      "bottom_y": 32137,
+      "confidence": 0.0,
+      "ambiguous": true,
+      "alternatives": [
+        "Conglomerate",
+        "Mud loss",
+        "Mud gain"
+      ]
+    },
+    {
+      "top_depth": 16107.88,
+      "bottom_depth": 16111.54,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 32137,
+      "bottom_y": 32148,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 16111.54,
+      "bottom_depth": 16128.52,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 32148,
+      "bottom_y": 32199,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 16128.52,
+      "bottom_depth": 16130.52,
+      "lithology": "Tuff",
+      "cluster_id": 19,
+      "top_y": 32199,
+      "bottom_y": 32205,
+      "confidence": 0.205,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 16130.52,
+      "bottom_depth": 16142.18,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 32205,
+      "bottom_y": 32240,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 16142.18,
+      "bottom_depth": 16145.84,
+      "lithology": "Tuff",
+      "cluster_id": 19,
+      "top_y": 32240,
+      "bottom_y": 32251,
+      "confidence": 0.205,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 16145.84,
+      "bottom_depth": 16183.47,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 32251,
+      "bottom_y": 32364,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 16183.47,
+      "bottom_depth": 16187.14,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 32364,
+      "bottom_y": 32375,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 16187.14,
+      "bottom_depth": 16204.12,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 32375,
+      "bottom_y": 32426,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 16204.12,
+      "bottom_depth": 16206.12,
+      "lithology": "Tuff",
+      "cluster_id": 19,
+      "top_y": 32426,
+      "bottom_y": 32432,
+      "confidence": 0.205,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 16206.12,
+      "bottom_depth": 16248.41,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 32432,
+      "bottom_y": 32559,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 16248.41,
+      "bottom_depth": 16252.07,
+      "lithology": "Siltstone",
+      "cluster_id": 29,
+      "top_y": 32559,
+      "bottom_y": 32570,
+      "confidence": 0.8,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 16252.07,
+      "bottom_depth": 16272.39,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 32570,
+      "bottom_y": 32631,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 16272.39,
+      "bottom_depth": 16276.05,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 32631,
+      "bottom_y": 32642,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 16276.05,
+      "bottom_depth": 16300.36,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 32642,
+      "bottom_y": 32715,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 16300.36,
+      "bottom_depth": 16302.69,
+      "lithology": "Siltstone",
+      "cluster_id": 29,
+      "top_y": 32715,
+      "bottom_y": 32722,
+      "confidence": 0.8,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 16302.69,
+      "bottom_depth": 16361.64,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 32722,
+      "bottom_y": 32899,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 16361.64,
+      "bottom_depth": 16364.97,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 32899,
+      "bottom_y": 32909,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 16364.97,
+      "bottom_depth": 16386.28,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 32909,
+      "bottom_y": 32973,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 16386.28,
+      "bottom_depth": 16388.61,
+      "lithology": "Tuff",
+      "cluster_id": 19,
+      "top_y": 32973,
+      "bottom_y": 32980,
+      "confidence": 0.205,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 16388.61,
+      "bottom_depth": 16409.59,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 32980,
+      "bottom_y": 33043,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 16409.59,
+      "bottom_depth": 16416.25,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 33043,
+      "bottom_y": 33063,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 16416.25,
+      "bottom_depth": 16419.58,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 33063,
+      "bottom_y": 33073,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 16419.58,
+      "bottom_depth": 16427.91,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 33073,
+      "bottom_y": 33098,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 16427.91,
+      "bottom_depth": 16453.88,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 33098,
+      "bottom_y": 33176,
+      "confidence": 0.994,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 16453.88,
+      "bottom_depth": 16467.2,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 33176,
+      "bottom_y": 33216,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 16467.2,
+      "bottom_depth": 16468.2,
+      "lithology": "Marl",
+      "cluster_id": 28,
+      "top_y": 33216,
+      "bottom_y": 33219,
+      "confidence": 0.001,
+      "ambiguous": true,
+      "alternatives": [
+        "Clay/Shale",
+        "Shale",
+        "Coal-lignite"
+      ]
+    },
+    {
+      "top_depth": 16468.2,
+      "bottom_depth": 16488.18,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 33219,
+      "bottom_y": 33279,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 16488.18,
+      "bottom_depth": 16498.17,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 33279,
+      "bottom_y": 33309,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 16498.17,
+      "bottom_depth": 16505.5,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 33309,
+      "bottom_y": 33331,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 16505.5,
+      "bottom_depth": 16515.82,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 33331,
+      "bottom_y": 33362,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 16515.82,
+      "bottom_depth": 16522.48,
+      "lithology": "Sandstone",
+      "cluster_id": 10,
+      "top_y": 33362,
+      "bottom_y": 33382,
+      "confidence": 0.656,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 16522.48,
+      "bottom_depth": 16573.77,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 33382,
+      "bottom_y": 33536,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 16573.77,
+      "bottom_depth": 16577.43,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 33536,
+      "bottom_y": 33547,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 16577.43,
+      "bottom_depth": 16605.07,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 33547,
+      "bottom_y": 33630,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 16605.07,
+      "bottom_depth": 16611.4,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 33630,
+      "bottom_y": 33649,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 16611.4,
+      "bottom_depth": 16704.31,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 33649,
+      "bottom_y": 33928,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 16704.31,
+      "bottom_depth": 16710.97,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 33928,
+      "bottom_y": 33948,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 16710.97,
+      "bottom_depth": 16748.6,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 33948,
+      "bottom_y": 34061,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 16748.6,
+      "bottom_depth": 16755.59,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 34061,
+      "bottom_y": 34082,
+      "confidence": 0.994,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 16755.59,
+      "bottom_depth": 16862.16,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 34082,
+      "bottom_y": 34402,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 16862.16,
+      "bottom_depth": 16864.49,
+      "lithology": "Siltstone",
+      "cluster_id": 29,
+      "top_y": 34402,
+      "bottom_y": 34409,
+      "confidence": 0.8,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 16864.49,
+      "bottom_depth": 16875.15,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 34409,
+      "bottom_y": 34441,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 16875.15,
+      "bottom_depth": 16877.48,
+      "lithology": "Gas",
+      "cluster_id": 27,
+      "top_y": 34441,
+      "bottom_y": 34448,
+      "confidence": 0.0,
+      "ambiguous": true,
+      "alternatives": [
+        "Conglomerate",
+        "Mud loss",
+        "Mud gain"
+      ]
+    },
+    {
+      "top_depth": 16877.48,
+      "bottom_depth": 16882.81,
+      "lithology": "Tuff",
+      "cluster_id": 19,
+      "top_y": 34448,
+      "bottom_y": 34464,
+      "confidence": 0.205,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 16882.81,
+      "bottom_depth": 16886.8,
+      "lithology": "Sandstone",
+      "cluster_id": 21,
+      "top_y": 34464,
+      "bottom_y": 34476,
+      "confidence": 0.915,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 16886.8,
+      "bottom_depth": 16896.79,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 34476,
+      "bottom_y": 34506,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 16896.79,
+      "bottom_depth": 16903.79,
+      "lithology": "Siltstone",
+      "cluster_id": 29,
+      "top_y": 34506,
+      "bottom_y": 34527,
+      "confidence": 0.8,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 16903.79,
+      "bottom_depth": 16908.78,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 34527,
+      "bottom_y": 34542,
+      "confidence": 0.994,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 16908.78,
+      "bottom_depth": 16920.77,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 34542,
+      "bottom_y": 34578,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 16920.77,
+      "bottom_depth": 16928.1,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 34578,
+      "bottom_y": 34600,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 16928.1,
+      "bottom_depth": 16945.41,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 34600,
+      "bottom_y": 34652,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 16945.41,
+      "bottom_depth": 16947.74,
+      "lithology": "Siltstone",
+      "cluster_id": 29,
+      "top_y": 34652,
+      "bottom_y": 34659,
+      "confidence": 0.8,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 16947.74,
+      "bottom_depth": 16955.07,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 34659,
+      "bottom_y": 34681,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 16955.07,
+      "bottom_depth": 16972.72,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 34681,
+      "bottom_y": 34734,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 16972.72,
+      "bottom_depth": 16986.04,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 34734,
+      "bottom_y": 34774,
+      "confidence": 0.994,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 16986.04,
+      "bottom_depth": 17010.02,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 34774,
+      "bottom_y": 34846,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 17010.02,
+      "bottom_depth": 17024.0,
+      "lithology": "Sandstone",
+      "cluster_id": 1,
+      "top_y": 34846,
+      "bottom_y": 34888,
+      "confidence": 0.997,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 17024.0,
+      "bottom_depth": 17031.66,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 34888,
+      "bottom_y": 34911,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 17031.66,
+      "bottom_depth": 17034.0,
+      "lithology": "Tuff",
+      "cluster_id": 19,
+      "top_y": 34911,
+      "bottom_y": 34918,
+      "confidence": 0.205,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 17034.0,
+      "bottom_depth": 17051.31,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 34918,
+      "bottom_y": 34970,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 17051.31,
+      "bottom_depth": 17106.59,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 34970,
+      "bottom_y": 35136,
+      "confidence": 0.994,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 17106.59,
+      "bottom_depth": 17120.25,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 35136,
+      "bottom_y": 35177,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 17120.25,
+      "bottom_depth": 17122.58,
+      "lithology": "Tuff",
+      "cluster_id": 19,
+      "top_y": 35177,
+      "bottom_y": 35184,
+      "confidence": 0.205,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 17122.58,
+      "bottom_depth": 17389.32,
+      "lithology": "Shale",
+      "cluster_id": 0,
+      "top_y": 35184,
+      "bottom_y": 35985,
+      "confidence": 0.899,
+      "ambiguous": false,
+      "alternatives": [
+        "Clay/Shale",
+        "Coal-lignite",
+        "Marl"
+      ]
+    }
+  ]
+}

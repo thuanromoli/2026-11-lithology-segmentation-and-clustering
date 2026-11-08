@@ -1,0 +1,1753 @@
+{
+  "image": "Mudlog-Trail Mtn1Palisades.tif",
+  "image_size": [
+    1650,
+    62325
+  ],
+  "depth_fit": {
+    "px_per_ft": 7.5,
+    "labels_used": 61,
+    "labels_read": 61,
+    "labels_rejected": 0,
+    "mean_residual_ft": 0.001,
+    "label_rotation_deg": 90,
+    "chunks_ocrd": "12/16",
+    "labels": [
+      [
+        2175.5,
+        1500.0
+      ],
+      [
+        2925.5,
+        1600.0
+      ],
+      [
+        3675.5,
+        1700.0
+      ],
+      [
+        4425.5,
+        1800.0
+      ],
+      [
+        5175.5,
+        1900.0
+      ],
+      [
+        5925.0,
+        2000.0
+      ],
+      [
+        6675.0,
+        2100.0
+      ],
+      [
+        7425.0,
+        2200.0
+      ],
+      [
+        8175.0,
+        2300.0
+      ],
+      [
+        8925.0,
+        2400.0
+      ],
+      [
+        13425.0,
+        3000.0
+      ],
+      [
+        14175.0,
+        3100.0
+      ],
+      [
+        14925.0,
+        3200.0
+      ],
+      [
+        15675.0,
+        3300.0
+      ],
+      [
+        16425.0,
+        3400.0
+      ],
+      [
+        17175.0,
+        3500.0
+      ],
+      [
+        17925.0,
+        3600.0
+      ],
+      [
+        18675.0,
+        3700.0
+      ],
+      [
+        19425.0,
+        3800.0
+      ],
+      [
+        20175.0,
+        3900.0
+      ],
+      [
+        20925.0,
+        4000.0
+      ],
+      [
+        21675.0,
+        4100.0
+      ],
+      [
+        22425.0,
+        4200.0
+      ],
+      [
+        23175.0,
+        4300.0
+      ],
+      [
+        23925.0,
+        4400.0
+      ],
+      [
+        24675.0,
+        4500.0
+      ],
+      [
+        25425.0,
+        4600.0
+      ],
+      [
+        29925.0,
+        5200.0
+      ],
+      [
+        30675.0,
+        5300.0
+      ],
+      [
+        31425.0,
+        5400.0
+      ],
+      [
+        32175.0,
+        5500.0
+      ],
+      [
+        32925.0,
+        5600.0
+      ],
+      [
+        33675.0,
+        5700.0
+      ],
+      [
+        34425.0,
+        5800.0
+      ],
+      [
+        35175.0,
+        5900.0
+      ],
+      [
+        35925.0,
+        6000.0
+      ],
+      [
+        36675.0,
+        6100.0
+      ],
+      [
+        37425.0,
+        6200.0
+      ],
+      [
+        41925.0,
+        6800.0
+      ],
+      [
+        42675.0,
+        6900.0
+      ],
+      [
+        43425.0,
+        7000.0
+      ],
+      [
+        44175.0,
+        7100.0
+      ],
+      [
+        44925.0,
+        7200.0
+      ],
+      [
+        45675.0,
+        7300.0
+      ],
+      [
+        46425.0,
+        7400.0
+      ],
+      [
+        47175.0,
+        7500.0
+      ],
+      [
+        47925.0,
+        7600.0
+      ],
+      [
+        48675.0,
+        7700.0
+      ],
+      [
+        49425.0,
+        7800.0
+      ],
+      [
+        50175.0,
+        7900.0
+      ],
+      [
+        50925.0,
+        8000.0
+      ],
+      [
+        51675.0,
+        8100.0
+      ],
+      [
+        52425.0,
+        8200.0
+      ],
+      [
+        53175.0,
+        8300.0
+      ],
+      [
+        57675.0,
+        8900.0
+      ],
+      [
+        58425.0,
+        9000.0
+      ],
+      [
+        59175.0,
+        9100.0
+      ],
+      [
+        59925.0,
+        9200.0
+      ],
+      [
+        60675.0,
+        9300.0
+      ],
+      [
+        61425.0,
+        9400.0
+      ],
+      [
+        62175.0,
+        9500.0
+      ]
+    ]
+  },
+  "legend": [
+    {
+      "name": "Shale",
+      "box": [
+        82,
+        742,
+        158,
+        780
+      ],
+      "white": false
+    },
+    {
+      "name": "Conglomerate",
+      "box": [
+        382,
+        742,
+        458,
+        780
+      ],
+      "white": false
+    },
+    {
+      "name": "Siltstone",
+      "box": [
+        82,
+        802,
+        158,
+        840
+      ],
+      "white": false
+    },
+    {
+      "name": "Coal",
+      "box": [
+        382,
+        802,
+        458,
+        840
+      ],
+      "white": false
+    },
+    {
+      "name": "Sandstone",
+      "box": [
+        82,
+        862,
+        158,
+        900
+      ],
+      "white": false
+    },
+    {
+      "name": "Salt",
+      "box": [
+        382,
+        862,
+        458,
+        900
+      ],
+      "white": false
+    },
+    {
+      "name": "Limestone",
+      "box": [
+        82,
+        922,
+        158,
+        960
+      ],
+      "white": false
+    },
+    {
+      "name": "Volcanic",
+      "box": [
+        382,
+        922,
+        458,
+        960
+      ],
+      "white": false
+    },
+    {
+      "name": "Dolomite",
+      "box": [
+        82,
+        982,
+        158,
+        1020
+      ],
+      "white": false
+    },
+    {
+      "name": "Granite",
+      "box": [
+        382,
+        982,
+        458,
+        1020
+      ],
+      "white": false
+    },
+    {
+      "name": "Metamorphic",
+      "box": [
+        382,
+        1042,
+        458,
+        1080
+      ],
+      "white": false
+    },
+    {
+      "name": "Tuff",
+      "box": [
+        382,
+        1102,
+        458,
+        1140
+      ],
+      "white": false
+    }
+  ],
+  "identical_legend_symbols": [],
+  "n_groups": 6,
+  "snap_grid": null,
+  "warnings": [],
+  "timings_s": {
+    "depth": 2.01,
+    "segment": 0.32,
+    "legend": 0.49,
+    "intervals": 0.11,
+    "total": 2.93
+  },
+  "intervals": [
+    {
+      "top_depth": 1498.07,
+      "bottom_depth": 1675.53,
+      "lithology": "Tuff",
+      "cluster_id": 1,
+      "top_y": 2161,
+      "bottom_y": 3492,
+      "confidence": 0.312,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 1675.53,
+      "bottom_depth": 1676.47,
+      "lithology": "Volcanic",
+      "cluster_id": 5,
+      "top_y": 3492,
+      "bottom_y": 3499,
+      "confidence": 0.048,
+      "ambiguous": true,
+      "alternatives": [
+        "Siltstone",
+        "Tuff"
+      ]
+    },
+    {
+      "top_depth": 1676.47,
+      "bottom_depth": 1695.53,
+      "lithology": "Tuff",
+      "cluster_id": 1,
+      "top_y": 3499,
+      "bottom_y": 3642,
+      "confidence": 0.312,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 1695.53,
+      "bottom_depth": 1696.47,
+      "lithology": "Volcanic",
+      "cluster_id": 5,
+      "top_y": 3642,
+      "bottom_y": 3649,
+      "confidence": 0.048,
+      "ambiguous": true,
+      "alternatives": [
+        "Siltstone",
+        "Tuff"
+      ]
+    },
+    {
+      "top_depth": 1696.47,
+      "bottom_depth": 1715.53,
+      "lithology": "Tuff",
+      "cluster_id": 1,
+      "top_y": 3649,
+      "bottom_y": 3792,
+      "confidence": 0.312,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 1715.53,
+      "bottom_depth": 1716.47,
+      "lithology": "Volcanic",
+      "cluster_id": 5,
+      "top_y": 3792,
+      "bottom_y": 3799,
+      "confidence": 0.048,
+      "ambiguous": true,
+      "alternatives": [
+        "Siltstone",
+        "Tuff"
+      ]
+    },
+    {
+      "top_depth": 1716.47,
+      "bottom_depth": 1735.53,
+      "lithology": "Tuff",
+      "cluster_id": 1,
+      "top_y": 3799,
+      "bottom_y": 3942,
+      "confidence": 0.312,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 1735.53,
+      "bottom_depth": 1736.47,
+      "lithology": "Volcanic",
+      "cluster_id": 5,
+      "top_y": 3942,
+      "bottom_y": 3949,
+      "confidence": 0.048,
+      "ambiguous": true,
+      "alternatives": [
+        "Siltstone",
+        "Tuff"
+      ]
+    },
+    {
+      "top_depth": 1736.47,
+      "bottom_depth": 1895.53,
+      "lithology": "Tuff",
+      "cluster_id": 1,
+      "top_y": 3949,
+      "bottom_y": 5142,
+      "confidence": 0.312,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 1895.53,
+      "bottom_depth": 1896.47,
+      "lithology": "Volcanic",
+      "cluster_id": 5,
+      "top_y": 5142,
+      "bottom_y": 5149,
+      "confidence": 0.048,
+      "ambiguous": true,
+      "alternatives": [
+        "Siltstone",
+        "Tuff"
+      ]
+    },
+    {
+      "top_depth": 1896.47,
+      "bottom_depth": 1915.54,
+      "lithology": "Tuff",
+      "cluster_id": 1,
+      "top_y": 5149,
+      "bottom_y": 5292,
+      "confidence": 0.312,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 1915.54,
+      "bottom_depth": 1916.48,
+      "lithology": "Volcanic",
+      "cluster_id": 5,
+      "top_y": 5292,
+      "bottom_y": 5299,
+      "confidence": 0.048,
+      "ambiguous": true,
+      "alternatives": [
+        "Siltstone",
+        "Tuff"
+      ]
+    },
+    {
+      "top_depth": 1916.48,
+      "bottom_depth": 1935.56,
+      "lithology": "Tuff",
+      "cluster_id": 1,
+      "top_y": 5299,
+      "bottom_y": 5442,
+      "confidence": 0.312,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 1935.56,
+      "bottom_depth": 1936.49,
+      "lithology": "Volcanic",
+      "cluster_id": 5,
+      "top_y": 5442,
+      "bottom_y": 5449,
+      "confidence": 0.048,
+      "ambiguous": true,
+      "alternatives": [
+        "Siltstone",
+        "Tuff"
+      ]
+    },
+    {
+      "top_depth": 1936.49,
+      "bottom_depth": 1955.57,
+      "lithology": "Tuff",
+      "cluster_id": 1,
+      "top_y": 5449,
+      "bottom_y": 5592,
+      "confidence": 0.312,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 1955.57,
+      "bottom_depth": 1956.5,
+      "lithology": "Volcanic",
+      "cluster_id": 5,
+      "top_y": 5592,
+      "bottom_y": 5599,
+      "confidence": 0.048,
+      "ambiguous": true,
+      "alternatives": [
+        "Siltstone",
+        "Tuff"
+      ]
+    },
+    {
+      "top_depth": 1956.5,
+      "bottom_depth": 1977.85,
+      "lithology": "Tuff",
+      "cluster_id": 1,
+      "top_y": 5599,
+      "bottom_y": 5759,
+      "confidence": 0.312,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 1977.85,
+      "bottom_depth": 2147.87,
+      "lithology": "Volcanic",
+      "cluster_id": 0,
+      "top_y": 5759,
+      "bottom_y": 7034,
+      "confidence": 0.193,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 2147.87,
+      "bottom_depth": 2155.6,
+      "lithology": "Tuff",
+      "cluster_id": 1,
+      "top_y": 7034,
+      "bottom_y": 7092,
+      "confidence": 0.312,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 2155.6,
+      "bottom_depth": 2156.53,
+      "lithology": "Volcanic",
+      "cluster_id": 5,
+      "top_y": 7092,
+      "bottom_y": 7099,
+      "confidence": 0.048,
+      "ambiguous": true,
+      "alternatives": [
+        "Siltstone",
+        "Tuff"
+      ]
+    },
+    {
+      "top_depth": 2156.53,
+      "bottom_depth": 2175.6,
+      "lithology": "Tuff",
+      "cluster_id": 1,
+      "top_y": 7099,
+      "bottom_y": 7242,
+      "confidence": 0.312,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 2175.6,
+      "bottom_depth": 2176.53,
+      "lithology": "Volcanic",
+      "cluster_id": 5,
+      "top_y": 7242,
+      "bottom_y": 7249,
+      "confidence": 0.048,
+      "ambiguous": true,
+      "alternatives": [
+        "Siltstone",
+        "Tuff"
+      ]
+    },
+    {
+      "top_depth": 2176.53,
+      "bottom_depth": 2189.87,
+      "lithology": "Tuff",
+      "cluster_id": 1,
+      "top_y": 7249,
+      "bottom_y": 7349,
+      "confidence": 0.312,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 2189.87,
+      "bottom_depth": 2210.0,
+      "lithology": "Volcanic",
+      "cluster_id": 0,
+      "top_y": 7349,
+      "bottom_y": 7500,
+      "confidence": 0.193,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 2210.0,
+      "bottom_depth": 2215.6,
+      "lithology": "Tuff",
+      "cluster_id": 1,
+      "top_y": 7500,
+      "bottom_y": 7542,
+      "confidence": 0.312,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 2215.6,
+      "bottom_depth": 2217.87,
+      "lithology": "Volcanic",
+      "cluster_id": 0,
+      "top_y": 7542,
+      "bottom_y": 7559,
+      "confidence": 0.193,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 2217.87,
+      "bottom_depth": 2224.0,
+      "lithology": "Tuff",
+      "cluster_id": 1,
+      "top_y": 7559,
+      "bottom_y": 7605,
+      "confidence": 0.312,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 2224.0,
+      "bottom_depth": 2226.0,
+      "lithology": "Volcanic",
+      "cluster_id": 0,
+      "top_y": 7605,
+      "bottom_y": 7620,
+      "confidence": 0.193,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 2226.0,
+      "bottom_depth": 2246.0,
+      "lithology": "Tuff",
+      "cluster_id": 1,
+      "top_y": 7620,
+      "bottom_y": 7770,
+      "confidence": 0.312,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 2246.0,
+      "bottom_depth": 2248.0,
+      "lithology": "Volcanic",
+      "cluster_id": 0,
+      "top_y": 7770,
+      "bottom_y": 7785,
+      "confidence": 0.193,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 2248.0,
+      "bottom_depth": 2257.6,
+      "lithology": "Tuff",
+      "cluster_id": 1,
+      "top_y": 7785,
+      "bottom_y": 7857,
+      "confidence": 0.312,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 2257.6,
+      "bottom_depth": 2259.87,
+      "lithology": "Volcanic",
+      "cluster_id": 0,
+      "top_y": 7857,
+      "bottom_y": 7874,
+      "confidence": 0.193,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 2259.87,
+      "bottom_depth": 2271.87,
+      "lithology": "Tuff",
+      "cluster_id": 1,
+      "top_y": 7874,
+      "bottom_y": 7964,
+      "confidence": 0.312,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 2271.87,
+      "bottom_depth": 2275.87,
+      "lithology": "Volcanic",
+      "cluster_id": 0,
+      "top_y": 7964,
+      "bottom_y": 7994,
+      "confidence": 0.193,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 2275.87,
+      "bottom_depth": 2293.87,
+      "lithology": "Tuff",
+      "cluster_id": 1,
+      "top_y": 7994,
+      "bottom_y": 8129,
+      "confidence": 0.312,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 2293.87,
+      "bottom_depth": 2296.0,
+      "lithology": "Volcanic",
+      "cluster_id": 0,
+      "top_y": 8129,
+      "bottom_y": 8145,
+      "confidence": 0.193,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 2296.0,
+      "bottom_depth": 2303.87,
+      "lithology": "Tuff",
+      "cluster_id": 1,
+      "top_y": 8145,
+      "bottom_y": 8204,
+      "confidence": 0.312,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 2303.87,
+      "bottom_depth": 2310.0,
+      "lithology": "Volcanic",
+      "cluster_id": 0,
+      "top_y": 8204,
+      "bottom_y": 8250,
+      "confidence": 0.193,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 2310.0,
+      "bottom_depth": 2318.0,
+      "lithology": "Tuff",
+      "cluster_id": 1,
+      "top_y": 8250,
+      "bottom_y": 8310,
+      "confidence": 0.312,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 2318.0,
+      "bottom_depth": 2342.0,
+      "lithology": "Volcanic",
+      "cluster_id": 0,
+      "top_y": 8310,
+      "bottom_y": 8490,
+      "confidence": 0.193,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 2342.0,
+      "bottom_depth": 2355.87,
+      "lithology": "Blank (no pattern)",
+      "cluster_id": 6,
+      "top_y": 8490,
+      "bottom_y": 8594,
+      "confidence": 0.5,
+      "ambiguous": true,
+      "alternatives": []
+    },
+    {
+      "top_depth": 2355.87,
+      "bottom_depth": 4844.0,
+      "lithology": "Volcanic",
+      "cluster_id": 0,
+      "top_y": 8594,
+      "bottom_y": 27255,
+      "confidence": 0.193,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 4844.0,
+      "bottom_depth": 4858.0,
+      "lithology": "Blank (no pattern)",
+      "cluster_id": 6,
+      "top_y": 27255,
+      "bottom_y": 27360,
+      "confidence": 0.5,
+      "ambiguous": true,
+      "alternatives": []
+    },
+    {
+      "top_depth": 4858.0,
+      "bottom_depth": 8894.53,
+      "lithology": "Volcanic",
+      "cluster_id": 0,
+      "top_y": 27360,
+      "bottom_y": 57634,
+      "confidence": 0.193,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 8894.53,
+      "bottom_depth": 8897.6,
+      "lithology": "Shale",
+      "cluster_id": 2,
+      "top_y": 57634,
+      "bottom_y": 57657,
+      "confidence": 0.981,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 8897.6,
+      "bottom_depth": 8900.53,
+      "lithology": "Volcanic",
+      "cluster_id": 0,
+      "top_y": 57657,
+      "bottom_y": 57679,
+      "confidence": 0.193,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 8900.53,
+      "bottom_depth": 8905.6,
+      "lithology": "Shale",
+      "cluster_id": 2,
+      "top_y": 57679,
+      "bottom_y": 57717,
+      "confidence": 0.981,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 8905.6,
+      "bottom_depth": 8908.27,
+      "lithology": "Volcanic",
+      "cluster_id": 0,
+      "top_y": 57717,
+      "bottom_y": 57737,
+      "confidence": 0.193,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 8908.27,
+      "bottom_depth": 8911.47,
+      "lithology": "Shale",
+      "cluster_id": 2,
+      "top_y": 57737,
+      "bottom_y": 57761,
+      "confidence": 0.981,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 8911.47,
+      "bottom_depth": 8914.27,
+      "lithology": "Volcanic",
+      "cluster_id": 0,
+      "top_y": 57761,
+      "bottom_y": 57782,
+      "confidence": 0.193,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 8914.27,
+      "bottom_depth": 8917.6,
+      "lithology": "Shale",
+      "cluster_id": 2,
+      "top_y": 57782,
+      "bottom_y": 57807,
+      "confidence": 0.981,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 8917.6,
+      "bottom_depth": 8934.27,
+      "lithology": "Volcanic",
+      "cluster_id": 0,
+      "top_y": 57807,
+      "bottom_y": 57932,
+      "confidence": 0.193,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 8934.27,
+      "bottom_depth": 8943.47,
+      "lithology": "Shale",
+      "cluster_id": 2,
+      "top_y": 57932,
+      "bottom_y": 58001,
+      "confidence": 0.981,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 8943.47,
+      "bottom_depth": 8946.53,
+      "lithology": "Volcanic",
+      "cluster_id": 0,
+      "top_y": 58001,
+      "bottom_y": 58024,
+      "confidence": 0.193,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 8946.53,
+      "bottom_depth": 8947.47,
+      "lithology": "Shale",
+      "cluster_id": 4,
+      "top_y": 58024,
+      "bottom_y": 58031,
+      "confidence": 0.832,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 8947.47,
+      "bottom_depth": 8952.27,
+      "lithology": "Volcanic",
+      "cluster_id": 0,
+      "top_y": 58031,
+      "bottom_y": 58067,
+      "confidence": 0.193,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 8952.27,
+      "bottom_depth": 8955.47,
+      "lithology": "Shale",
+      "cluster_id": 2,
+      "top_y": 58067,
+      "bottom_y": 58091,
+      "confidence": 0.981,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 8955.47,
+      "bottom_depth": 9022.27,
+      "lithology": "Volcanic",
+      "cluster_id": 0,
+      "top_y": 58091,
+      "bottom_y": 58592,
+      "confidence": 0.193,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 9022.27,
+      "bottom_depth": 9025.6,
+      "lithology": "Shale",
+      "cluster_id": 2,
+      "top_y": 58592,
+      "bottom_y": 58617,
+      "confidence": 0.981,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 9025.6,
+      "bottom_depth": 9032.27,
+      "lithology": "Volcanic",
+      "cluster_id": 0,
+      "top_y": 58617,
+      "bottom_y": 58667,
+      "confidence": 0.193,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 9032.27,
+      "bottom_depth": 9039.47,
+      "lithology": "Shale",
+      "cluster_id": 2,
+      "top_y": 58667,
+      "bottom_y": 58721,
+      "confidence": 0.981,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 9039.47,
+      "bottom_depth": 9054.27,
+      "lithology": "Volcanic",
+      "cluster_id": 0,
+      "top_y": 58721,
+      "bottom_y": 58832,
+      "confidence": 0.193,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 9054.27,
+      "bottom_depth": 9059.6,
+      "lithology": "Shale",
+      "cluster_id": 2,
+      "top_y": 58832,
+      "bottom_y": 58872,
+      "confidence": 0.981,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 9059.6,
+      "bottom_depth": 9062.53,
+      "lithology": "Volcanic",
+      "cluster_id": 0,
+      "top_y": 58872,
+      "bottom_y": 58894,
+      "confidence": 0.193,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 9062.53,
+      "bottom_depth": 9063.6,
+      "lithology": "Shale",
+      "cluster_id": 4,
+      "top_y": 58894,
+      "bottom_y": 58902,
+      "confidence": 0.832,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 9063.6,
+      "bottom_depth": 9068.27,
+      "lithology": "Volcanic",
+      "cluster_id": 0,
+      "top_y": 58902,
+      "bottom_y": 58937,
+      "confidence": 0.193,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 9068.27,
+      "bottom_depth": 9069.6,
+      "lithology": "Shale",
+      "cluster_id": 2,
+      "top_y": 58937,
+      "bottom_y": 58947,
+      "confidence": 0.981,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 9069.6,
+      "bottom_depth": 9076.27,
+      "lithology": "Volcanic",
+      "cluster_id": 3,
+      "top_y": 58947,
+      "bottom_y": 58997,
+      "confidence": 0.002,
+      "ambiguous": true,
+      "alternatives": [
+        "Shale",
+        "Metamorphic",
+        "Granite"
+      ]
+    },
+    {
+      "top_depth": 9076.27,
+      "bottom_depth": 9077.6,
+      "lithology": "Shale",
+      "cluster_id": 2,
+      "top_y": 58997,
+      "bottom_y": 59007,
+      "confidence": 0.981,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 9077.6,
+      "bottom_depth": 9086.53,
+      "lithology": "Volcanic",
+      "cluster_id": 0,
+      "top_y": 59007,
+      "bottom_y": 59074,
+      "confidence": 0.193,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 9086.53,
+      "bottom_depth": 9087.6,
+      "lithology": "Shale",
+      "cluster_id": 4,
+      "top_y": 59074,
+      "bottom_y": 59082,
+      "confidence": 0.832,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 9087.6,
+      "bottom_depth": 9090.27,
+      "lithology": "Volcanic",
+      "cluster_id": 0,
+      "top_y": 59082,
+      "bottom_y": 59102,
+      "confidence": 0.193,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 9090.27,
+      "bottom_depth": 9093.47,
+      "lithology": "Shale",
+      "cluster_id": 2,
+      "top_y": 59102,
+      "bottom_y": 59126,
+      "confidence": 0.981,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 9093.47,
+      "bottom_depth": 9124.27,
+      "lithology": "Volcanic",
+      "cluster_id": 0,
+      "top_y": 59126,
+      "bottom_y": 59357,
+      "confidence": 0.193,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 9124.27,
+      "bottom_depth": 9127.6,
+      "lithology": "Shale",
+      "cluster_id": 2,
+      "top_y": 59357,
+      "bottom_y": 59382,
+      "confidence": 0.981,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 9127.6,
+      "bottom_depth": 9136.53,
+      "lithology": "Volcanic",
+      "cluster_id": 0,
+      "top_y": 59382,
+      "bottom_y": 59449,
+      "confidence": 0.193,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 9136.53,
+      "bottom_depth": 9137.6,
+      "lithology": "Shale",
+      "cluster_id": 4,
+      "top_y": 59449,
+      "bottom_y": 59457,
+      "confidence": 0.832,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 9137.6,
+      "bottom_depth": 9166.27,
+      "lithology": "Volcanic",
+      "cluster_id": 0,
+      "top_y": 59457,
+      "bottom_y": 59672,
+      "confidence": 0.193,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 9166.27,
+      "bottom_depth": 9169.47,
+      "lithology": "Shale",
+      "cluster_id": 2,
+      "top_y": 59672,
+      "bottom_y": 59696,
+      "confidence": 0.981,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 9169.47,
+      "bottom_depth": 9186.27,
+      "lithology": "Volcanic",
+      "cluster_id": 0,
+      "top_y": 59696,
+      "bottom_y": 59822,
+      "confidence": 0.193,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 9186.27,
+      "bottom_depth": 9187.47,
+      "lithology": "Shale",
+      "cluster_id": 2,
+      "top_y": 59822,
+      "bottom_y": 59831,
+      "confidence": 0.981,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 9187.47,
+      "bottom_depth": 9198.27,
+      "lithology": "Volcanic",
+      "cluster_id": 0,
+      "top_y": 59831,
+      "bottom_y": 59912,
+      "confidence": 0.193,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 9198.27,
+      "bottom_depth": 9201.47,
+      "lithology": "Shale",
+      "cluster_id": 2,
+      "top_y": 59912,
+      "bottom_y": 59936,
+      "confidence": 0.981,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 9201.47,
+      "bottom_depth": 9228.27,
+      "lithology": "Volcanic",
+      "cluster_id": 0,
+      "top_y": 59936,
+      "bottom_y": 60137,
+      "confidence": 0.193,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 9228.27,
+      "bottom_depth": 9231.6,
+      "lithology": "Shale",
+      "cluster_id": 2,
+      "top_y": 60137,
+      "bottom_y": 60162,
+      "confidence": 0.981,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 9231.6,
+      "bottom_depth": 9234.53,
+      "lithology": "Volcanic",
+      "cluster_id": 0,
+      "top_y": 60162,
+      "bottom_y": 60184,
+      "confidence": 0.193,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 9234.53,
+      "bottom_depth": 9235.6,
+      "lithology": "Shale",
+      "cluster_id": 4,
+      "top_y": 60184,
+      "bottom_y": 60192,
+      "confidence": 0.832,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 9235.6,
+      "bottom_depth": 9246.27,
+      "lithology": "Volcanic",
+      "cluster_id": 0,
+      "top_y": 60192,
+      "bottom_y": 60272,
+      "confidence": 0.193,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 9246.27,
+      "bottom_depth": 9249.47,
+      "lithology": "Shale",
+      "cluster_id": 2,
+      "top_y": 60272,
+      "bottom_y": 60296,
+      "confidence": 0.981,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 9249.47,
+      "bottom_depth": 9256.27,
+      "lithology": "Volcanic",
+      "cluster_id": 0,
+      "top_y": 60296,
+      "bottom_y": 60347,
+      "confidence": 0.193,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 9256.27,
+      "bottom_depth": 9257.47,
+      "lithology": "Shale",
+      "cluster_id": 2,
+      "top_y": 60347,
+      "bottom_y": 60356,
+      "confidence": 0.981,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 9257.47,
+      "bottom_depth": 9270.53,
+      "lithology": "Volcanic",
+      "cluster_id": 0,
+      "top_y": 60356,
+      "bottom_y": 60454,
+      "confidence": 0.193,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 9270.53,
+      "bottom_depth": 9271.6,
+      "lithology": "Shale",
+      "cluster_id": 4,
+      "top_y": 60454,
+      "bottom_y": 60462,
+      "confidence": 0.832,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 9271.6,
+      "bottom_depth": 9304.53,
+      "lithology": "Volcanic",
+      "cluster_id": 0,
+      "top_y": 60462,
+      "bottom_y": 60709,
+      "confidence": 0.193,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 9304.53,
+      "bottom_depth": 9309.6,
+      "lithology": "Shale",
+      "cluster_id": 2,
+      "top_y": 60709,
+      "bottom_y": 60747,
+      "confidence": 0.981,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 9309.6,
+      "bottom_depth": 9320.27,
+      "lithology": "Volcanic",
+      "cluster_id": 0,
+      "top_y": 60747,
+      "bottom_y": 60827,
+      "confidence": 0.193,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 9320.27,
+      "bottom_depth": 9323.47,
+      "lithology": "Shale",
+      "cluster_id": 2,
+      "top_y": 60827,
+      "bottom_y": 60851,
+      "confidence": 0.981,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 9323.47,
+      "bottom_depth": 9328.27,
+      "lithology": "Volcanic",
+      "cluster_id": 0,
+      "top_y": 60851,
+      "bottom_y": 60887,
+      "confidence": 0.193,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 9328.27,
+      "bottom_depth": 9329.6,
+      "lithology": "Shale",
+      "cluster_id": 2,
+      "top_y": 60887,
+      "bottom_y": 60897,
+      "confidence": 0.981,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 9329.6,
+      "bottom_depth": 9352.27,
+      "lithology": "Volcanic",
+      "cluster_id": 0,
+      "top_y": 60897,
+      "bottom_y": 61067,
+      "confidence": 0.193,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 9352.27,
+      "bottom_depth": 9353.47,
+      "lithology": "Shale",
+      "cluster_id": 4,
+      "top_y": 61067,
+      "bottom_y": 61076,
+      "confidence": 0.832,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 9353.47,
+      "bottom_depth": 9374.27,
+      "lithology": "Volcanic",
+      "cluster_id": 0,
+      "top_y": 61076,
+      "bottom_y": 61232,
+      "confidence": 0.193,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 9374.27,
+      "bottom_depth": 9377.47,
+      "lithology": "Shale",
+      "cluster_id": 2,
+      "top_y": 61232,
+      "bottom_y": 61256,
+      "confidence": 0.981,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 9377.47,
+      "bottom_depth": 9380.53,
+      "lithology": "Volcanic",
+      "cluster_id": 0,
+      "top_y": 61256,
+      "bottom_y": 61279,
+      "confidence": 0.193,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 9380.53,
+      "bottom_depth": 9381.6,
+      "lithology": "Shale",
+      "cluster_id": 4,
+      "top_y": 61279,
+      "bottom_y": 61287,
+      "confidence": 0.832,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 9381.6,
+      "bottom_depth": 9418.27,
+      "lithology": "Volcanic",
+      "cluster_id": 0,
+      "top_y": 61287,
+      "bottom_y": 61562,
+      "confidence": 0.193,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 9418.27,
+      "bottom_depth": 9423.47,
+      "lithology": "Shale",
+      "cluster_id": 2,
+      "top_y": 61562,
+      "bottom_y": 61601,
+      "confidence": 0.981,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 9423.47,
+      "bottom_depth": 9476.53,
+      "lithology": "Volcanic",
+      "cluster_id": 0,
+      "top_y": 61601,
+      "bottom_y": 61999,
+      "confidence": 0.193,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 9476.53,
+      "bottom_depth": 9477.47,
+      "lithology": "Shale",
+      "cluster_id": 4,
+      "top_y": 61999,
+      "bottom_y": 62006,
+      "confidence": 0.832,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 9477.47,
+      "bottom_depth": 9488.27,
+      "lithology": "Volcanic",
+      "cluster_id": 0,
+      "top_y": 62006,
+      "bottom_y": 62087,
+      "confidence": 0.193,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 9488.27,
+      "bottom_depth": 9489.6,
+      "lithology": "Shale",
+      "cluster_id": 2,
+      "top_y": 62087,
+      "bottom_y": 62097,
+      "confidence": 0.981,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 9489.6,
+      "bottom_depth": 9500.0,
+      "lithology": "Volcanic",
+      "cluster_id": 0,
+      "top_y": 62097,
+      "bottom_y": 62175,
+      "confidence": 0.193,
+      "ambiguous": false,
+      "alternatives": [
+        "Sandstone"
+      ]
+    }
+  ]
+}

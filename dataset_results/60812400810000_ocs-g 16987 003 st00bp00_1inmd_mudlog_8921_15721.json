@@ -1,0 +1,3108 @@
+{
+  "image": "60812400810000_ocs-g 16987 003 st00bp00_1inmd_mudlog_8921_15721.tif",
+  "image_size": [
+    2200,
+    18800
+  ],
+  "depth_fit": {
+    "px_per_ft": 2.3996,
+    "labels_used": 68,
+    "labels_read": 68,
+    "labels_rejected": 0,
+    "mean_residual_ft": 0.021,
+    "label_rotation_deg": 0,
+    "chunks_ocrd": "5/5",
+    "labels": [
+      [
+        1308.7,
+        8850.0
+      ],
+      [
+        1548.7,
+        8950.0
+      ],
+      [
+        1788.7,
+        9050.0
+      ],
+      [
+        2028.7,
+        9150.0
+      ],
+      [
+        2268.7,
+        9250.0
+      ],
+      [
+        2508.7,
+        9350.0
+      ],
+      [
+        2748.7,
+        9450.0
+      ],
+      [
+        2988.7,
+        9550.0
+      ],
+      [
+        3228.7,
+        9650.0
+      ],
+      [
+        3468.7,
+        9750.0
+      ],
+      [
+        3708.7,
+        9850.0
+      ],
+      [
+        3948.7,
+        9950.0
+      ],
+      [
+        4188.7,
+        10050.0
+      ],
+      [
+        4427.3,
+        10150.0
+      ],
+      [
+        4667.3,
+        10250.0
+      ],
+      [
+        4907.3,
+        10350.0
+      ],
+      [
+        5147.3,
+        10450.0
+      ],
+      [
+        5387.3,
+        10550.0
+      ],
+      [
+        5627.3,
+        10650.0
+      ],
+      [
+        5867.3,
+        10750.0
+      ],
+      [
+        6107.3,
+        10850.0
+      ],
+      [
+        6347.3,
+        10950.0
+      ],
+      [
+        6587.3,
+        11050.0
+      ],
+      [
+        6827.3,
+        11150.0
+      ],
+      [
+        7067.3,
+        11250.0
+      ],
+      [
+        7307.3,
+        11350.0
+      ],
+      [
+        7547.3,
+        11450.0
+      ],
+      [
+        7787.3,
+        11550.0
+      ],
+      [
+        8027.3,
+        11650.0
+      ],
+      [
+        8267.3,
+        11750.0
+      ],
+      [
+        8507.3,
+        11850.0
+      ],
+      [
+        8747.3,
+        11950.0
+      ],
+      [
+        8987.3,
+        12050.0
+      ],
+      [
+        9227.3,
+        12150.0
+      ],
+      [
+        9707.3,
+        12350.0
+      ],
+      [
+        9947.3,
+        12450.0
+      ],
+      [
+        10187.3,
+        12550.0
+      ],
+      [
+        10426.7,
+        12650.0
+      ],
+      [
+        10666.7,
+        12750.0
+      ],
+      [
+        10906.7,
+        12850.0
+      ],
+      [
+        11146.7,
+        12950.0
+      ],
+      [
+        11386.7,
+        13050.0
+      ],
+      [
+        11626.7,
+        13150.0
+      ],
+      [
+        11866.7,
+        13250.0
+      ],
+      [
+        12106.7,
+        13350.0
+      ],
+      [
+        12346.7,
+        13450.0
+      ],
+      [
+        12586.7,
+        13550.0
+      ],
+      [
+        12826.7,
+        13650.0
+      ],
+      [
+        13066.7,
+        13750.0
+      ],
+      [
+        13306.7,
+        13850.0
+      ],
+      [
+        13546.7,
+        13950.0
+      ],
+      [
+        13786.7,
+        14050.0
+      ],
+      [
+        14026.7,
+        14150.0
+      ],
+      [
+        14266.7,
+        14250.0
+      ],
+      [
+        14506.7,
+        14350.0
+      ],
+      [
+        14746.7,
+        14450.0
+      ],
+      [
+        14986.7,
+        14550.0
+      ],
+      [
+        15226.7,
+        14650.0
+      ],
+      [
+        15466.7,
+        14750.0
+      ],
+      [
+        15706.7,
+        14850.0
+      ],
+      [
+        15946.7,
+        14950.0
+      ],
+      [
+        16186.7,
+        15050.0
+      ],
+      [
+        16425.3,
+        15150.0
+      ],
+      [
+        16665.3,
+        15250.0
+      ],
+      [
+        16905.3,
+        15350.0
+      ],
+      [
+        17145.3,
+        15450.0
+      ],
+      [
+        17385.3,
+        15550.0
+      ],
+      [
+        17625.3,
+        15650.0
+      ]
+    ]
+  },
+  "legend": [
+    {
+      "name": "Volcanic cinder,",
+      "box": [
+        86,
+        643,
+        159,
+        683
+      ],
+      "white": false
+    },
+    {
+      "name": "Fine Sandstone",
+      "box": [
+        398,
+        643,
+        471,
+        683
+      ],
+      "white": false
+    },
+    {
+      "name": "Calcareous Sandstone",
+      "box": [
+        710,
+        643,
+        784,
+        683
+      ],
+      "white": false
+    },
+    {
+      "name": "Medium Sand",
+      "box": [
+        1023,
+        643,
+        1096,
+        683
+      ],
+      "white": false
+    },
+    {
+      "name": "Silt",
+      "box": [
+        1335,
+        643,
+        1409,
+        683
+      ],
+      "white": false
+    },
+    {
+      "name": "Void",
+      "box": [
+        87,
+        706,
+        160,
+        747
+      ],
+      "white": true
+    },
+    {
+      "name": "Limestone",
+      "box": [
+        399,
+        706,
+        473,
+        747
+      ],
+      "white": false
+    },
+    {
+      "name": "Marl",
+      "box": [
+        712,
+        706,
+        785,
+        747
+      ],
+      "white": false
+    },
+    {
+      "name": "Halite",
+      "box": [
+        1024,
+        706,
+        1097,
+        747
+      ],
+      "white": false
+    },
+    {
+      "name": "Calcareous clay-shal",
+      "box": [
+        1336,
+        706,
+        1410,
+        747
+      ],
+      "white": false
+    },
+    {
+      "name": "Medium Sand",
+      "box": [
+        86,
+        775,
+        159,
+        816
+      ],
+      "white": false
+    },
+    {
+      "name": "Clay-shale",
+      "box": [
+        398,
+        775,
+        471,
+        816
+      ],
+      "white": false
+    },
+    {
+      "name": "Fine Sand",
+      "box": [
+        710,
+        775,
+        784,
+        816
+      ],
+      "white": false
+    },
+    {
+      "name": "Dry",
+      "box": [
+        68,
+        852,
+        129,
+        900
+      ],
+      "white": false
+    },
+    {
+      "name": "Gas_Good",
+      "box": [
+        368,
+        852,
+        429,
+        900
+      ],
+      "white": false
+    },
+    {
+      "name": "Oil_Good",
+      "box": [
+        668,
+        852,
+        729,
+        900
+      ],
+      "white": false
+    },
+    {
+      "name": "Oil_Poor",
+      "box": [
+        968,
+        852,
+        1029,
+        900
+      ],
+      "white": false
+    },
+    {
+      "name": "Oil and Gas",
+      "box": [
+        1268,
+        852,
+        1329,
+        900
+      ],
+      "white": false
+    },
+    {
+      "name": "FIT",
+      "box": [
+        68,
+        941,
+        129,
+        990
+      ],
+      "white": false
+    },
+    {
+      "name": "Casing Top",
+      "box": [
+        368,
+        941,
+        429,
+        990
+      ],
+      "white": false
+    },
+    {
+      "name": "Mud loss",
+      "box": [
+        668,
+        941,
+        729,
+        990
+      ],
+      "white": false
+    },
+    {
+      "name": "Survey",
+      "box": [
+        968,
+        941,
+        1029,
+        990
+      ],
+      "white": false
+    },
+    {
+      "name": "Casing shoe",
+      "box": [
+        1268,
+        941,
+        1329,
+        990
+      ],
+      "white": false
+    },
+    {
+      "name": "Tuff",
+      "box": [
+        197,
+        643,
+        290,
+        684
+      ],
+      "white": false
+    }
+  ],
+  "identical_legend_symbols": [
+    [
+      "Oil_Good",
+      "Oil_Poor"
+    ]
+  ],
+  "n_groups": 27,
+  "snap_grid": null,
+  "warnings": [],
+  "timings_s": {
+    "depth": 1.11,
+    "segment": 0.11,
+    "legend": 0.51,
+    "intervals": 0.1,
+    "total": 1.82
+  },
+  "intervals": [
+    {
+      "top_depth": 8852.64,
+      "bottom_depth": 8855.14,
+      "lithology": "Mud loss",
+      "cluster_id": 24,
+      "top_y": 1315,
+      "bottom_y": 1321,
+      "confidence": 0.085,
+      "ambiguous": false,
+      "alternatives": [
+        "FIT",
+        "Survey",
+        "Dry"
+      ]
+    },
+    {
+      "top_depth": 8855.14,
+      "bottom_depth": 8901.39,
+      "lithology": "Casing Top",
+      "cluster_id": 1,
+      "top_y": 1321,
+      "bottom_y": 1432,
+      "confidence": 0.301,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 8901.39,
+      "bottom_depth": 8906.81,
+      "lithology": "Mud loss",
+      "cluster_id": 16,
+      "top_y": 1432,
+      "bottom_y": 1445,
+      "confidence": 0.007,
+      "ambiguous": true,
+      "alternatives": [
+        "Tuff",
+        "Survey",
+        "Dry"
+      ]
+    },
+    {
+      "top_depth": 8906.81,
+      "bottom_depth": 12318.61,
+      "lithology": "Void",
+      "cluster_id": 27,
+      "top_y": 1445,
+      "bottom_y": 9632,
+      "confidence": 0.8,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 12318.61,
+      "bottom_depth": 12326.53,
+      "lithology": "Casing shoe",
+      "cluster_id": 6,
+      "top_y": 9632,
+      "bottom_y": 9651,
+      "confidence": 0.394,
+      "ambiguous": false,
+      "alternatives": [
+        "Gas_Good"
+      ]
+    },
+    {
+      "top_depth": 12326.53,
+      "bottom_depth": 12445.69,
+      "lithology": "Void",
+      "cluster_id": 27,
+      "top_y": 9651,
+      "bottom_y": 9937,
+      "confidence": 0.8,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 12445.69,
+      "bottom_depth": 12674.31,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 9937,
+      "bottom_y": 10485,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 12674.31,
+      "bottom_depth": 12678.89,
+      "lithology": "Fine Sand",
+      "cluster_id": 10,
+      "top_y": 10485,
+      "bottom_y": 10496,
+      "confidence": 0.073,
+      "ambiguous": true,
+      "alternatives": [
+        "Fine Sandstone",
+        "Silt",
+        "Medium Sand"
+      ]
+    },
+    {
+      "top_depth": 12678.89,
+      "bottom_depth": 12704.72,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 10496,
+      "bottom_y": 10558,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 12704.72,
+      "bottom_depth": 12712.64,
+      "lithology": "Fine Sandstone",
+      "cluster_id": 3,
+      "top_y": 10558,
+      "bottom_y": 10577,
+      "confidence": 0.532,
+      "ambiguous": true,
+      "alternatives": [
+        "Medium Sand",
+        "Fine Sand",
+        "Medium Sand"
+      ]
+    },
+    {
+      "top_depth": 12712.64,
+      "bottom_depth": 12735.14,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 10577,
+      "bottom_y": 10631,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 12735.14,
+      "bottom_depth": 12742.64,
+      "lithology": "Fine Sandstone",
+      "cluster_id": 3,
+      "top_y": 10631,
+      "bottom_y": 10649,
+      "confidence": 0.532,
+      "ambiguous": true,
+      "alternatives": [
+        "Medium Sand",
+        "Fine Sand",
+        "Medium Sand"
+      ]
+    },
+    {
+      "top_depth": 12742.64,
+      "bottom_depth": 12762.64,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 10649,
+      "bottom_y": 10697,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 12762.64,
+      "bottom_depth": 12775.14,
+      "lithology": "Fine Sandstone",
+      "cluster_id": 3,
+      "top_y": 10697,
+      "bottom_y": 10727,
+      "confidence": 0.532,
+      "ambiguous": true,
+      "alternatives": [
+        "Medium Sand",
+        "Fine Sand",
+        "Medium Sand"
+      ]
+    },
+    {
+      "top_depth": 12775.14,
+      "bottom_depth": 12780.56,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 10727,
+      "bottom_y": 10740,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 12780.56,
+      "bottom_depth": 12787.64,
+      "lithology": "Fine Sandstone",
+      "cluster_id": 3,
+      "top_y": 10740,
+      "bottom_y": 10757,
+      "confidence": 0.532,
+      "ambiguous": true,
+      "alternatives": [
+        "Medium Sand",
+        "Fine Sand",
+        "Medium Sand"
+      ]
+    },
+    {
+      "top_depth": 12787.64,
+      "bottom_depth": 12825.14,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 10757,
+      "bottom_y": 10847,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 12825.14,
+      "bottom_depth": 12830.14,
+      "lithology": "Fine Sandstone",
+      "cluster_id": 3,
+      "top_y": 10847,
+      "bottom_y": 10859,
+      "confidence": 0.532,
+      "ambiguous": true,
+      "alternatives": [
+        "Medium Sand",
+        "Fine Sand",
+        "Medium Sand"
+      ]
+    },
+    {
+      "top_depth": 12830.14,
+      "bottom_depth": 12900.56,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 10859,
+      "bottom_y": 11028,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 12900.56,
+      "bottom_depth": 12907.64,
+      "lithology": "Dry",
+      "cluster_id": 2,
+      "top_y": 11028,
+      "bottom_y": 11045,
+      "confidence": 0.101,
+      "ambiguous": false,
+      "alternatives": [
+        "Gas_Good",
+        "Mud loss",
+        "Survey"
+      ]
+    },
+    {
+      "top_depth": 12907.64,
+      "bottom_depth": 12913.06,
+      "lithology": "Fine Sandstone",
+      "cluster_id": 9,
+      "top_y": 11045,
+      "bottom_y": 11058,
+      "confidence": 0.005,
+      "ambiguous": true,
+      "alternatives": [
+        "Medium Sand",
+        "Calcareous Sandstone",
+        "Medium Sand"
+      ]
+    },
+    {
+      "top_depth": 12913.06,
+      "bottom_depth": 12966.39,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 11058,
+      "bottom_y": 11186,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 12966.39,
+      "bottom_depth": 12971.39,
+      "lithology": "Fine Sand",
+      "cluster_id": 18,
+      "top_y": 11186,
+      "bottom_y": 11198,
+      "confidence": 0.018,
+      "ambiguous": true,
+      "alternatives": [
+        "Oil_Poor",
+        "Fine Sandstone",
+        "Silt"
+      ]
+    },
+    {
+      "top_depth": 12971.39,
+      "bottom_depth": 13012.22,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 11198,
+      "bottom_y": 11296,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 13012.22,
+      "bottom_depth": 13020.14,
+      "lithology": "Fine Sandstone",
+      "cluster_id": 3,
+      "top_y": 11296,
+      "bottom_y": 11315,
+      "confidence": 0.532,
+      "ambiguous": true,
+      "alternatives": [
+        "Medium Sand",
+        "Fine Sand",
+        "Medium Sand"
+      ]
+    },
+    {
+      "top_depth": 13020.14,
+      "bottom_depth": 13028.06,
+      "lithology": "Calcareous clay-shal",
+      "cluster_id": 7,
+      "top_y": 11315,
+      "bottom_y": 11334,
+      "confidence": 0.253,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 13028.06,
+      "bottom_depth": 13035.14,
+      "lithology": "Fine Sandstone",
+      "cluster_id": 3,
+      "top_y": 11334,
+      "bottom_y": 11351,
+      "confidence": 0.532,
+      "ambiguous": true,
+      "alternatives": [
+        "Medium Sand",
+        "Fine Sand",
+        "Medium Sand"
+      ]
+    },
+    {
+      "top_depth": 13035.14,
+      "bottom_depth": 13037.22,
+      "lithology": "Clay-shale",
+      "cluster_id": 25,
+      "top_y": 11351,
+      "bottom_y": 11356,
+      "confidence": 0.111,
+      "ambiguous": true,
+      "alternatives": [
+        "Marl",
+        "Calcareous clay-shal"
+      ]
+    },
+    {
+      "top_depth": 13037.22,
+      "bottom_depth": 13042.64,
+      "lithology": "Fine Sand",
+      "cluster_id": 11,
+      "top_y": 11356,
+      "bottom_y": 11369,
+      "confidence": 0.116,
+      "ambiguous": true,
+      "alternatives": [
+        "Fine Sandstone",
+        "Silt",
+        "Medium Sand"
+      ]
+    },
+    {
+      "top_depth": 13042.64,
+      "bottom_depth": 13133.89,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 11369,
+      "bottom_y": 11588,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 13133.89,
+      "bottom_depth": 13140.56,
+      "lithology": "Fine Sand",
+      "cluster_id": 10,
+      "top_y": 11588,
+      "bottom_y": 11604,
+      "confidence": 0.073,
+      "ambiguous": true,
+      "alternatives": [
+        "Fine Sandstone",
+        "Silt",
+        "Medium Sand"
+      ]
+    },
+    {
+      "top_depth": 13140.56,
+      "bottom_depth": 13178.89,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 11604,
+      "bottom_y": 11696,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 13178.89,
+      "bottom_depth": 13185.14,
+      "lithology": "Fine Sand",
+      "cluster_id": 10,
+      "top_y": 11696,
+      "bottom_y": 11711,
+      "confidence": 0.073,
+      "ambiguous": true,
+      "alternatives": [
+        "Fine Sandstone",
+        "Silt",
+        "Medium Sand"
+      ]
+    },
+    {
+      "top_depth": 13185.14,
+      "bottom_depth": 13237.64,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 11711,
+      "bottom_y": 11837,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 13237.64,
+      "bottom_depth": 13243.06,
+      "lithology": "Fine Sandstone",
+      "cluster_id": 9,
+      "top_y": 11837,
+      "bottom_y": 11850,
+      "confidence": 0.005,
+      "ambiguous": true,
+      "alternatives": [
+        "Medium Sand",
+        "Calcareous Sandstone",
+        "Medium Sand"
+      ]
+    },
+    {
+      "top_depth": 13243.06,
+      "bottom_depth": 13245.56,
+      "lithology": "Clay-shale",
+      "cluster_id": 23,
+      "top_y": 11850,
+      "bottom_y": 11856,
+      "confidence": 0.032,
+      "ambiguous": true,
+      "alternatives": [
+        "Marl",
+        "Calcareous clay-shal"
+      ]
+    },
+    {
+      "top_depth": 13245.56,
+      "bottom_depth": 13250.14,
+      "lithology": "Medium Sand",
+      "cluster_id": 19,
+      "top_y": 11856,
+      "bottom_y": 11867,
+      "confidence": 0.011,
+      "ambiguous": true,
+      "alternatives": [
+        "Calcareous Sandstone",
+        "Fine Sandstone"
+      ]
+    },
+    {
+      "top_depth": 13250.14,
+      "bottom_depth": 13268.89,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 11867,
+      "bottom_y": 11912,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 13268.89,
+      "bottom_depth": 13275.14,
+      "lithology": "Fine Sandstone",
+      "cluster_id": 3,
+      "top_y": 11912,
+      "bottom_y": 11927,
+      "confidence": 0.532,
+      "ambiguous": true,
+      "alternatives": [
+        "Medium Sand",
+        "Fine Sand",
+        "Medium Sand"
+      ]
+    },
+    {
+      "top_depth": 13275.14,
+      "bottom_depth": 13297.64,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 11927,
+      "bottom_y": 11981,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 13297.64,
+      "bottom_depth": 13304.72,
+      "lithology": "Fine Sand",
+      "cluster_id": 8,
+      "top_y": 11981,
+      "bottom_y": 11998,
+      "confidence": 0.072,
+      "ambiguous": true,
+      "alternatives": [
+        "Fine Sandstone",
+        "Silt",
+        "Medium Sand"
+      ]
+    },
+    {
+      "top_depth": 13304.72,
+      "bottom_depth": 13308.89,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 11998,
+      "bottom_y": 12008,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 13308.89,
+      "bottom_depth": 13313.89,
+      "lithology": "Fine Sandstone",
+      "cluster_id": 9,
+      "top_y": 12008,
+      "bottom_y": 12020,
+      "confidence": 0.005,
+      "ambiguous": true,
+      "alternatives": [
+        "Medium Sand",
+        "Calcareous Sandstone",
+        "Medium Sand"
+      ]
+    },
+    {
+      "top_depth": 13313.89,
+      "bottom_depth": 13320.56,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 12020,
+      "bottom_y": 12036,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 13320.56,
+      "bottom_depth": 13324.72,
+      "lithology": "Dry",
+      "cluster_id": 14,
+      "top_y": 12036,
+      "bottom_y": 12046,
+      "confidence": 0.064,
+      "ambiguous": false,
+      "alternatives": [
+        "Medium Sand",
+        "Calcareous Sandstone",
+        "Medium Sand"
+      ]
+    },
+    {
+      "top_depth": 13324.72,
+      "bottom_depth": 13331.39,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 12046,
+      "bottom_y": 12062,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 13331.39,
+      "bottom_depth": 13338.47,
+      "lithology": "Dry",
+      "cluster_id": 2,
+      "top_y": 12062,
+      "bottom_y": 12079,
+      "confidence": 0.101,
+      "ambiguous": false,
+      "alternatives": [
+        "Gas_Good",
+        "Mud loss",
+        "Survey"
+      ]
+    },
+    {
+      "top_depth": 13338.47,
+      "bottom_depth": 13361.39,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 12079,
+      "bottom_y": 12134,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 13361.39,
+      "bottom_depth": 13367.22,
+      "lithology": "Fine Sandstone",
+      "cluster_id": 9,
+      "top_y": 12134,
+      "bottom_y": 12148,
+      "confidence": 0.005,
+      "ambiguous": true,
+      "alternatives": [
+        "Medium Sand",
+        "Calcareous Sandstone",
+        "Medium Sand"
+      ]
+    },
+    {
+      "top_depth": 13367.22,
+      "bottom_depth": 13380.14,
+      "lithology": "Fine Sand",
+      "cluster_id": 11,
+      "top_y": 12148,
+      "bottom_y": 12179,
+      "confidence": 0.116,
+      "ambiguous": true,
+      "alternatives": [
+        "Fine Sandstone",
+        "Silt",
+        "Medium Sand"
+      ]
+    },
+    {
+      "top_depth": 13380.14,
+      "bottom_depth": 13396.39,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 12179,
+      "bottom_y": 12218,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 13396.39,
+      "bottom_depth": 13402.64,
+      "lithology": "Fine Sand",
+      "cluster_id": 10,
+      "top_y": 12218,
+      "bottom_y": 12233,
+      "confidence": 0.073,
+      "ambiguous": true,
+      "alternatives": [
+        "Fine Sandstone",
+        "Silt",
+        "Medium Sand"
+      ]
+    },
+    {
+      "top_depth": 13402.64,
+      "bottom_depth": 13416.39,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 12233,
+      "bottom_y": 12266,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 13416.39,
+      "bottom_depth": 13421.81,
+      "lithology": "Fine Sandstone",
+      "cluster_id": 3,
+      "top_y": 12266,
+      "bottom_y": 12279,
+      "confidence": 0.532,
+      "ambiguous": true,
+      "alternatives": [
+        "Medium Sand",
+        "Fine Sand",
+        "Medium Sand"
+      ]
+    },
+    {
+      "top_depth": 13421.81,
+      "bottom_depth": 13451.39,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 12279,
+      "bottom_y": 12350,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 13451.39,
+      "bottom_depth": 13458.47,
+      "lithology": "Dry",
+      "cluster_id": 2,
+      "top_y": 12350,
+      "bottom_y": 12367,
+      "confidence": 0.101,
+      "ambiguous": false,
+      "alternatives": [
+        "Gas_Good",
+        "Mud loss",
+        "Survey"
+      ]
+    },
+    {
+      "top_depth": 13458.47,
+      "bottom_depth": 13462.64,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 12367,
+      "bottom_y": 12377,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 13462.64,
+      "bottom_depth": 13468.06,
+      "lithology": "Fine Sandstone",
+      "cluster_id": 9,
+      "top_y": 12377,
+      "bottom_y": 12390,
+      "confidence": 0.005,
+      "ambiguous": true,
+      "alternatives": [
+        "Medium Sand",
+        "Calcareous Sandstone",
+        "Medium Sand"
+      ]
+    },
+    {
+      "top_depth": 13468.06,
+      "bottom_depth": 13485.14,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 12390,
+      "bottom_y": 12431,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 13485.14,
+      "bottom_depth": 13499.31,
+      "lithology": "Dry",
+      "cluster_id": 2,
+      "top_y": 12431,
+      "bottom_y": 12465,
+      "confidence": 0.101,
+      "ambiguous": false,
+      "alternatives": [
+        "Gas_Good",
+        "Mud loss",
+        "Survey"
+      ]
+    },
+    {
+      "top_depth": 13499.31,
+      "bottom_depth": 13503.89,
+      "lithology": "Fine Sand",
+      "cluster_id": 18,
+      "top_y": 12465,
+      "bottom_y": 12476,
+      "confidence": 0.018,
+      "ambiguous": true,
+      "alternatives": [
+        "Oil_Poor",
+        "Fine Sandstone",
+        "Silt"
+      ]
+    },
+    {
+      "top_depth": 13503.89,
+      "bottom_depth": 13507.64,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 12476,
+      "bottom_y": 12485,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 13507.64,
+      "bottom_depth": 13514.72,
+      "lithology": "Fine Sand",
+      "cluster_id": 8,
+      "top_y": 12485,
+      "bottom_y": 12502,
+      "confidence": 0.072,
+      "ambiguous": true,
+      "alternatives": [
+        "Fine Sandstone",
+        "Silt",
+        "Medium Sand"
+      ]
+    },
+    {
+      "top_depth": 13514.72,
+      "bottom_depth": 13546.39,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 12502,
+      "bottom_y": 12578,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 13546.39,
+      "bottom_depth": 13552.64,
+      "lithology": "Fine Sand",
+      "cluster_id": 11,
+      "top_y": 12578,
+      "bottom_y": 12593,
+      "confidence": 0.116,
+      "ambiguous": true,
+      "alternatives": [
+        "Fine Sandstone",
+        "Silt",
+        "Medium Sand"
+      ]
+    },
+    {
+      "top_depth": 13552.64,
+      "bottom_depth": 13559.31,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 12593,
+      "bottom_y": 12609,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 13559.31,
+      "bottom_depth": 13563.89,
+      "lithology": "Fine Sand",
+      "cluster_id": 18,
+      "top_y": 12609,
+      "bottom_y": 12620,
+      "confidence": 0.018,
+      "ambiguous": true,
+      "alternatives": [
+        "Oil_Poor",
+        "Fine Sandstone",
+        "Silt"
+      ]
+    },
+    {
+      "top_depth": 13563.89,
+      "bottom_depth": 13584.31,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 12620,
+      "bottom_y": 12669,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 13584.31,
+      "bottom_depth": 13593.06,
+      "lithology": "Fine Sandstone",
+      "cluster_id": 3,
+      "top_y": 12669,
+      "bottom_y": 12690,
+      "confidence": 0.532,
+      "ambiguous": true,
+      "alternatives": [
+        "Medium Sand",
+        "Fine Sand",
+        "Medium Sand"
+      ]
+    },
+    {
+      "top_depth": 13593.06,
+      "bottom_depth": 13628.89,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 12690,
+      "bottom_y": 12776,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 13628.89,
+      "bottom_depth": 13634.72,
+      "lithology": "Fine Sandstone",
+      "cluster_id": 3,
+      "top_y": 12776,
+      "bottom_y": 12790,
+      "confidence": 0.532,
+      "ambiguous": true,
+      "alternatives": [
+        "Medium Sand",
+        "Fine Sand",
+        "Medium Sand"
+      ]
+    },
+    {
+      "top_depth": 13634.72,
+      "bottom_depth": 13658.89,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 12790,
+      "bottom_y": 12848,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 13658.89,
+      "bottom_depth": 13665.56,
+      "lithology": "Fine Sand",
+      "cluster_id": 10,
+      "top_y": 12848,
+      "bottom_y": 12864,
+      "confidence": 0.073,
+      "ambiguous": true,
+      "alternatives": [
+        "Fine Sandstone",
+        "Silt",
+        "Medium Sand"
+      ]
+    },
+    {
+      "top_depth": 13665.56,
+      "bottom_depth": 13666.81,
+      "lithology": "Marl",
+      "cluster_id": 26,
+      "top_y": 12864,
+      "bottom_y": 12867,
+      "confidence": 0.05,
+      "ambiguous": true,
+      "alternatives": [
+        "Clay-shale",
+        "Calcareous clay-shal"
+      ]
+    },
+    {
+      "top_depth": 13666.81,
+      "bottom_depth": 13672.64,
+      "lithology": "Fine Sand",
+      "cluster_id": 11,
+      "top_y": 12867,
+      "bottom_y": 12881,
+      "confidence": 0.116,
+      "ambiguous": true,
+      "alternatives": [
+        "Fine Sandstone",
+        "Silt",
+        "Medium Sand"
+      ]
+    },
+    {
+      "top_depth": 13672.64,
+      "bottom_depth": 13698.47,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 12881,
+      "bottom_y": 12943,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 13698.47,
+      "bottom_depth": 13702.64,
+      "lithology": "Marl",
+      "cluster_id": 20,
+      "top_y": 12943,
+      "bottom_y": 12953,
+      "confidence": 0.03,
+      "ambiguous": true,
+      "alternatives": [
+        "Clay-shale",
+        "Calcareous clay-shal"
+      ]
+    },
+    {
+      "top_depth": 13702.64,
+      "bottom_depth": 13718.89,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 12953,
+      "bottom_y": 12992,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 13718.89,
+      "bottom_depth": 13723.06,
+      "lithology": "Medium Sand",
+      "cluster_id": 19,
+      "top_y": 12992,
+      "bottom_y": 13002,
+      "confidence": 0.011,
+      "ambiguous": true,
+      "alternatives": [
+        "Calcareous Sandstone",
+        "Fine Sandstone"
+      ]
+    },
+    {
+      "top_depth": 13723.06,
+      "bottom_depth": 13740.56,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 13002,
+      "bottom_y": 13044,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 13740.56,
+      "bottom_depth": 13745.14,
+      "lithology": "Medium Sand",
+      "cluster_id": 19,
+      "top_y": 13044,
+      "bottom_y": 13055,
+      "confidence": 0.011,
+      "ambiguous": true,
+      "alternatives": [
+        "Calcareous Sandstone",
+        "Fine Sandstone"
+      ]
+    },
+    {
+      "top_depth": 13745.14,
+      "bottom_depth": 13751.39,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 13055,
+      "bottom_y": 13070,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 13751.39,
+      "bottom_depth": 13758.47,
+      "lithology": "Dry",
+      "cluster_id": 2,
+      "top_y": 13070,
+      "bottom_y": 13087,
+      "confidence": 0.101,
+      "ambiguous": false,
+      "alternatives": [
+        "Gas_Good",
+        "Mud loss",
+        "Survey"
+      ]
+    },
+    {
+      "top_depth": 13758.47,
+      "bottom_depth": 13777.64,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 13087,
+      "bottom_y": 13133,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 13777.64,
+      "bottom_depth": 13782.64,
+      "lithology": "Fine Sandstone",
+      "cluster_id": 3,
+      "top_y": 13133,
+      "bottom_y": 13145,
+      "confidence": 0.532,
+      "ambiguous": true,
+      "alternatives": [
+        "Medium Sand",
+        "Fine Sand",
+        "Medium Sand"
+      ]
+    },
+    {
+      "top_depth": 13782.64,
+      "bottom_depth": 13808.89,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 13145,
+      "bottom_y": 13208,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 13808.89,
+      "bottom_depth": 13813.06,
+      "lithology": "Medium Sand",
+      "cluster_id": 19,
+      "top_y": 13208,
+      "bottom_y": 13218,
+      "confidence": 0.011,
+      "ambiguous": true,
+      "alternatives": [
+        "Calcareous Sandstone",
+        "Fine Sandstone"
+      ]
+    },
+    {
+      "top_depth": 13813.06,
+      "bottom_depth": 13833.89,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 13218,
+      "bottom_y": 13268,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 13833.89,
+      "bottom_depth": 13840.97,
+      "lithology": "Fine Sand",
+      "cluster_id": 8,
+      "top_y": 13268,
+      "bottom_y": 13285,
+      "confidence": 0.072,
+      "ambiguous": true,
+      "alternatives": [
+        "Fine Sandstone",
+        "Silt",
+        "Medium Sand"
+      ]
+    },
+    {
+      "top_depth": 13840.97,
+      "bottom_depth": 13868.89,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 13285,
+      "bottom_y": 13352,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 13868.89,
+      "bottom_depth": 13873.06,
+      "lithology": "Medium Sand",
+      "cluster_id": 19,
+      "top_y": 13352,
+      "bottom_y": 13362,
+      "confidence": 0.011,
+      "ambiguous": true,
+      "alternatives": [
+        "Calcareous Sandstone",
+        "Fine Sandstone"
+      ]
+    },
+    {
+      "top_depth": 13873.06,
+      "bottom_depth": 14364.31,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 13362,
+      "bottom_y": 14541,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 14364.31,
+      "bottom_depth": 14373.06,
+      "lithology": "Fine Sandstone",
+      "cluster_id": 3,
+      "top_y": 14541,
+      "bottom_y": 14562,
+      "confidence": 0.532,
+      "ambiguous": true,
+      "alternatives": [
+        "Medium Sand",
+        "Fine Sand",
+        "Medium Sand"
+      ]
+    },
+    {
+      "top_depth": 14373.06,
+      "bottom_depth": 14408.89,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 14562,
+      "bottom_y": 14648,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 14408.89,
+      "bottom_depth": 14415.56,
+      "lithology": "Fine Sand",
+      "cluster_id": 10,
+      "top_y": 14648,
+      "bottom_y": 14664,
+      "confidence": 0.073,
+      "ambiguous": true,
+      "alternatives": [
+        "Fine Sandstone",
+        "Silt",
+        "Medium Sand"
+      ]
+    },
+    {
+      "top_depth": 14415.56,
+      "bottom_depth": 14420.97,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 14664,
+      "bottom_y": 14677,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 14420.97,
+      "bottom_depth": 14430.56,
+      "lithology": "Fine Sandstone",
+      "cluster_id": 3,
+      "top_y": 14677,
+      "bottom_y": 14700,
+      "confidence": 0.532,
+      "ambiguous": true,
+      "alternatives": [
+        "Medium Sand",
+        "Fine Sand",
+        "Medium Sand"
+      ]
+    },
+    {
+      "top_depth": 14430.56,
+      "bottom_depth": 14439.31,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 14700,
+      "bottom_y": 14721,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 14439.31,
+      "bottom_depth": 14444.72,
+      "lithology": "Fine Sand",
+      "cluster_id": 11,
+      "top_y": 14721,
+      "bottom_y": 14734,
+      "confidence": 0.116,
+      "ambiguous": true,
+      "alternatives": [
+        "Fine Sandstone",
+        "Silt",
+        "Medium Sand"
+      ]
+    },
+    {
+      "top_depth": 14444.72,
+      "bottom_depth": 14453.06,
+      "lithology": "FIT",
+      "cluster_id": 5,
+      "top_y": 14734,
+      "bottom_y": 14754,
+      "confidence": 0.18,
+      "ambiguous": false,
+      "alternatives": [
+        "Mud loss",
+        "Survey",
+        "Dry"
+      ]
+    },
+    {
+      "top_depth": 14453.06,
+      "bottom_depth": 14460.97,
+      "lithology": "Casing shoe",
+      "cluster_id": 6,
+      "top_y": 14754,
+      "bottom_y": 14773,
+      "confidence": 0.394,
+      "ambiguous": false,
+      "alternatives": [
+        "Gas_Good"
+      ]
+    },
+    {
+      "top_depth": 14460.97,
+      "bottom_depth": 14463.89,
+      "lithology": "Void",
+      "cluster_id": 27,
+      "top_y": 14773,
+      "bottom_y": 14780,
+      "confidence": 0.8,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 14463.89,
+      "bottom_depth": 14469.72,
+      "lithology": "Dry",
+      "cluster_id": 13,
+      "top_y": 14780,
+      "bottom_y": 14794,
+      "confidence": 0.083,
+      "ambiguous": true,
+      "alternatives": [
+        "Gas_Good",
+        "Survey",
+        "Mud loss"
+      ]
+    },
+    {
+      "top_depth": 14469.72,
+      "bottom_depth": 14478.06,
+      "lithology": "Void",
+      "cluster_id": 27,
+      "top_y": 14794,
+      "bottom_y": 14814,
+      "confidence": 0.8,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 14478.06,
+      "bottom_depth": 14498.89,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 14814,
+      "bottom_y": 14864,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 14498.89,
+      "bottom_depth": 14503.06,
+      "lithology": "Medium Sand",
+      "cluster_id": 19,
+      "top_y": 14864,
+      "bottom_y": 14874,
+      "confidence": 0.011,
+      "ambiguous": true,
+      "alternatives": [
+        "Calcareous Sandstone",
+        "Fine Sandstone"
+      ]
+    },
+    {
+      "top_depth": 14503.06,
+      "bottom_depth": 14510.97,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 14874,
+      "bottom_y": 14893,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 14510.97,
+      "bottom_depth": 14515.14,
+      "lithology": "Fine Sandstone",
+      "cluster_id": 3,
+      "top_y": 14893,
+      "bottom_y": 14903,
+      "confidence": 0.532,
+      "ambiguous": true,
+      "alternatives": [
+        "Medium Sand",
+        "Fine Sand",
+        "Medium Sand"
+      ]
+    },
+    {
+      "top_depth": 14515.14,
+      "bottom_depth": 14525.97,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 14903,
+      "bottom_y": 14929,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 14525.97,
+      "bottom_depth": 14533.06,
+      "lithology": "Fine Sandstone",
+      "cluster_id": 9,
+      "top_y": 14929,
+      "bottom_y": 14946,
+      "confidence": 0.005,
+      "ambiguous": true,
+      "alternatives": [
+        "Medium Sand",
+        "Calcareous Sandstone",
+        "Medium Sand"
+      ]
+    },
+    {
+      "top_depth": 14533.06,
+      "bottom_depth": 14535.56,
+      "lithology": "Clay-shale",
+      "cluster_id": 23,
+      "top_y": 14946,
+      "bottom_y": 14952,
+      "confidence": 0.032,
+      "ambiguous": true,
+      "alternatives": [
+        "Marl",
+        "Calcareous clay-shal"
+      ]
+    },
+    {
+      "top_depth": 14535.56,
+      "bottom_depth": 14545.14,
+      "lithology": "Fine Sandstone",
+      "cluster_id": 9,
+      "top_y": 14952,
+      "bottom_y": 14975,
+      "confidence": 0.005,
+      "ambiguous": true,
+      "alternatives": [
+        "Medium Sand",
+        "Calcareous Sandstone",
+        "Medium Sand"
+      ]
+    },
+    {
+      "top_depth": 14545.14,
+      "bottom_depth": 14564.31,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 14975,
+      "bottom_y": 15021,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 14564.31,
+      "bottom_depth": 14573.89,
+      "lithology": "Fine Sandstone",
+      "cluster_id": 3,
+      "top_y": 15021,
+      "bottom_y": 15044,
+      "confidence": 0.532,
+      "ambiguous": true,
+      "alternatives": [
+        "Medium Sand",
+        "Fine Sand",
+        "Medium Sand"
+      ]
+    },
+    {
+      "top_depth": 14573.89,
+      "bottom_depth": 14585.56,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 15044,
+      "bottom_y": 15072,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 14585.56,
+      "bottom_depth": 14590.14,
+      "lithology": "Fine Sand",
+      "cluster_id": 18,
+      "top_y": 15072,
+      "bottom_y": 15083,
+      "confidence": 0.018,
+      "ambiguous": true,
+      "alternatives": [
+        "Oil_Poor",
+        "Fine Sandstone",
+        "Silt"
+      ]
+    },
+    {
+      "top_depth": 14590.14,
+      "bottom_depth": 14596.81,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 15083,
+      "bottom_y": 15099,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 14596.81,
+      "bottom_depth": 14602.64,
+      "lithology": "Fine Sand",
+      "cluster_id": 11,
+      "top_y": 15099,
+      "bottom_y": 15113,
+      "confidence": 0.116,
+      "ambiguous": true,
+      "alternatives": [
+        "Fine Sandstone",
+        "Silt",
+        "Medium Sand"
+      ]
+    },
+    {
+      "top_depth": 14602.64,
+      "bottom_depth": 14610.56,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 15113,
+      "bottom_y": 15132,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 14610.56,
+      "bottom_depth": 14617.64,
+      "lithology": "Fine Sandstone",
+      "cluster_id": 3,
+      "top_y": 15132,
+      "bottom_y": 15149,
+      "confidence": 0.532,
+      "ambiguous": true,
+      "alternatives": [
+        "Medium Sand",
+        "Fine Sand",
+        "Medium Sand"
+      ]
+    },
+    {
+      "top_depth": 14617.64,
+      "bottom_depth": 14625.14,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 15149,
+      "bottom_y": 15167,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 14625.14,
+      "bottom_depth": 14632.64,
+      "lithology": "Fine Sandstone",
+      "cluster_id": 3,
+      "top_y": 15167,
+      "bottom_y": 15185,
+      "confidence": 0.532,
+      "ambiguous": true,
+      "alternatives": [
+        "Medium Sand",
+        "Fine Sand",
+        "Medium Sand"
+      ]
+    },
+    {
+      "top_depth": 14632.64,
+      "bottom_depth": 14640.56,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 15185,
+      "bottom_y": 15204,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 14640.56,
+      "bottom_depth": 14646.39,
+      "lithology": "Dry",
+      "cluster_id": 14,
+      "top_y": 15204,
+      "bottom_y": 15218,
+      "confidence": 0.064,
+      "ambiguous": false,
+      "alternatives": [
+        "Medium Sand",
+        "Calcareous Sandstone",
+        "Medium Sand"
+      ]
+    },
+    {
+      "top_depth": 14646.39,
+      "bottom_depth": 14653.06,
+      "lithology": "Medium Sand",
+      "cluster_id": 12,
+      "top_y": 15218,
+      "bottom_y": 15234,
+      "confidence": 0.085,
+      "ambiguous": true,
+      "alternatives": [
+        "Fine Sandstone",
+        "Calcareous Sandstone"
+      ]
+    },
+    {
+      "top_depth": 14653.06,
+      "bottom_depth": 14666.81,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 15234,
+      "bottom_y": 15267,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 14666.81,
+      "bottom_depth": 14673.06,
+      "lithology": "Fine Sand",
+      "cluster_id": 8,
+      "top_y": 15267,
+      "bottom_y": 15282,
+      "confidence": 0.072,
+      "ambiguous": true,
+      "alternatives": [
+        "Fine Sandstone",
+        "Silt",
+        "Medium Sand"
+      ]
+    },
+    {
+      "top_depth": 14673.06,
+      "bottom_depth": 14689.72,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 15282,
+      "bottom_y": 15322,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 14689.72,
+      "bottom_depth": 14700.14,
+      "lithology": "Fine Sandstone",
+      "cluster_id": 3,
+      "top_y": 15322,
+      "bottom_y": 15347,
+      "confidence": 0.532,
+      "ambiguous": true,
+      "alternatives": [
+        "Medium Sand",
+        "Fine Sand",
+        "Medium Sand"
+      ]
+    },
+    {
+      "top_depth": 14700.14,
+      "bottom_depth": 14706.39,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 15347,
+      "bottom_y": 15362,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 14706.39,
+      "bottom_depth": 14711.39,
+      "lithology": "Fine Sand",
+      "cluster_id": 18,
+      "top_y": 15362,
+      "bottom_y": 15374,
+      "confidence": 0.018,
+      "ambiguous": true,
+      "alternatives": [
+        "Oil_Poor",
+        "Fine Sandstone",
+        "Silt"
+      ]
+    },
+    {
+      "top_depth": 14711.39,
+      "bottom_depth": 14738.89,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 15374,
+      "bottom_y": 15440,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 14738.89,
+      "bottom_depth": 14745.56,
+      "lithology": "Fine Sand",
+      "cluster_id": 10,
+      "top_y": 15440,
+      "bottom_y": 15456,
+      "confidence": 0.073,
+      "ambiguous": true,
+      "alternatives": [
+        "Fine Sandstone",
+        "Silt",
+        "Medium Sand"
+      ]
+    },
+    {
+      "top_depth": 14745.56,
+      "bottom_depth": 14748.89,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 15456,
+      "bottom_y": 15464,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 14748.89,
+      "bottom_depth": 14752.64,
+      "lithology": "Medium Sand",
+      "cluster_id": 12,
+      "top_y": 15464,
+      "bottom_y": 15473,
+      "confidence": 0.085,
+      "ambiguous": true,
+      "alternatives": [
+        "Fine Sandstone",
+        "Calcareous Sandstone"
+      ]
+    },
+    {
+      "top_depth": 14752.64,
+      "bottom_depth": 14778.89,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 15473,
+      "bottom_y": 15536,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 14778.89,
+      "bottom_depth": 14782.64,
+      "lithology": "Fine Sandstone",
+      "cluster_id": 3,
+      "top_y": 15536,
+      "bottom_y": 15545,
+      "confidence": 0.532,
+      "ambiguous": true,
+      "alternatives": [
+        "Medium Sand",
+        "Fine Sand",
+        "Medium Sand"
+      ]
+    },
+    {
+      "top_depth": 14782.64,
+      "bottom_depth": 14785.56,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 15545,
+      "bottom_y": 15552,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 14785.56,
+      "bottom_depth": 14795.14,
+      "lithology": "Fine Sandstone",
+      "cluster_id": 3,
+      "top_y": 15552,
+      "bottom_y": 15575,
+      "confidence": 0.532,
+      "ambiguous": true,
+      "alternatives": [
+        "Medium Sand",
+        "Fine Sand",
+        "Medium Sand"
+      ]
+    },
+    {
+      "top_depth": 14795.14,
+      "bottom_depth": 14821.81,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 15575,
+      "bottom_y": 15639,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 14821.81,
+      "bottom_depth": 14831.81,
+      "lithology": "Fine Sandstone",
+      "cluster_id": 3,
+      "top_y": 15639,
+      "bottom_y": 15663,
+      "confidence": 0.532,
+      "ambiguous": true,
+      "alternatives": [
+        "Medium Sand",
+        "Fine Sand",
+        "Medium Sand"
+      ]
+    },
+    {
+      "top_depth": 14831.81,
+      "bottom_depth": 14833.06,
+      "lithology": "Marl",
+      "cluster_id": 26,
+      "top_y": 15663,
+      "bottom_y": 15666,
+      "confidence": 0.05,
+      "ambiguous": true,
+      "alternatives": [
+        "Clay-shale",
+        "Calcareous clay-shal"
+      ]
+    },
+    {
+      "top_depth": 14833.06,
+      "bottom_depth": 14838.06,
+      "lithology": "Fine Sand",
+      "cluster_id": 18,
+      "top_y": 15666,
+      "bottom_y": 15678,
+      "confidence": 0.018,
+      "ambiguous": true,
+      "alternatives": [
+        "Oil_Poor",
+        "Fine Sandstone",
+        "Silt"
+      ]
+    },
+    {
+      "top_depth": 14838.06,
+      "bottom_depth": 14866.39,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 15678,
+      "bottom_y": 15746,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 14866.39,
+      "bottom_depth": 14873.89,
+      "lithology": "Fine Sandstone",
+      "cluster_id": 3,
+      "top_y": 15746,
+      "bottom_y": 15764,
+      "confidence": 0.532,
+      "ambiguous": true,
+      "alternatives": [
+        "Medium Sand",
+        "Fine Sand",
+        "Medium Sand"
+      ]
+    },
+    {
+      "top_depth": 14873.89,
+      "bottom_depth": 14878.06,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 15764,
+      "bottom_y": 15774,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 14878.06,
+      "bottom_depth": 14886.81,
+      "lithology": "Fine Sandstone",
+      "cluster_id": 3,
+      "top_y": 15774,
+      "bottom_y": 15795,
+      "confidence": 0.532,
+      "ambiguous": true,
+      "alternatives": [
+        "Medium Sand",
+        "Fine Sand",
+        "Medium Sand"
+      ]
+    },
+    {
+      "top_depth": 14886.81,
+      "bottom_depth": 14918.89,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 15795,
+      "bottom_y": 15872,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 14918.89,
+      "bottom_depth": 14925.14,
+      "lithology": "Fine Sandstone",
+      "cluster_id": 3,
+      "top_y": 15872,
+      "bottom_y": 15887,
+      "confidence": 0.532,
+      "ambiguous": true,
+      "alternatives": [
+        "Medium Sand",
+        "Fine Sand",
+        "Medium Sand"
+      ]
+    },
+    {
+      "top_depth": 14925.14,
+      "bottom_depth": 14933.89,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 15887,
+      "bottom_y": 15908,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 14933.89,
+      "bottom_depth": 14940.56,
+      "lithology": "Fine Sand",
+      "cluster_id": 11,
+      "top_y": 15908,
+      "bottom_y": 15924,
+      "confidence": 0.116,
+      "ambiguous": true,
+      "alternatives": [
+        "Fine Sandstone",
+        "Silt",
+        "Medium Sand"
+      ]
+    },
+    {
+      "top_depth": 14940.56,
+      "bottom_depth": 14962.22,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 15924,
+      "bottom_y": 15976,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 14962.22,
+      "bottom_depth": 14968.06,
+      "lithology": "Dry",
+      "cluster_id": 15,
+      "top_y": 15976,
+      "bottom_y": 15990,
+      "confidence": 0.087,
+      "ambiguous": false,
+      "alternatives": [
+        "Gas_Good",
+        "Marl",
+        "Calcareous clay-shal"
+      ]
+    },
+    {
+      "top_depth": 14968.06,
+      "bottom_depth": 14973.06,
+      "lithology": "Fine Sand",
+      "cluster_id": 18,
+      "top_y": 15990,
+      "bottom_y": 16002,
+      "confidence": 0.018,
+      "ambiguous": true,
+      "alternatives": [
+        "Oil_Poor",
+        "Fine Sandstone",
+        "Silt"
+      ]
+    },
+    {
+      "top_depth": 14973.06,
+      "bottom_depth": 15018.47,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 16002,
+      "bottom_y": 16111,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 15018.47,
+      "bottom_depth": 15024.31,
+      "lithology": "Medium Sand",
+      "cluster_id": 12,
+      "top_y": 16111,
+      "bottom_y": 16125,
+      "confidence": 0.085,
+      "ambiguous": true,
+      "alternatives": [
+        "Fine Sandstone",
+        "Calcareous Sandstone"
+      ]
+    },
+    {
+      "top_depth": 15024.31,
+      "bottom_depth": 15026.39,
+      "lithology": "Clay-shale",
+      "cluster_id": 23,
+      "top_y": 16125,
+      "bottom_y": 16130,
+      "confidence": 0.032,
+      "ambiguous": true,
+      "alternatives": [
+        "Marl",
+        "Calcareous clay-shal"
+      ]
+    },
+    {
+      "top_depth": 15026.39,
+      "bottom_depth": 15033.47,
+      "lithology": "Fine Sandstone",
+      "cluster_id": 9,
+      "top_y": 16130,
+      "bottom_y": 16147,
+      "confidence": 0.005,
+      "ambiguous": true,
+      "alternatives": [
+        "Medium Sand",
+        "Calcareous Sandstone",
+        "Medium Sand"
+      ]
+    },
+    {
+      "top_depth": 15033.47,
+      "bottom_depth": 15065.22,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 16147,
+      "bottom_y": 16223,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 15065.22,
+      "bottom_depth": 15071.51,
+      "lithology": "Fine Sand",
+      "cluster_id": 10,
+      "top_y": 16223,
+      "bottom_y": 16238,
+      "confidence": 0.073,
+      "ambiguous": true,
+      "alternatives": [
+        "Fine Sandstone",
+        "Silt",
+        "Medium Sand"
+      ]
+    },
+    {
+      "top_depth": 15071.51,
+      "bottom_depth": 15110.47,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 16238,
+      "bottom_y": 16331,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 15110.47,
+      "bottom_depth": 15117.18,
+      "lithology": "Fine Sand",
+      "cluster_id": 11,
+      "top_y": 16331,
+      "bottom_y": 16347,
+      "confidence": 0.116,
+      "ambiguous": true,
+      "alternatives": [
+        "Fine Sandstone",
+        "Silt",
+        "Medium Sand"
+      ]
+    },
+    {
+      "top_depth": 15117.18,
+      "bottom_depth": 15140.64,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 16347,
+      "bottom_y": 16403,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 15140.64,
+      "bottom_depth": 15147.35,
+      "lithology": "Fine Sand",
+      "cluster_id": 11,
+      "top_y": 16403,
+      "bottom_y": 16419,
+      "confidence": 0.116,
+      "ambiguous": true,
+      "alternatives": [
+        "Fine Sandstone",
+        "Silt",
+        "Medium Sand"
+      ]
+    },
+    {
+      "top_depth": 15147.35,
+      "bottom_depth": 15154.44,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 16419,
+      "bottom_y": 16436,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 15154.44,
+      "bottom_depth": 15158.19,
+      "lithology": "Fine Sand",
+      "cluster_id": 11,
+      "top_y": 16436,
+      "bottom_y": 16445,
+      "confidence": 0.116,
+      "ambiguous": true,
+      "alternatives": [
+        "Fine Sandstone",
+        "Silt",
+        "Medium Sand"
+      ]
+    },
+    {
+      "top_depth": 15158.19,
+      "bottom_depth": 15170.28,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 16445,
+      "bottom_y": 16474,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 15170.28,
+      "bottom_depth": 15178.61,
+      "lithology": "FIT",
+      "cluster_id": 5,
+      "top_y": 16474,
+      "bottom_y": 16494,
+      "confidence": 0.18,
+      "ambiguous": false,
+      "alternatives": [
+        "Mud loss",
+        "Survey",
+        "Dry"
+      ]
+    },
+    {
+      "top_depth": 15178.61,
+      "bottom_depth": 15184.03,
+      "lithology": "Casing shoe",
+      "cluster_id": 6,
+      "top_y": 16494,
+      "bottom_y": 16507,
+      "confidence": 0.394,
+      "ambiguous": false,
+      "alternatives": [
+        "Gas_Good"
+      ]
+    },
+    {
+      "top_depth": 15184.03,
+      "bottom_depth": 15187.78,
+      "lithology": "Dry",
+      "cluster_id": 17,
+      "top_y": 16507,
+      "bottom_y": 16516,
+      "confidence": 0.449,
+      "ambiguous": false,
+      "alternatives": [
+        "Survey",
+        "Gas_Good",
+        "Mud loss"
+      ]
+    },
+    {
+      "top_depth": 15187.78,
+      "bottom_depth": 15195.28,
+      "lithology": "Casing shoe",
+      "cluster_id": 6,
+      "top_y": 16516,
+      "bottom_y": 16534,
+      "confidence": 0.394,
+      "ambiguous": false,
+      "alternatives": [
+        "Gas_Good"
+      ]
+    },
+    {
+      "top_depth": 15195.28,
+      "bottom_depth": 15198.61,
+      "lithology": "Void",
+      "cluster_id": 27,
+      "top_y": 16534,
+      "bottom_y": 16542,
+      "confidence": 0.8,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 15198.61,
+      "bottom_depth": 15206.11,
+      "lithology": "Casing shoe",
+      "cluster_id": 6,
+      "top_y": 16542,
+      "bottom_y": 16560,
+      "confidence": 0.394,
+      "ambiguous": false,
+      "alternatives": [
+        "Gas_Good"
+      ]
+    },
+    {
+      "top_depth": 15206.11,
+      "bottom_depth": 15225.69,
+      "lithology": "Void",
+      "cluster_id": 27,
+      "top_y": 16560,
+      "bottom_y": 16607,
+      "confidence": 0.8,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 15225.69,
+      "bottom_depth": 15424.86,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 16607,
+      "bottom_y": 17085,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 15424.86,
+      "bottom_depth": 15431.53,
+      "lithology": "Void",
+      "cluster_id": 27,
+      "top_y": 17085,
+      "bottom_y": 17101,
+      "confidence": 0.8,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 15431.53,
+      "bottom_depth": 15436.94,
+      "lithology": "Casing shoe",
+      "cluster_id": 6,
+      "top_y": 17101,
+      "bottom_y": 17114,
+      "confidence": 0.394,
+      "ambiguous": false,
+      "alternatives": [
+        "Gas_Good"
+      ]
+    },
+    {
+      "top_depth": 15436.94,
+      "bottom_depth": 15442.36,
+      "lithology": "Dry",
+      "cluster_id": 17,
+      "top_y": 17114,
+      "bottom_y": 17127,
+      "confidence": 0.449,
+      "ambiguous": false,
+      "alternatives": [
+        "Survey",
+        "Gas_Good",
+        "Mud loss"
+      ]
+    },
+    {
+      "top_depth": 15442.36,
+      "bottom_depth": 15451.53,
+      "lithology": "Casing shoe",
+      "cluster_id": 4,
+      "top_y": 17127,
+      "bottom_y": 17149,
+      "confidence": 0.419,
+      "ambiguous": false,
+      "alternatives": [
+        "Casing Top"
+      ]
+    },
+    {
+      "top_depth": 15451.53,
+      "bottom_depth": 15455.69,
+      "lithology": "Oil and Gas",
+      "cluster_id": 21,
+      "top_y": 17149,
+      "bottom_y": 17159,
+      "confidence": 0.207,
+      "ambiguous": false,
+      "alternatives": [
+        "Oil_Good",
+        "Oil_Poor"
+      ]
+    },
+    {
+      "top_depth": 15455.69,
+      "bottom_depth": 15459.03,
+      "lithology": "Casing shoe",
+      "cluster_id": 6,
+      "top_y": 17159,
+      "bottom_y": 17167,
+      "confidence": 0.394,
+      "ambiguous": false,
+      "alternatives": [
+        "Gas_Good"
+      ]
+    },
+    {
+      "top_depth": 15459.03,
+      "bottom_depth": 15479.86,
+      "lithology": "Void",
+      "cluster_id": 27,
+      "top_y": 17167,
+      "bottom_y": 17217,
+      "confidence": 0.8,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 15479.86,
+      "bottom_depth": 15714.46,
+      "lithology": "Clay-shale",
+      "cluster_id": 0,
+      "top_y": 17217,
+      "bottom_y": 17780,
+      "confidence": 0.916,
+      "ambiguous": false,
+      "alternatives": [
+        "Marl"
+      ]
+    },
+    {
+      "top_depth": 15714.46,
+      "bottom_depth": 15741.54,
+      "lithology": "Void",
+      "cluster_id": 27,
+      "top_y": 17780,
+      "bottom_y": 17845,
+      "confidence": 0.8,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 15741.54,
+      "bottom_depth": 15745.71,
+      "lithology": "Tuff",
+      "cluster_id": 22,
+      "top_y": 17845,
+      "bottom_y": 17855,
+      "confidence": 0.03,
+      "ambiguous": true,
+      "alternatives": [
+        "FIT",
+        "Dry",
+        "Survey"
+      ]
+    }
+  ]
+}

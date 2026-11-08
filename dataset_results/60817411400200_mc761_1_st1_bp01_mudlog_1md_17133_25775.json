@@ -1,0 +1,2774 @@
+{
+  "image": "60817411400200_mc761_1_st1_bp01_mudlog_1md_17133_25775.tiff",
+  "image_size": [
+    1700,
+    22000
+  ],
+  "depth_fit": {
+    "px_per_ft": 1.9998,
+    "labels_used": 86,
+    "labels_read": 86,
+    "labels_rejected": 0,
+    "mean_residual_ft": 0.121,
+    "label_rotation_deg": 90,
+    "chunks_ocrd": "5/5",
+    "labels": [
+      [
+        3136.9,
+        17200.0
+      ],
+      [
+        3336.8,
+        17300.0
+      ],
+      [
+        3536.8,
+        17400.0
+      ],
+      [
+        3736.8,
+        17500.0
+      ],
+      [
+        3936.7,
+        17600.0
+      ],
+      [
+        4137.0,
+        17700.0
+      ],
+      [
+        4336.6,
+        17800.0
+      ],
+      [
+        4536.9,
+        17900.0
+      ],
+      [
+        4736.5,
+        18000.0
+      ],
+      [
+        4936.8,
+        18100.0
+      ],
+      [
+        5136.8,
+        18200.0
+      ],
+      [
+        5336.7,
+        18300.0
+      ],
+      [
+        5536.7,
+        18400.0
+      ],
+      [
+        5736.6,
+        18500.0
+      ],
+      [
+        5936.6,
+        18600.0
+      ],
+      [
+        6136.6,
+        18700.0
+      ],
+      [
+        6336.5,
+        18800.0
+      ],
+      [
+        6536.5,
+        18900.0
+      ],
+      [
+        6736.4,
+        19000.0
+      ],
+      [
+        6937.5,
+        19100.0
+      ],
+      [
+        7136.9,
+        19200.0
+      ],
+      [
+        7336.8,
+        19300.0
+      ],
+      [
+        7536.8,
+        19400.0
+      ],
+      [
+        7736.8,
+        19500.0
+      ],
+      [
+        7936.7,
+        19600.0
+      ],
+      [
+        8137.0,
+        19700.0
+      ],
+      [
+        8336.6,
+        19800.0
+      ],
+      [
+        8536.9,
+        19900.0
+      ],
+      [
+        8735.2,
+        20000.0
+      ],
+      [
+        8935.1,
+        20100.0
+      ],
+      [
+        9135.4,
+        20200.0
+      ],
+      [
+        9335.0,
+        20300.0
+      ],
+      [
+        9535.3,
+        20400.0
+      ],
+      [
+        9735.0,
+        20500.0
+      ],
+      [
+        9935.2,
+        20600.0
+      ],
+      [
+        10135.2,
+        20700.0
+      ],
+      [
+        10335.2,
+        20800.0
+      ],
+      [
+        10535.1,
+        20900.0
+      ],
+      [
+        10735.1,
+        21000.0
+      ],
+      [
+        10936.8,
+        21100.0
+      ],
+      [
+        11135.5,
+        21200.0
+      ],
+      [
+        11335.5,
+        21300.0
+      ],
+      [
+        11535.5,
+        21400.0
+      ],
+      [
+        11735.4,
+        21500.0
+      ],
+      [
+        11935.4,
+        21600.0
+      ],
+      [
+        12135.3,
+        21700.0
+      ],
+      [
+        12335.3,
+        21800.0
+      ],
+      [
+        12535.2,
+        21900.0
+      ],
+      [
+        12735.2,
+        22000.0
+      ],
+      [
+        12935.1,
+        22100.0
+      ],
+      [
+        13135.4,
+        22200.0
+      ],
+      [
+        13335.0,
+        22300.0
+      ],
+      [
+        13535.3,
+        22400.0
+      ],
+      [
+        13735.0,
+        22500.0
+      ],
+      [
+        13935.2,
+        22600.0
+      ],
+      [
+        14135.2,
+        22700.0
+      ],
+      [
+        14335.2,
+        22800.0
+      ],
+      [
+        14535.1,
+        22900.0
+      ],
+      [
+        14735.1,
+        23000.0
+      ],
+      [
+        14936.8,
+        23100.0
+      ],
+      [
+        15135.5,
+        23200.0
+      ],
+      [
+        15335.5,
+        23300.0
+      ],
+      [
+        15535.5,
+        23400.0
+      ],
+      [
+        15735.4,
+        23500.0
+      ],
+      [
+        15935.4,
+        23600.0
+      ],
+      [
+        16135.3,
+        23700.0
+      ],
+      [
+        16335.3,
+        23800.0
+      ],
+      [
+        16535.2,
+        23900.0
+      ],
+      [
+        16735.2,
+        24000.0
+      ],
+      [
+        16935.1,
+        24100.0
+      ],
+      [
+        17135.4,
+        24200.0
+      ],
+      [
+        17335.0,
+        24300.0
+      ],
+      [
+        17535.3,
+        24400.0
+      ],
+      [
+        17735.0,
+        24500.0
+      ],
+      [
+        17935.2,
+        24600.0
+      ],
+      [
+        18135.2,
+        24700.0
+      ],
+      [
+        18335.2,
+        24800.0
+      ],
+      [
+        18535.1,
+        24900.0
+      ],
+      [
+        18735.1,
+        25000.0
+      ],
+      [
+        18936.8,
+        25100.0
+      ],
+      [
+        19135.5,
+        25200.0
+      ],
+      [
+        19335.5,
+        25300.0
+      ],
+      [
+        19535.5,
+        25400.0
+      ],
+      [
+        19735.4,
+        25500.0
+      ],
+      [
+        19935.4,
+        25600.0
+      ],
+      [
+        20135.3,
+        25700.0
+      ]
+    ]
+  },
+  "legend": [
+    {
+      "name": "Dolomitic",
+      "box": [
+        62,
+        1342,
+        113,
+        1390
+      ],
+      "white": false
+    },
+    {
+      "name": "Siliceous",
+      "box": [
+        276,
+        1342,
+        327,
+        1390
+      ],
+      "white": false
+    },
+    {
+      "name": "Not Available",
+      "box": [
+        676,
+        1342,
+        727,
+        1390
+      ],
+      "white": false
+    },
+    {
+      "name": "Anhydrite",
+      "box": [
+        889,
+        1342,
+        940,
+        1390
+      ],
+      "white": false
+    },
+    {
+      "name": "Glauconite",
+      "box": [
+        62,
+        1410,
+        113,
+        1458
+      ],
+      "white": false
+    },
+    {
+      "name": "Sand",
+      "box": [
+        276,
+        1410,
+        327,
+        1458
+      ],
+      "white": false
+    },
+    {
+      "name": "Sandstone",
+      "box": [
+        676,
+        1410,
+        727,
+        1458
+      ],
+      "white": false
+    },
+    {
+      "name": "Marlstone",
+      "box": [
+        889,
+        1410,
+        940,
+        1458
+      ],
+      "white": false
+    },
+    {
+      "name": "Salt",
+      "box": [
+        276,
+        1478,
+        327,
+        1526
+      ],
+      "white": false
+    },
+    {
+      "name": "Siltstone",
+      "box": [
+        676,
+        1478,
+        727,
+        1526
+      ],
+      "white": false
+    },
+    {
+      "name": "Salt",
+      "box": [
+        889,
+        1478,
+        940,
+        1526
+      ],
+      "white": false
+    },
+    {
+      "name": "Anhydrite",
+      "box": [
+        62,
+        1478,
+        113,
+        1526
+      ],
+      "white": false
+    },
+    {
+      "name": "Kaolinite",
+      "box": [
+        62,
+        1546,
+        113,
+        1594
+      ],
+      "white": false
+    },
+    {
+      "name": "Calcareous",
+      "box": [
+        276,
+        1546,
+        327,
+        1594
+      ],
+      "white": false
+    },
+    {
+      "name": "Shale",
+      "box": [
+        676,
+        1546,
+        727,
+        1594
+      ],
+      "white": false
+    },
+    {
+      "name": "Breccia",
+      "box": [
+        889,
+        1546,
+        940,
+        1594
+      ],
+      "white": false
+    },
+    {
+      "name": "Marl",
+      "box": [
+        62,
+        1614,
+        113,
+        1662
+      ],
+      "white": false
+    },
+    {
+      "name": "Carbonaceous",
+      "box": [
+        276,
+        1614,
+        327,
+        1662
+      ],
+      "white": true
+    },
+    {
+      "name": "Conglomerate",
+      "box": [
+        676,
+        1614,
+        727,
+        1662
+      ],
+      "white": false
+    },
+    {
+      "name": "Claystone",
+      "box": [
+        889,
+        1614,
+        940,
+        1662
+      ],
+      "white": false
+    },
+    {
+      "name": "Limestone",
+      "box": [
+        676,
+        1682,
+        727,
+        1730
+      ],
+      "white": false
+    },
+    {
+      "name": "Pyrite",
+      "box": [
+        62,
+        1682,
+        113,
+        1730
+      ],
+      "white": false
+    },
+    {
+      "name": "Argillaceous",
+      "box": [
+        276,
+        1682,
+        327,
+        1730
+      ],
+      "white": false
+    },
+    {
+      "name": "Silty",
+      "box": [
+        62,
+        1750,
+        113,
+        1798
+      ],
+      "white": false
+    },
+    {
+      "name": "Dolomite",
+      "box": [
+        676,
+        1750,
+        727,
+        1798
+      ],
+      "white": false
+    }
+  ],
+  "identical_legend_symbols": [],
+  "n_groups": 36,
+  "snap_grid": null,
+  "warnings": [],
+  "timings_s": {
+    "depth": 1.23,
+    "segment": 0.17,
+    "legend": 0.71,
+    "intervals": 0.13,
+    "total": 2.25
+  },
+  "intervals": [
+    {
+      "top_depth": 17135.55,
+      "bottom_depth": 17382.59,
+      "lithology": "Argillaceous",
+      "cluster_id": 0,
+      "top_y": 3008,
+      "bottom_y": 3502,
+      "confidence": 0.089,
+      "ambiguous": true,
+      "alternatives": [
+        "Claystone",
+        "Shale",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 17382.59,
+      "bottom_depth": 17399.6,
+      "lithology": "Silty",
+      "cluster_id": 8,
+      "top_y": 3502,
+      "bottom_y": 3536,
+      "confidence": 0.006,
+      "ambiguous": true,
+      "alternatives": [
+        "Siliceous",
+        "Kaolinite",
+        "Argillaceous"
+      ]
+    },
+    {
+      "top_depth": 17399.6,
+      "bottom_depth": 17418.6,
+      "lithology": "Argillaceous",
+      "cluster_id": 16,
+      "top_y": 3536,
+      "bottom_y": 3574,
+      "confidence": 0.255,
+      "ambiguous": false,
+      "alternatives": [
+        "Claystone",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 17418.6,
+      "bottom_depth": 17427.6,
+      "lithology": "Claystone",
+      "cluster_id": 15,
+      "top_y": 3574,
+      "bottom_y": 3592,
+      "confidence": 0.059,
+      "ambiguous": true,
+      "alternatives": [
+        "Argillaceous",
+        "Siltstone",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 17427.6,
+      "bottom_depth": 17436.11,
+      "lithology": "Silty",
+      "cluster_id": 21,
+      "top_y": 3592,
+      "bottom_y": 3609,
+      "confidence": 0.007,
+      "ambiguous": true,
+      "alternatives": [
+        "Siliceous",
+        "Kaolinite",
+        "Argillaceous"
+      ]
+    },
+    {
+      "top_depth": 17436.11,
+      "bottom_depth": 17446.61,
+      "lithology": "Argillaceous",
+      "cluster_id": 13,
+      "top_y": 3609,
+      "bottom_y": 3630,
+      "confidence": 0.435,
+      "ambiguous": false,
+      "alternatives": [
+        "Claystone",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 17446.61,
+      "bottom_depth": 17455.11,
+      "lithology": "Sandstone",
+      "cluster_id": 22,
+      "top_y": 3630,
+      "bottom_y": 3647,
+      "confidence": 0.069,
+      "ambiguous": true,
+      "alternatives": [
+        "Conglomerate",
+        "Breccia"
+      ]
+    },
+    {
+      "top_depth": 17455.11,
+      "bottom_depth": 17464.11,
+      "lithology": "Breccia",
+      "cluster_id": 19,
+      "top_y": 3647,
+      "bottom_y": 3665,
+      "confidence": 0.009,
+      "ambiguous": true,
+      "alternatives": [
+        "Silty",
+        "Siliceous",
+        "Sandstone"
+      ]
+    },
+    {
+      "top_depth": 17464.11,
+      "bottom_depth": 17466.61,
+      "lithology": "Siltstone",
+      "cluster_id": 34,
+      "top_y": 3665,
+      "bottom_y": 3670,
+      "confidence": 0.6,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 17466.61,
+      "bottom_depth": 17523.63,
+      "lithology": "Argillaceous",
+      "cluster_id": 0,
+      "top_y": 3670,
+      "bottom_y": 3784,
+      "confidence": 0.089,
+      "ambiguous": true,
+      "alternatives": [
+        "Claystone",
+        "Shale",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 17523.63,
+      "bottom_depth": 17528.13,
+      "lithology": "Silty",
+      "cluster_id": 8,
+      "top_y": 3784,
+      "bottom_y": 3793,
+      "confidence": 0.006,
+      "ambiguous": true,
+      "alternatives": [
+        "Siliceous",
+        "Kaolinite",
+        "Argillaceous"
+      ]
+    },
+    {
+      "top_depth": 17528.13,
+      "bottom_depth": 17586.64,
+      "lithology": "Argillaceous",
+      "cluster_id": 0,
+      "top_y": 3793,
+      "bottom_y": 3910,
+      "confidence": 0.089,
+      "ambiguous": true,
+      "alternatives": [
+        "Claystone",
+        "Shale",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 17586.64,
+      "bottom_depth": 17605.64,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 3910,
+      "bottom_y": 3948,
+      "confidence": 0.993,
+      "ambiguous": false,
+      "alternatives": [
+        "Conglomerate"
+      ]
+    },
+    {
+      "top_depth": 17605.64,
+      "bottom_depth": 18134.59,
+      "lithology": "Argillaceous",
+      "cluster_id": 0,
+      "top_y": 3948,
+      "bottom_y": 5006,
+      "confidence": 0.089,
+      "ambiguous": true,
+      "alternatives": [
+        "Claystone",
+        "Shale",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 18134.59,
+      "bottom_depth": 18143.1,
+      "lithology": "Silty",
+      "cluster_id": 21,
+      "top_y": 5006,
+      "bottom_y": 5023,
+      "confidence": 0.007,
+      "ambiguous": true,
+      "alternatives": [
+        "Siliceous",
+        "Kaolinite",
+        "Argillaceous"
+      ]
+    },
+    {
+      "top_depth": 18143.1,
+      "bottom_depth": 18164.6,
+      "lithology": "Argillaceous",
+      "cluster_id": 0,
+      "top_y": 5023,
+      "bottom_y": 5066,
+      "confidence": 0.089,
+      "ambiguous": true,
+      "alternatives": [
+        "Claystone",
+        "Shale",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 18164.6,
+      "bottom_depth": 18171.6,
+      "lithology": "Siltstone",
+      "cluster_id": 9,
+      "top_y": 5066,
+      "bottom_y": 5080,
+      "confidence": 0.634,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 18171.6,
+      "bottom_depth": 18183.61,
+      "lithology": "Argillaceous",
+      "cluster_id": 0,
+      "top_y": 5080,
+      "bottom_y": 5104,
+      "confidence": 0.089,
+      "ambiguous": true,
+      "alternatives": [
+        "Claystone",
+        "Shale",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 18183.61,
+      "bottom_depth": 18188.11,
+      "lithology": "Silty",
+      "cluster_id": 8,
+      "top_y": 5104,
+      "bottom_y": 5113,
+      "confidence": 0.006,
+      "ambiguous": true,
+      "alternatives": [
+        "Siliceous",
+        "Kaolinite",
+        "Argillaceous"
+      ]
+    },
+    {
+      "top_depth": 18188.11,
+      "bottom_depth": 18204.11,
+      "lithology": "Argillaceous",
+      "cluster_id": 0,
+      "top_y": 5113,
+      "bottom_y": 5145,
+      "confidence": 0.089,
+      "ambiguous": true,
+      "alternatives": [
+        "Claystone",
+        "Shale",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 18204.11,
+      "bottom_depth": 18212.61,
+      "lithology": "Claystone",
+      "cluster_id": 15,
+      "top_y": 5145,
+      "bottom_y": 5162,
+      "confidence": 0.059,
+      "ambiguous": true,
+      "alternatives": [
+        "Argillaceous",
+        "Siltstone",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 18212.61,
+      "bottom_depth": 18228.62,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 5162,
+      "bottom_y": 5194,
+      "confidence": 0.993,
+      "ambiguous": false,
+      "alternatives": [
+        "Conglomerate"
+      ]
+    },
+    {
+      "top_depth": 18228.62,
+      "bottom_depth": 18230.62,
+      "lithology": "Siltstone",
+      "cluster_id": 35,
+      "top_y": 5194,
+      "bottom_y": 5198,
+      "confidence": 0.587,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 18230.62,
+      "bottom_depth": 18301.63,
+      "lithology": "Argillaceous",
+      "cluster_id": 0,
+      "top_y": 5198,
+      "bottom_y": 5340,
+      "confidence": 0.089,
+      "ambiguous": true,
+      "alternatives": [
+        "Claystone",
+        "Shale",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 18301.63,
+      "bottom_depth": 18309.63,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 5340,
+      "bottom_y": 5356,
+      "confidence": 0.993,
+      "ambiguous": false,
+      "alternatives": [
+        "Conglomerate"
+      ]
+    },
+    {
+      "top_depth": 18309.63,
+      "bottom_depth": 18328.64,
+      "lithology": "Calcareous",
+      "cluster_id": 4,
+      "top_y": 5356,
+      "bottom_y": 5394,
+      "confidence": 0.031,
+      "ambiguous": true,
+      "alternatives": [
+        "Marl",
+        "Argillaceous",
+        "Salt"
+      ]
+    },
+    {
+      "top_depth": 18328.64,
+      "bottom_depth": 18333.64,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 5394,
+      "bottom_y": 5404,
+      "confidence": 0.993,
+      "ambiguous": false,
+      "alternatives": [
+        "Conglomerate"
+      ]
+    },
+    {
+      "top_depth": 18333.64,
+      "bottom_depth": 18343.14,
+      "lithology": "Breccia",
+      "cluster_id": 17,
+      "top_y": 5404,
+      "bottom_y": 5423,
+      "confidence": 0.027,
+      "ambiguous": true,
+      "alternatives": [
+        "Sandstone",
+        "Silty",
+        "Siliceous"
+      ]
+    },
+    {
+      "top_depth": 18343.14,
+      "bottom_depth": 18360.15,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 5423,
+      "bottom_y": 5457,
+      "confidence": 0.993,
+      "ambiguous": false,
+      "alternatives": [
+        "Conglomerate"
+      ]
+    },
+    {
+      "top_depth": 18360.15,
+      "bottom_depth": 18366.65,
+      "lithology": "Argillaceous",
+      "cluster_id": 11,
+      "top_y": 5457,
+      "bottom_y": 5470,
+      "confidence": 0.311,
+      "ambiguous": false,
+      "alternatives": [
+        "Claystone",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 18366.65,
+      "bottom_depth": 18371.65,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 5470,
+      "bottom_y": 5480,
+      "confidence": 0.993,
+      "ambiguous": false,
+      "alternatives": [
+        "Conglomerate"
+      ]
+    },
+    {
+      "top_depth": 18371.65,
+      "bottom_depth": 18376.15,
+      "lithology": "Breccia",
+      "cluster_id": 17,
+      "top_y": 5480,
+      "bottom_y": 5489,
+      "confidence": 0.027,
+      "ambiguous": true,
+      "alternatives": [
+        "Sandstone",
+        "Silty",
+        "Siliceous"
+      ]
+    },
+    {
+      "top_depth": 18376.15,
+      "bottom_depth": 18394.65,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 5489,
+      "bottom_y": 5526,
+      "confidence": 0.993,
+      "ambiguous": false,
+      "alternatives": [
+        "Conglomerate"
+      ]
+    },
+    {
+      "top_depth": 18394.65,
+      "bottom_depth": 18397.15,
+      "lithology": "Carbonaceous",
+      "cluster_id": 36,
+      "top_y": 5526,
+      "bottom_y": 5531,
+      "confidence": 0.8,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 18397.15,
+      "bottom_depth": 18404.16,
+      "lithology": "Argillaceous",
+      "cluster_id": 11,
+      "top_y": 5531,
+      "bottom_y": 5545,
+      "confidence": 0.311,
+      "ambiguous": false,
+      "alternatives": [
+        "Claystone",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 18404.16,
+      "bottom_depth": 18421.16,
+      "lithology": "Sandstone",
+      "cluster_id": 7,
+      "top_y": 5545,
+      "bottom_y": 5579,
+      "confidence": 0.137,
+      "ambiguous": true,
+      "alternatives": [
+        "Conglomerate",
+        "Breccia"
+      ]
+    },
+    {
+      "top_depth": 18421.16,
+      "bottom_depth": 18432.66,
+      "lithology": "Argillaceous",
+      "cluster_id": 0,
+      "top_y": 5579,
+      "bottom_y": 5602,
+      "confidence": 0.089,
+      "ambiguous": true,
+      "alternatives": [
+        "Claystone",
+        "Shale",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 18432.66,
+      "bottom_depth": 18440.66,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 5602,
+      "bottom_y": 5618,
+      "confidence": 0.993,
+      "ambiguous": false,
+      "alternatives": [
+        "Conglomerate"
+      ]
+    },
+    {
+      "top_depth": 18440.66,
+      "bottom_depth": 18448.67,
+      "lithology": "Shale",
+      "cluster_id": 5,
+      "top_y": 5618,
+      "bottom_y": 5634,
+      "confidence": 0.042,
+      "ambiguous": true,
+      "alternatives": [
+        "Dolomitic",
+        "Claystone",
+        "Argillaceous"
+      ]
+    },
+    {
+      "top_depth": 18448.67,
+      "bottom_depth": 18464.17,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 5634,
+      "bottom_y": 5665,
+      "confidence": 0.993,
+      "ambiguous": false,
+      "alternatives": [
+        "Conglomerate"
+      ]
+    },
+    {
+      "top_depth": 18464.17,
+      "bottom_depth": 18541.69,
+      "lithology": "Argillaceous",
+      "cluster_id": 0,
+      "top_y": 5665,
+      "bottom_y": 5820,
+      "confidence": 0.089,
+      "ambiguous": true,
+      "alternatives": [
+        "Claystone",
+        "Shale",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 18541.69,
+      "bottom_depth": 18552.19,
+      "lithology": "Sandstone",
+      "cluster_id": 7,
+      "top_y": 5820,
+      "bottom_y": 5841,
+      "confidence": 0.137,
+      "ambiguous": true,
+      "alternatives": [
+        "Conglomerate",
+        "Breccia"
+      ]
+    },
+    {
+      "top_depth": 18552.19,
+      "bottom_depth": 18588.7,
+      "lithology": "Argillaceous",
+      "cluster_id": 0,
+      "top_y": 5841,
+      "bottom_y": 5914,
+      "confidence": 0.089,
+      "ambiguous": true,
+      "alternatives": [
+        "Claystone",
+        "Shale",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 18588.7,
+      "bottom_depth": 18594.2,
+      "lithology": "Sandstone",
+      "cluster_id": 28,
+      "top_y": 5914,
+      "bottom_y": 5925,
+      "confidence": 0.086,
+      "ambiguous": true,
+      "alternatives": [
+        "Conglomerate",
+        "Silty",
+        "Sand"
+      ]
+    },
+    {
+      "top_depth": 18594.2,
+      "bottom_depth": 18711.72,
+      "lithology": "Argillaceous",
+      "cluster_id": 0,
+      "top_y": 5925,
+      "bottom_y": 6160,
+      "confidence": 0.089,
+      "ambiguous": true,
+      "alternatives": [
+        "Claystone",
+        "Shale",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 18711.72,
+      "bottom_depth": 18716.23,
+      "lithology": "Breccia",
+      "cluster_id": 17,
+      "top_y": 6160,
+      "bottom_y": 6169,
+      "confidence": 0.027,
+      "ambiguous": true,
+      "alternatives": [
+        "Sandstone",
+        "Silty",
+        "Siliceous"
+      ]
+    },
+    {
+      "top_depth": 18716.23,
+      "bottom_depth": 19192.53,
+      "lithology": "Argillaceous",
+      "cluster_id": 0,
+      "top_y": 6169,
+      "bottom_y": 7122,
+      "confidence": 0.089,
+      "ambiguous": true,
+      "alternatives": [
+        "Claystone",
+        "Shale",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 19192.53,
+      "bottom_depth": 19243.06,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 7122,
+      "bottom_y": 7223,
+      "confidence": 0.993,
+      "ambiguous": false,
+      "alternatives": [
+        "Conglomerate"
+      ]
+    },
+    {
+      "top_depth": 19243.06,
+      "bottom_depth": 19252.07,
+      "lithology": "Shale",
+      "cluster_id": 5,
+      "top_y": 7223,
+      "bottom_y": 7241,
+      "confidence": 0.042,
+      "ambiguous": true,
+      "alternatives": [
+        "Dolomitic",
+        "Claystone",
+        "Argillaceous"
+      ]
+    },
+    {
+      "top_depth": 19252.07,
+      "bottom_depth": 19262.07,
+      "lithology": "Sandstone",
+      "cluster_id": 7,
+      "top_y": 7241,
+      "bottom_y": 7261,
+      "confidence": 0.137,
+      "ambiguous": true,
+      "alternatives": [
+        "Conglomerate",
+        "Breccia"
+      ]
+    },
+    {
+      "top_depth": 19262.07,
+      "bottom_depth": 19354.59,
+      "lithology": "Argillaceous",
+      "cluster_id": 0,
+      "top_y": 7261,
+      "bottom_y": 7446,
+      "confidence": 0.089,
+      "ambiguous": true,
+      "alternatives": [
+        "Claystone",
+        "Shale",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 19354.59,
+      "bottom_depth": 19377.59,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 7446,
+      "bottom_y": 7492,
+      "confidence": 0.993,
+      "ambiguous": false,
+      "alternatives": [
+        "Conglomerate"
+      ]
+    },
+    {
+      "top_depth": 19377.59,
+      "bottom_depth": 19490.12,
+      "lithology": "Argillaceous",
+      "cluster_id": 0,
+      "top_y": 7492,
+      "bottom_y": 7717,
+      "confidence": 0.089,
+      "ambiguous": true,
+      "alternatives": [
+        "Claystone",
+        "Shale",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 19490.12,
+      "bottom_depth": 19497.62,
+      "lithology": "Claystone",
+      "cluster_id": 15,
+      "top_y": 7717,
+      "bottom_y": 7732,
+      "confidence": 0.059,
+      "ambiguous": true,
+      "alternatives": [
+        "Argillaceous",
+        "Siltstone",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 19497.62,
+      "bottom_depth": 19532.63,
+      "lithology": "Argillaceous",
+      "cluster_id": 0,
+      "top_y": 7732,
+      "bottom_y": 7802,
+      "confidence": 0.089,
+      "ambiguous": true,
+      "alternatives": [
+        "Claystone",
+        "Shale",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 19532.63,
+      "bottom_depth": 19537.13,
+      "lithology": "Silty",
+      "cluster_id": 8,
+      "top_y": 7802,
+      "bottom_y": 7811,
+      "confidence": 0.006,
+      "ambiguous": true,
+      "alternatives": [
+        "Siliceous",
+        "Kaolinite",
+        "Argillaceous"
+      ]
+    },
+    {
+      "top_depth": 19537.13,
+      "bottom_depth": 19583.14,
+      "lithology": "Argillaceous",
+      "cluster_id": 0,
+      "top_y": 7811,
+      "bottom_y": 7903,
+      "confidence": 0.089,
+      "ambiguous": true,
+      "alternatives": [
+        "Claystone",
+        "Shale",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 19583.14,
+      "bottom_depth": 19594.64,
+      "lithology": "Siltstone",
+      "cluster_id": 9,
+      "top_y": 7903,
+      "bottom_y": 7926,
+      "confidence": 0.634,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 19594.64,
+      "bottom_depth": 19602.14,
+      "lithology": "Sandstone",
+      "cluster_id": 7,
+      "top_y": 7926,
+      "bottom_y": 7941,
+      "confidence": 0.137,
+      "ambiguous": true,
+      "alternatives": [
+        "Conglomerate",
+        "Breccia"
+      ]
+    },
+    {
+      "top_depth": 19602.14,
+      "bottom_depth": 19610.13,
+      "lithology": "Argillaceous",
+      "cluster_id": 0,
+      "top_y": 7941,
+      "bottom_y": 7957,
+      "confidence": 0.089,
+      "ambiguous": true,
+      "alternatives": [
+        "Claystone",
+        "Shale",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 19610.13,
+      "bottom_depth": 19717.03,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 7957,
+      "bottom_y": 8171,
+      "confidence": 0.993,
+      "ambiguous": false,
+      "alternatives": [
+        "Conglomerate"
+      ]
+    },
+    {
+      "top_depth": 19717.03,
+      "bottom_depth": 19720.04,
+      "lithology": "Carbonaceous",
+      "cluster_id": 36,
+      "top_y": 8171,
+      "bottom_y": 8177,
+      "confidence": 0.8,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 19720.04,
+      "bottom_depth": 19731.56,
+      "lithology": "Silty",
+      "cluster_id": 10,
+      "top_y": 8177,
+      "bottom_y": 8200,
+      "confidence": 0.007,
+      "ambiguous": true,
+      "alternatives": [
+        "Siliceous",
+        "Kaolinite",
+        "Argillaceous"
+      ]
+    },
+    {
+      "top_depth": 19731.56,
+      "bottom_depth": 19739.07,
+      "lithology": "Sandstone",
+      "cluster_id": 7,
+      "top_y": 8200,
+      "bottom_y": 8215,
+      "confidence": 0.137,
+      "ambiguous": true,
+      "alternatives": [
+        "Conglomerate",
+        "Breccia"
+      ]
+    },
+    {
+      "top_depth": 19739.07,
+      "bottom_depth": 19778.15,
+      "lithology": "Argillaceous",
+      "cluster_id": 0,
+      "top_y": 8215,
+      "bottom_y": 8293,
+      "confidence": 0.089,
+      "ambiguous": true,
+      "alternatives": [
+        "Claystone",
+        "Shale",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 19778.15,
+      "bottom_depth": 19894.55,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 8293,
+      "bottom_y": 8526,
+      "confidence": 0.993,
+      "ambiguous": false,
+      "alternatives": [
+        "Conglomerate"
+      ]
+    },
+    {
+      "top_depth": 19894.55,
+      "bottom_depth": 19911.64,
+      "lithology": "Argillaceous",
+      "cluster_id": 0,
+      "top_y": 8526,
+      "bottom_y": 8560,
+      "confidence": 0.089,
+      "ambiguous": true,
+      "alternatives": [
+        "Claystone",
+        "Shale",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 19911.64,
+      "bottom_depth": 19917.19,
+      "lithology": "Sandstone",
+      "cluster_id": 28,
+      "top_y": 8560,
+      "bottom_y": 8571,
+      "confidence": 0.086,
+      "ambiguous": true,
+      "alternatives": [
+        "Conglomerate",
+        "Silty",
+        "Sand"
+      ]
+    },
+    {
+      "top_depth": 19917.19,
+      "bottom_depth": 19934.84,
+      "lithology": "Argillaceous",
+      "cluster_id": 0,
+      "top_y": 8571,
+      "bottom_y": 8606,
+      "confidence": 0.089,
+      "ambiguous": true,
+      "alternatives": [
+        "Claystone",
+        "Shale",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 19934.84,
+      "bottom_depth": 19955.02,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 8606,
+      "bottom_y": 8646,
+      "confidence": 0.993,
+      "ambiguous": false,
+      "alternatives": [
+        "Conglomerate"
+      ]
+    },
+    {
+      "top_depth": 19955.02,
+      "bottom_depth": 19973.68,
+      "lithology": "Argillaceous",
+      "cluster_id": 0,
+      "top_y": 8646,
+      "bottom_y": 8683,
+      "confidence": 0.089,
+      "ambiguous": true,
+      "alternatives": [
+        "Claystone",
+        "Shale",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 19973.68,
+      "bottom_depth": 19991.84,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 8683,
+      "bottom_y": 8719,
+      "confidence": 0.993,
+      "ambiguous": false,
+      "alternatives": [
+        "Conglomerate"
+      ]
+    },
+    {
+      "top_depth": 19991.84,
+      "bottom_depth": 19999.91,
+      "lithology": "Argillaceous",
+      "cluster_id": 0,
+      "top_y": 8719,
+      "bottom_y": 8735,
+      "confidence": 0.089,
+      "ambiguous": true,
+      "alternatives": [
+        "Claystone",
+        "Shale",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 19999.91,
+      "bottom_depth": 20006.41,
+      "lithology": "Sandstone",
+      "cluster_id": 7,
+      "top_y": 8735,
+      "bottom_y": 8748,
+      "confidence": 0.137,
+      "ambiguous": true,
+      "alternatives": [
+        "Conglomerate",
+        "Breccia"
+      ]
+    },
+    {
+      "top_depth": 20006.41,
+      "bottom_depth": 20114.91,
+      "lithology": "Argillaceous",
+      "cluster_id": 0,
+      "top_y": 8748,
+      "bottom_y": 8965,
+      "confidence": 0.089,
+      "ambiguous": true,
+      "alternatives": [
+        "Claystone",
+        "Shale",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 20114.91,
+      "bottom_depth": 20188.3,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 8965,
+      "bottom_y": 9112,
+      "confidence": 0.993,
+      "ambiguous": false,
+      "alternatives": [
+        "Conglomerate"
+      ]
+    },
+    {
+      "top_depth": 20188.3,
+      "bottom_depth": 20191.8,
+      "lithology": "Silty",
+      "cluster_id": 23,
+      "top_y": 9112,
+      "bottom_y": 9119,
+      "confidence": 0.007,
+      "ambiguous": true,
+      "alternatives": [
+        "Siliceous",
+        "Kaolinite",
+        "Argillaceous"
+      ]
+    },
+    {
+      "top_depth": 20191.8,
+      "bottom_depth": 20202.79,
+      "lithology": "Sandstone",
+      "cluster_id": 12,
+      "top_y": 9119,
+      "bottom_y": 9141,
+      "confidence": 0.081,
+      "ambiguous": true,
+      "alternatives": [
+        "Conglomerate",
+        "Silty",
+        "Sand"
+      ]
+    },
+    {
+      "top_depth": 20202.79,
+      "bottom_depth": 20556.44,
+      "lithology": "Argillaceous",
+      "cluster_id": 0,
+      "top_y": 9141,
+      "bottom_y": 9848,
+      "confidence": 0.089,
+      "ambiguous": true,
+      "alternatives": [
+        "Claystone",
+        "Shale",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 20556.44,
+      "bottom_depth": 20564.93,
+      "lithology": "Silty",
+      "cluster_id": 23,
+      "top_y": 9848,
+      "bottom_y": 9865,
+      "confidence": 0.007,
+      "ambiguous": true,
+      "alternatives": [
+        "Siliceous",
+        "Kaolinite",
+        "Argillaceous"
+      ]
+    },
+    {
+      "top_depth": 20564.93,
+      "bottom_depth": 20672.39,
+      "lithology": "Argillaceous",
+      "cluster_id": 0,
+      "top_y": 9865,
+      "bottom_y": 10080,
+      "confidence": 0.089,
+      "ambiguous": true,
+      "alternatives": [
+        "Claystone",
+        "Shale",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 20672.39,
+      "bottom_depth": 20681.39,
+      "lithology": "Shale",
+      "cluster_id": 20,
+      "top_y": 10080,
+      "bottom_y": 10098,
+      "confidence": 0.172,
+      "ambiguous": false,
+      "alternatives": [
+        "Dolomitic",
+        "Claystone",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 20681.39,
+      "bottom_depth": 20696.9,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 10098,
+      "bottom_y": 10129,
+      "confidence": 0.993,
+      "ambiguous": false,
+      "alternatives": [
+        "Conglomerate"
+      ]
+    },
+    {
+      "top_depth": 20696.9,
+      "bottom_depth": 20784.42,
+      "lithology": "Argillaceous",
+      "cluster_id": 0,
+      "top_y": 10129,
+      "bottom_y": 10304,
+      "confidence": 0.089,
+      "ambiguous": true,
+      "alternatives": [
+        "Claystone",
+        "Shale",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 20784.42,
+      "bottom_depth": 20792.42,
+      "lithology": "Claystone",
+      "cluster_id": 24,
+      "top_y": 10304,
+      "bottom_y": 10320,
+      "confidence": 0.045,
+      "ambiguous": true,
+      "alternatives": [
+        "Argillaceous",
+        "Shale",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 20792.42,
+      "bottom_depth": 20798.42,
+      "lithology": "Argillaceous",
+      "cluster_id": 29,
+      "top_y": 10320,
+      "bottom_y": 10332,
+      "confidence": 0.022,
+      "ambiguous": true,
+      "alternatives": [
+        "Claystone",
+        "Calcareous",
+        "Siltstone"
+      ]
+    },
+    {
+      "top_depth": 20798.42,
+      "bottom_depth": 20806.42,
+      "lithology": "Siltstone",
+      "cluster_id": 25,
+      "top_y": 10332,
+      "bottom_y": 10348,
+      "confidence": 0.194,
+      "ambiguous": false,
+      "alternatives": [
+        "Silty",
+        "Siliceous",
+        "Kaolinite"
+      ]
+    },
+    {
+      "top_depth": 20806.42,
+      "bottom_depth": 20828.43,
+      "lithology": "Silty",
+      "cluster_id": 6,
+      "top_y": 10348,
+      "bottom_y": 10392,
+      "confidence": 0.005,
+      "ambiguous": true,
+      "alternatives": [
+        "Siliceous",
+        "Kaolinite",
+        "Argillaceous"
+      ]
+    },
+    {
+      "top_depth": 20828.43,
+      "bottom_depth": 20841.43,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 10392,
+      "bottom_y": 10418,
+      "confidence": 0.993,
+      "ambiguous": false,
+      "alternatives": [
+        "Conglomerate"
+      ]
+    },
+    {
+      "top_depth": 20841.43,
+      "bottom_depth": 20843.43,
+      "lithology": "Siltstone",
+      "cluster_id": 35,
+      "top_y": 10418,
+      "bottom_y": 10422,
+      "confidence": 0.587,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 20843.43,
+      "bottom_depth": 20927.45,
+      "lithology": "Argillaceous",
+      "cluster_id": 0,
+      "top_y": 10422,
+      "bottom_y": 10590,
+      "confidence": 0.089,
+      "ambiguous": true,
+      "alternatives": [
+        "Claystone",
+        "Shale",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 20927.45,
+      "bottom_depth": 20937.45,
+      "lithology": "Claystone",
+      "cluster_id": 15,
+      "top_y": 10590,
+      "bottom_y": 10610,
+      "confidence": 0.059,
+      "ambiguous": true,
+      "alternatives": [
+        "Argillaceous",
+        "Siltstone",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 20937.45,
+      "bottom_depth": 20944.95,
+      "lithology": "Sandstone",
+      "cluster_id": 27,
+      "top_y": 10610,
+      "bottom_y": 10625,
+      "confidence": 0.031,
+      "ambiguous": true,
+      "alternatives": [
+        "Conglomerate",
+        "Silty",
+        "Sand"
+      ]
+    },
+    {
+      "top_depth": 20944.95,
+      "bottom_depth": 20952.96,
+      "lithology": "Argillaceous",
+      "cluster_id": 11,
+      "top_y": 10625,
+      "bottom_y": 10641,
+      "confidence": 0.311,
+      "ambiguous": false,
+      "alternatives": [
+        "Claystone",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 20952.96,
+      "bottom_depth": 20960.96,
+      "lithology": "Sandstone",
+      "cluster_id": 7,
+      "top_y": 10641,
+      "bottom_y": 10657,
+      "confidence": 0.137,
+      "ambiguous": true,
+      "alternatives": [
+        "Conglomerate",
+        "Breccia"
+      ]
+    },
+    {
+      "top_depth": 20960.96,
+      "bottom_depth": 20968.96,
+      "lithology": "Argillaceous",
+      "cluster_id": 0,
+      "top_y": 10657,
+      "bottom_y": 10673,
+      "confidence": 0.089,
+      "ambiguous": true,
+      "alternatives": [
+        "Claystone",
+        "Shale",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 20968.96,
+      "bottom_depth": 20977.46,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 10673,
+      "bottom_y": 10690,
+      "confidence": 0.993,
+      "ambiguous": false,
+      "alternatives": [
+        "Conglomerate"
+      ]
+    },
+    {
+      "top_depth": 20977.46,
+      "bottom_depth": 20986.46,
+      "lithology": "Breccia",
+      "cluster_id": 17,
+      "top_y": 10690,
+      "bottom_y": 10708,
+      "confidence": 0.027,
+      "ambiguous": true,
+      "alternatives": [
+        "Sandstone",
+        "Silty",
+        "Siliceous"
+      ]
+    },
+    {
+      "top_depth": 20986.46,
+      "bottom_depth": 21005.42,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 10708,
+      "bottom_y": 10746,
+      "confidence": 0.993,
+      "ambiguous": false,
+      "alternatives": [
+        "Conglomerate"
+      ]
+    },
+    {
+      "top_depth": 21005.42,
+      "bottom_depth": 21102.6,
+      "lithology": "Argillaceous",
+      "cluster_id": 0,
+      "top_y": 10746,
+      "bottom_y": 10942,
+      "confidence": 0.089,
+      "ambiguous": true,
+      "alternatives": [
+        "Claystone",
+        "Shale",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 21102.6,
+      "bottom_depth": 21113.17,
+      "lithology": "Sandstone",
+      "cluster_id": 7,
+      "top_y": 10942,
+      "bottom_y": 10963,
+      "confidence": 0.137,
+      "ambiguous": true,
+      "alternatives": [
+        "Conglomerate",
+        "Breccia"
+      ]
+    },
+    {
+      "top_depth": 21113.17,
+      "bottom_depth": 21115.69,
+      "lithology": "Argillaceous",
+      "cluster_id": 32,
+      "top_y": 10963,
+      "bottom_y": 10968,
+      "confidence": 0.026,
+      "ambiguous": true,
+      "alternatives": [
+        "Claystone",
+        "Shale",
+        "Salt"
+      ]
+    },
+    {
+      "top_depth": 21115.69,
+      "bottom_depth": 21133.8,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 10968,
+      "bottom_y": 11004,
+      "confidence": 0.993,
+      "ambiguous": false,
+      "alternatives": [
+        "Conglomerate"
+      ]
+    },
+    {
+      "top_depth": 21133.8,
+      "bottom_depth": 21461.79,
+      "lithology": "Argillaceous",
+      "cluster_id": 0,
+      "top_y": 11004,
+      "bottom_y": 11659,
+      "confidence": 0.089,
+      "ambiguous": true,
+      "alternatives": [
+        "Claystone",
+        "Shale",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 21461.79,
+      "bottom_depth": 21483.29,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 11659,
+      "bottom_y": 11702,
+      "confidence": 0.993,
+      "ambiguous": false,
+      "alternatives": [
+        "Conglomerate"
+      ]
+    },
+    {
+      "top_depth": 21483.29,
+      "bottom_depth": 21496.3,
+      "lithology": "Argillaceous",
+      "cluster_id": 0,
+      "top_y": 11702,
+      "bottom_y": 11728,
+      "confidence": 0.089,
+      "ambiguous": true,
+      "alternatives": [
+        "Claystone",
+        "Shale",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 21496.3,
+      "bottom_depth": 21509.3,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 11728,
+      "bottom_y": 11754,
+      "confidence": 0.993,
+      "ambiguous": false,
+      "alternatives": [
+        "Conglomerate"
+      ]
+    },
+    {
+      "top_depth": 21509.3,
+      "bottom_depth": 21522.3,
+      "lithology": "Argillaceous",
+      "cluster_id": 0,
+      "top_y": 11754,
+      "bottom_y": 11780,
+      "confidence": 0.089,
+      "ambiguous": true,
+      "alternatives": [
+        "Claystone",
+        "Shale",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 21522.3,
+      "bottom_depth": 21532.8,
+      "lithology": "Sandstone",
+      "cluster_id": 7,
+      "top_y": 11780,
+      "bottom_y": 11801,
+      "confidence": 0.137,
+      "ambiguous": true,
+      "alternatives": [
+        "Conglomerate",
+        "Breccia"
+      ]
+    },
+    {
+      "top_depth": 21532.8,
+      "bottom_depth": 21539.31,
+      "lithology": "Argillaceous",
+      "cluster_id": 0,
+      "top_y": 11801,
+      "bottom_y": 11814,
+      "confidence": 0.089,
+      "ambiguous": true,
+      "alternatives": [
+        "Claystone",
+        "Shale",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 21539.31,
+      "bottom_depth": 21545.81,
+      "lithology": "Sandstone",
+      "cluster_id": 7,
+      "top_y": 11814,
+      "bottom_y": 11827,
+      "confidence": 0.137,
+      "ambiguous": true,
+      "alternatives": [
+        "Conglomerate",
+        "Breccia"
+      ]
+    },
+    {
+      "top_depth": 21545.81,
+      "bottom_depth": 21578.32,
+      "lithology": "Argillaceous",
+      "cluster_id": 0,
+      "top_y": 11827,
+      "bottom_y": 11892,
+      "confidence": 0.089,
+      "ambiguous": true,
+      "alternatives": [
+        "Claystone",
+        "Shale",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 21578.32,
+      "bottom_depth": 21594.82,
+      "lithology": "Shale",
+      "cluster_id": 5,
+      "top_y": 11892,
+      "bottom_y": 11925,
+      "confidence": 0.042,
+      "ambiguous": true,
+      "alternatives": [
+        "Dolomitic",
+        "Claystone",
+        "Argillaceous"
+      ]
+    },
+    {
+      "top_depth": 21594.82,
+      "bottom_depth": 21602.82,
+      "lithology": "Argillaceous",
+      "cluster_id": 0,
+      "top_y": 11925,
+      "bottom_y": 11941,
+      "confidence": 0.089,
+      "ambiguous": true,
+      "alternatives": [
+        "Claystone",
+        "Shale",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 21602.82,
+      "bottom_depth": 21610.82,
+      "lithology": "Sandstone",
+      "cluster_id": 7,
+      "top_y": 11941,
+      "bottom_y": 11957,
+      "confidence": 0.137,
+      "ambiguous": true,
+      "alternatives": [
+        "Conglomerate",
+        "Breccia"
+      ]
+    },
+    {
+      "top_depth": 21610.82,
+      "bottom_depth": 21810.87,
+      "lithology": "Argillaceous",
+      "cluster_id": 0,
+      "top_y": 11957,
+      "bottom_y": 12357,
+      "confidence": 0.089,
+      "ambiguous": true,
+      "alternatives": [
+        "Claystone",
+        "Shale",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 21810.87,
+      "bottom_depth": 21819.37,
+      "lithology": "Sandstone",
+      "cluster_id": 7,
+      "top_y": 12357,
+      "bottom_y": 12374,
+      "confidence": 0.137,
+      "ambiguous": true,
+      "alternatives": [
+        "Conglomerate",
+        "Breccia"
+      ]
+    },
+    {
+      "top_depth": 21819.37,
+      "bottom_depth": 21867.88,
+      "lithology": "Argillaceous",
+      "cluster_id": 0,
+      "top_y": 12374,
+      "bottom_y": 12471,
+      "confidence": 0.089,
+      "ambiguous": true,
+      "alternatives": [
+        "Claystone",
+        "Shale",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 21867.88,
+      "bottom_depth": 21880.38,
+      "lithology": "Sandstone",
+      "cluster_id": 7,
+      "top_y": 12471,
+      "bottom_y": 12496,
+      "confidence": 0.137,
+      "ambiguous": true,
+      "alternatives": [
+        "Conglomerate",
+        "Breccia"
+      ]
+    },
+    {
+      "top_depth": 21880.38,
+      "bottom_depth": 21901.89,
+      "lithology": "Argillaceous",
+      "cluster_id": 0,
+      "top_y": 12496,
+      "bottom_y": 12539,
+      "confidence": 0.089,
+      "ambiguous": true,
+      "alternatives": [
+        "Claystone",
+        "Shale",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 21901.89,
+      "bottom_depth": 21947.4,
+      "lithology": "Salt",
+      "cluster_id": 3,
+      "top_y": 12539,
+      "bottom_y": 12630,
+      "confidence": 0.921,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 21947.4,
+      "bottom_depth": 22265.91,
+      "lithology": "Argillaceous",
+      "cluster_id": 0,
+      "top_y": 12630,
+      "bottom_y": 13267,
+      "confidence": 0.089,
+      "ambiguous": true,
+      "alternatives": [
+        "Claystone",
+        "Shale",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 22265.91,
+      "bottom_depth": 22565.93,
+      "lithology": "Claystone",
+      "cluster_id": 1,
+      "top_y": 13267,
+      "bottom_y": 13867,
+      "confidence": 0.782,
+      "ambiguous": false,
+      "alternatives": [
+        "Argillaceous",
+        "Shale",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 22565.93,
+      "bottom_depth": 24269.42,
+      "lithology": "Argillaceous",
+      "cluster_id": 0,
+      "top_y": 13867,
+      "bottom_y": 17274,
+      "confidence": 0.089,
+      "ambiguous": true,
+      "alternatives": [
+        "Claystone",
+        "Shale",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 24269.42,
+      "bottom_depth": 24274.93,
+      "lithology": "Sandstone",
+      "cluster_id": 28,
+      "top_y": 17274,
+      "bottom_y": 17285,
+      "confidence": 0.086,
+      "ambiguous": true,
+      "alternatives": [
+        "Conglomerate",
+        "Silty",
+        "Sand"
+      ]
+    },
+    {
+      "top_depth": 24274.93,
+      "bottom_depth": 24282.94,
+      "lithology": "Argillaceous",
+      "cluster_id": 0,
+      "top_y": 17285,
+      "bottom_y": 17301,
+      "confidence": 0.089,
+      "ambiguous": true,
+      "alternatives": [
+        "Claystone",
+        "Shale",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 24282.94,
+      "bottom_depth": 24292.96,
+      "lithology": "Sandstone",
+      "cluster_id": 7,
+      "top_y": 17301,
+      "bottom_y": 17321,
+      "confidence": 0.137,
+      "ambiguous": true,
+      "alternatives": [
+        "Conglomerate",
+        "Breccia"
+      ]
+    },
+    {
+      "top_depth": 24292.96,
+      "bottom_depth": 24299.98,
+      "lithology": "Argillaceous",
+      "cluster_id": 11,
+      "top_y": 17321,
+      "bottom_y": 17335,
+      "confidence": 0.311,
+      "ambiguous": false,
+      "alternatives": [
+        "Claystone",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 24299.98,
+      "bottom_depth": 24310.96,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 17335,
+      "bottom_y": 17357,
+      "confidence": 0.993,
+      "ambiguous": false,
+      "alternatives": [
+        "Conglomerate"
+      ]
+    },
+    {
+      "top_depth": 24310.96,
+      "bottom_depth": 24311.96,
+      "lithology": "Carbonaceous",
+      "cluster_id": 36,
+      "top_y": 17357,
+      "bottom_y": 17359,
+      "confidence": 0.8,
+      "ambiguous": false,
+      "alternatives": []
+    },
+    {
+      "top_depth": 24311.96,
+      "bottom_depth": 24319.95,
+      "lithology": "Argillaceous",
+      "cluster_id": 11,
+      "top_y": 17359,
+      "bottom_y": 17375,
+      "confidence": 0.311,
+      "ambiguous": false,
+      "alternatives": [
+        "Claystone",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 24319.95,
+      "bottom_depth": 24333.43,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 17375,
+      "bottom_y": 17402,
+      "confidence": 0.993,
+      "ambiguous": false,
+      "alternatives": [
+        "Conglomerate"
+      ]
+    },
+    {
+      "top_depth": 24333.43,
+      "bottom_depth": 24338.92,
+      "lithology": "Shale",
+      "cluster_id": 20,
+      "top_y": 17402,
+      "bottom_y": 17413,
+      "confidence": 0.172,
+      "ambiguous": false,
+      "alternatives": [
+        "Dolomitic",
+        "Claystone",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 24338.92,
+      "bottom_depth": 24346.91,
+      "lithology": "Sandstone",
+      "cluster_id": 7,
+      "top_y": 17413,
+      "bottom_y": 17429,
+      "confidence": 0.137,
+      "ambiguous": true,
+      "alternatives": [
+        "Conglomerate",
+        "Breccia"
+      ]
+    },
+    {
+      "top_depth": 24346.91,
+      "bottom_depth": 24364.88,
+      "lithology": "Argillaceous",
+      "cluster_id": 0,
+      "top_y": 17429,
+      "bottom_y": 17465,
+      "confidence": 0.089,
+      "ambiguous": true,
+      "alternatives": [
+        "Claystone",
+        "Shale",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 24364.88,
+      "bottom_depth": 24380.36,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 17465,
+      "bottom_y": 17496,
+      "confidence": 0.993,
+      "ambiguous": false,
+      "alternatives": [
+        "Conglomerate"
+      ]
+    },
+    {
+      "top_depth": 24380.36,
+      "bottom_depth": 24607.88,
+      "lithology": "Argillaceous",
+      "cluster_id": 0,
+      "top_y": 17496,
+      "bottom_y": 17951,
+      "confidence": 0.089,
+      "ambiguous": true,
+      "alternatives": [
+        "Claystone",
+        "Shale",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 24607.88,
+      "bottom_depth": 24615.88,
+      "lithology": "Sandstone",
+      "cluster_id": 7,
+      "top_y": 17951,
+      "bottom_y": 17967,
+      "confidence": 0.137,
+      "ambiguous": true,
+      "alternatives": [
+        "Conglomerate",
+        "Breccia"
+      ]
+    },
+    {
+      "top_depth": 24615.88,
+      "bottom_depth": 24788.92,
+      "lithology": "Argillaceous",
+      "cluster_id": 0,
+      "top_y": 17967,
+      "bottom_y": 18313,
+      "confidence": 0.089,
+      "ambiguous": true,
+      "alternatives": [
+        "Claystone",
+        "Shale",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 24788.92,
+      "bottom_depth": 24801.92,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 18313,
+      "bottom_y": 18339,
+      "confidence": 0.993,
+      "ambiguous": false,
+      "alternatives": [
+        "Conglomerate"
+      ]
+    },
+    {
+      "top_depth": 24801.92,
+      "bottom_depth": 24804.42,
+      "lithology": "Argillaceous",
+      "cluster_id": 32,
+      "top_y": 18339,
+      "bottom_y": 18344,
+      "confidence": 0.026,
+      "ambiguous": true,
+      "alternatives": [
+        "Claystone",
+        "Shale",
+        "Salt"
+      ]
+    },
+    {
+      "top_depth": 24804.42,
+      "bottom_depth": 24812.92,
+      "lithology": "Breccia",
+      "cluster_id": 17,
+      "top_y": 18344,
+      "bottom_y": 18361,
+      "confidence": 0.027,
+      "ambiguous": true,
+      "alternatives": [
+        "Sandstone",
+        "Silty",
+        "Siliceous"
+      ]
+    },
+    {
+      "top_depth": 24812.92,
+      "bottom_depth": 25202.73,
+      "lithology": "Argillaceous",
+      "cluster_id": 0,
+      "top_y": 18361,
+      "bottom_y": 19141,
+      "confidence": 0.089,
+      "ambiguous": true,
+      "alternatives": [
+        "Claystone",
+        "Shale",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 25202.73,
+      "bottom_depth": 25244.74,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 19141,
+      "bottom_y": 19225,
+      "confidence": 0.993,
+      "ambiguous": false,
+      "alternatives": [
+        "Conglomerate"
+      ]
+    },
+    {
+      "top_depth": 25244.74,
+      "bottom_depth": 25249.74,
+      "lithology": "Argillaceous",
+      "cluster_id": 0,
+      "top_y": 19225,
+      "bottom_y": 19235,
+      "confidence": 0.089,
+      "ambiguous": true,
+      "alternatives": [
+        "Claystone",
+        "Shale",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 25249.74,
+      "bottom_depth": 25287.75,
+      "lithology": "Sandstone",
+      "cluster_id": 2,
+      "top_y": 19235,
+      "bottom_y": 19311,
+      "confidence": 0.993,
+      "ambiguous": false,
+      "alternatives": [
+        "Conglomerate"
+      ]
+    },
+    {
+      "top_depth": 25287.75,
+      "bottom_depth": 25379.77,
+      "lithology": "Argillaceous",
+      "cluster_id": 0,
+      "top_y": 19311,
+      "bottom_y": 19495,
+      "confidence": 0.089,
+      "ambiguous": true,
+      "alternatives": [
+        "Claystone",
+        "Shale",
+        "Calcareous"
+      ]
+    },
+    {
+      "top_depth": 25379.77,
+      "bottom_depth": 25389.77,
+      "lithology": "Sandstone",
+      "cluster_id": 12,
+      "top_y": 19495,
+      "bottom_y": 19515,
+      "confidence": 0.081,
+      "ambiguous": true,
+      "alternatives": [
+        "Conglomerate",
+        "Silty",
+        "Sand"
+      ]
+    },
+    {
+      "top_depth": 25389.77,
+      "bottom_depth": 25393.27,
+      "lithology": "Argillaceous",
+      "cluster_id": 32,
+      "top_y": 19515,
+      "bottom_y": 19522,
+      "confidence": 0.026,
+      "ambiguous": true,
+      "alternatives": [
+        "Claystone",
+        "Shale",
+        "Salt"
+      ]
+    },
+    {
+      "top_depth": 25393.27,
+      "bottom_depth": 25398.77,
+      "lithology": "Breccia",
+      "cluster_id": 17,
+      "top_y": 19522,
+      "bottom_y": 19533,
+      "confidence": 0.027,
+      "ambiguous": true,
+      "alternatives": [
+        "Sandstone",
+        "Silty",
+        "Siliceous"
+      ]
+    },
+    {
+      "top_depth": 25398.77,
+      "bottom_depth": 25774.85,
+      "lithology": "Argillaceous",
+      "cluster_id": 0,
+      "top_y": 19533,
+      "bottom_y": 20285,
+      "confidence": 0.089,
+      "ambiguous": true,
+      "alternatives": [
+        "Claystone",
+        "Shale",
+        "Calcareous"
+      ]
+    }
+  ]
+}
